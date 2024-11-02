@@ -1,0 +1,2001 @@
+SUBJID,AE_TERM,AE_START_DATE,AE_END_DATE,AE_SEVERITY,AE_OUTCOME,AE_RELATIONSHIP
+S0936,Nausea,2024-10-30,2024-10-03,Moderate,Recovered,Related
+S0203,Fatigue,2024-03-07,2024-10-13,Severe,Ongoing,Related
+S0777,Nausea,2024-09-03,2024-10-16,Moderate,Recovered,Unrelated
+S0575,Cough,2024-04-18,2024-01-08,Severe,Recovered,Related
+S0754,Headache,2024-02-20,2024-02-25,Moderate,Recovered with Sequelae,Unrelated
+S0229,Fatigue,2024-05-11,2024-03-08,Severe,Ongoing,Unrelated
+S0396,Headache,2024-07-07,2024-01-04,Moderate,Recovered with Sequelae,Unrelated
+S0008,Fatigue,2024-10-11,2024-10-06,Moderate,Recovered with Sequelae,Related
+S0828,Nausea,2024-09-01,2024-03-12,Mild,Recovered with Sequelae,Unrelated
+S0506,Fatigue,2024-08-22,2024-04-10,Severe,Recovered with Sequelae,Unrelated
+S0332,Headache,2024-04-21,2024-03-21,Moderate,Recovered with Sequelae,Unrelated
+S0183,Cough,2024-03-29,2024-05-05,Moderate,Recovered,Unrelated
+S0692,Nausea,2024-08-07,2024-04-07,Moderate,Recovered,Related
+S0887,Nausea,2024-07-02,2024-08-11,Severe,Recovered,Unrelated
+S0991,Fever,2024-10-06,2024-06-20,Severe,Recovered,Related
+S0528,Fatigue,2024-06-05,2024-08-19,Moderate,Recovered,Related
+S0457,Headache,2024-03-25,2024-04-18,Moderate,Recovered with Sequelae,Related
+S0121,Nausea,2024-06-18,2024-06-30,Moderate,Recovered,Unrelated
+S0774,Fever,2024-09-10,2024-03-26,Severe,Ongoing,Related
+S0490,Nausea,2024-01-19,2024-01-08,Severe,Recovered with Sequelae,Related
+S0604,Headache,2024-01-17,2024-07-19,Moderate,Ongoing,Related
+S0063,Fever,2024-10-28,2024-01-24,Moderate,Recovered,Related
+S0711,Headache,2024-03-30,2024-07-02,Mild,Ongoing,Unrelated
+S0950,Headache,2024-03-23,2024-07-17,Mild,Recovered,Unrelated
+S0621,Cough,2024-02-06,2024-09-20,Severe,Ongoing,Unrelated
+S0919,Cough,2024-10-12,2024-06-16,Severe,Recovered,Unrelated
+S0953,Cough,2024-09-16,2024-09-04,Severe,Recovered,Unrelated
+S0988,Headache,2024-03-05,2024-05-17,Moderate,Ongoing,Related
+S0785,Fever,2024-10-05,2024-09-11,Severe,Ongoing,Related
+S0604,Fatigue,2024-07-26,2024-07-14,Severe,Recovered with Sequelae,Related
+S0274,Headache,2024-03-12,2024-04-18,Mild,Recovered,Unrelated
+S0518,Cough,2024-02-03,2024-03-12,Mild,Ongoing,Unrelated
+S0179,Fever,2024-10-14,2024-08-29,Severe,Recovered,Unrelated
+S0924,Cough,2024-07-16,2024-02-05,Mild,Ongoing,Unrelated
+S0712,Fever,2024-06-06,2024-01-27,Mild,Recovered,Unrelated
+S0466,Fever,2024-05-25,2024-01-24,Mild,Recovered,Unrelated
+S0542,Fever,2024-01-03,2024-04-23,Mild,Ongoing,Related
+S0761,Fatigue,2024-08-19,2024-03-24,Moderate,Recovered,Unrelated
+S0028,Nausea,2024-03-02,2024-05-08,Severe,Recovered with Sequelae,Unrelated
+S0164,Headache,2024-05-26,2024-02-22,Mild,Recovered,Related
+S0203,Fever,2024-09-19,2024-07-26,Severe,Ongoing,Related
+S0695,Headache,2024-03-10,2024-06-18,Moderate,Recovered with Sequelae,Related
+S0577,Nausea,2024-02-18,2024-06-07,Severe,Ongoing,Related
+S0465,Nausea,2024-10-07,2024-04-10,Severe,Ongoing,Unrelated
+S0558,Cough,2024-04-10,2024-03-04,Severe,Ongoing,Unrelated
+S0363,Cough,2024-03-21,2024-04-23,Moderate,Recovered,Unrelated
+S0769,Nausea,2024-01-25,2024-07-16,Severe,Recovered with Sequelae,Unrelated
+S0996,Fever,2024-04-02,2024-06-05,Mild,Recovered with Sequelae,Unrelated
+S0638,Fatigue,2024-08-06,2024-01-17,Moderate,Recovered with Sequelae,Related
+S0983,Fever,2024-02-07,2024-07-29,Moderate,Recovered,Related
+S0348,Nausea,2024-06-25,2024-03-12,Severe,Ongoing,Related
+S0318,Nausea,2024-08-13,2024-03-29,Severe,Recovered,Unrelated
+S0808,Fatigue,2024-02-17,2024-04-11,Moderate,Ongoing,Related
+S0504,Cough,2024-09-10,2024-07-09,Mild,Ongoing,Unrelated
+S0992,Fever,2024-06-08,2024-02-02,Severe,Ongoing,Unrelated
+S0392,Nausea,2024-09-04,2024-06-15,Moderate,Recovered with Sequelae,Related
+S0905,Fever,2024-06-09,2024-07-17,Severe,Recovered with Sequelae,Related
+S0865,Fever,2024-03-22,2024-02-02,Severe,Recovered with Sequelae,Related
+S0083,Nausea,2024-10-24,2024-09-27,Severe,Recovered with Sequelae,Unrelated
+S0333,Fever,2024-06-14,2024-06-13,Mild,Recovered,Related
+S0032,Fatigue,2024-10-12,2024-09-26,Mild,Recovered with Sequelae,Unrelated
+S0572,Nausea,2024-02-19,2024-05-27,Mild,Recovered with Sequelae,Unrelated
+S0461,Headache,2024-09-22,2024-02-08,Moderate,Ongoing,Related
+S0638,Headache,2024-06-27,2024-04-30,Mild,Recovered with Sequelae,Related
+S0240,Cough,2024-04-17,2024-09-15,Moderate,Recovered,Unrelated
+S0298,Headache,2024-03-03,2024-04-25,Moderate,Recovered,Unrelated
+S0774,Fatigue,2024-10-02,2024-04-05,Mild,Ongoing,Unrelated
+S0713,Fatigue,2024-05-19,2024-07-12,Moderate,Recovered,Unrelated
+S0163,Fatigue,2024-05-30,2024-03-31,Mild,Recovered with Sequelae,Related
+S0309,Headache,2024-04-29,2024-10-30,Mild,Recovered with Sequelae,Unrelated
+S0831,Cough,2024-10-24,2024-01-24,Mild,Recovered,Related
+S0383,Cough,2024-04-19,2024-07-03,Moderate,Recovered,Related
+S0139,Cough,2024-01-13,2024-10-12,Severe,Recovered,Unrelated
+S0873,Headache,2024-07-13,2024-08-31,Moderate,Recovered with Sequelae,Related
+S0147,Headache,2024-01-02,2024-05-06,Severe,Recovered with Sequelae,Unrelated
+S0052,Cough,2024-01-30,2024-10-15,Severe,Ongoing,Related
+S0488,Cough,2024-10-07,2024-02-24,Mild,Ongoing,Related
+S0690,Nausea,2024-03-21,2024-06-16,Mild,Ongoing,Unrelated
+S0117,Cough,2024-01-31,2024-05-26,Severe,Ongoing,Related
+S0284,Nausea,2024-05-25,2024-08-03,Severe,Recovered with Sequelae,Unrelated
+S0165,Fatigue,2024-03-02,2024-01-15,Mild,Ongoing,Unrelated
+S0224,Cough,2024-03-18,2024-03-15,Moderate,Ongoing,Unrelated
+S0552,Headache,2024-10-09,2024-01-27,Moderate,Ongoing,Related
+S0387,Fatigue,2024-08-16,2024-04-27,Severe,Recovered with Sequelae,Unrelated
+S0374,Nausea,2024-10-16,2024-01-26,Severe,Ongoing,Related
+S0808,Nausea,2024-03-17,2024-10-17,Severe,Recovered with Sequelae,Unrelated
+S0287,Cough,2024-05-06,2024-09-30,Mild,Ongoing,Unrelated
+S0329,Fatigue,2024-01-17,2024-07-22,Mild,Recovered with Sequelae,Unrelated
+S0088,Fatigue,2024-03-20,2024-10-25,Mild,Recovered with Sequelae,Related
+S0172,Nausea,2024-08-07,2024-10-16,Severe,Recovered with Sequelae,Unrelated
+S0194,Nausea,2024-04-16,2024-01-05,Severe,Ongoing,Unrelated
+S0393,Headache,2024-06-21,2024-09-11,Moderate,Recovered with Sequelae,Related
+S0817,Cough,2024-08-18,2024-01-01,Moderate,Recovered with Sequelae,Related
+S0680,Headache,2024-03-17,2024-03-23,Mild,Ongoing,Unrelated
+S0836,Fever,2024-06-22,2024-02-25,Mild,Recovered,Unrelated
+S0449,Fatigue,2024-08-14,2024-06-13,Severe,Ongoing,Unrelated
+S0949,Headache,2024-06-21,2024-04-27,Mild,Recovered with Sequelae,Related
+S0575,Fever,2024-03-20,2024-01-01,Severe,Recovered,Unrelated
+S0391,Headache,2024-02-07,2024-06-15,Severe,Ongoing,Unrelated
+S0848,Headache,2024-06-13,2024-10-02,Mild,Ongoing,Related
+S0167,Fever,2024-10-04,2024-04-12,Severe,Recovered,Unrelated
+S0176,Fever,2024-07-22,2024-02-28,Mild,Recovered with Sequelae,Related
+S0760,Fatigue,2024-10-28,2024-06-13,Severe,Recovered with Sequelae,Related
+S0098,Headache,2024-06-05,2024-09-18,Moderate,Recovered with Sequelae,Unrelated
+S0445,Cough,2024-10-01,2024-08-05,Severe,Recovered with Sequelae,Related
+S0514,Headache,2024-10-12,2024-01-11,Mild,Ongoing,Unrelated
+S0015,Fever,2024-08-16,2024-02-08,Mild,Recovered with Sequelae,Related
+S0526,Nausea,2024-07-12,2024-01-02,Severe,Recovered with Sequelae,Unrelated
+S0196,Nausea,2024-05-23,2024-07-26,Moderate,Recovered,Unrelated
+S0995,Cough,2024-04-15,2024-08-14,Moderate,Recovered with Sequelae,Unrelated
+S0670,Fatigue,2024-03-07,2024-04-20,Severe,Recovered with Sequelae,Related
+S0753,Headache,2024-03-05,2024-05-29,Mild,Ongoing,Unrelated
+S0375,Fever,2024-02-07,2024-04-07,Moderate,Recovered,Related
+S0487,Fever,2024-04-16,2024-10-12,Severe,Recovered with Sequelae,Unrelated
+S0301,Fever,2024-01-27,2024-05-09,Moderate,Recovered,Unrelated
+S0608,Fever,2024-06-21,2024-05-09,Severe,Recovered with Sequelae,Related
+S0353,Fever,2024-01-30,2024-06-04,Mild,Recovered with Sequelae,Unrelated
+S0888,Headache,2024-04-01,2024-09-25,Moderate,Recovered,Related
+S0846,Nausea,2024-01-03,2024-03-06,Moderate,Ongoing,Related
+S0114,Nausea,2024-02-16,2024-04-24,Severe,Recovered with Sequelae,Related
+S0731,Headache,2024-07-01,2024-10-20,Severe,Ongoing,Unrelated
+S0356,Cough,2024-09-29,2024-05-14,Severe,Ongoing,Related
+S0641,Fatigue,2024-01-17,2024-05-13,Moderate,Recovered with Sequelae,Unrelated
+S0455,Fatigue,2024-06-05,2024-06-01,Severe,Recovered,Related
+S0012,Fatigue,2024-07-04,2024-07-29,Mild,Recovered with Sequelae,Related
+S0894,Fever,2024-10-23,2024-08-04,Mild,Recovered,Unrelated
+S0854,Fever,2024-06-24,2024-10-29,Severe,Recovered with Sequelae,Related
+S0396,Cough,2024-06-20,2024-02-09,Moderate,Recovered with Sequelae,Unrelated
+S0487,Fever,2024-04-02,2024-03-25,Mild,Ongoing,Related
+S0067,Cough,2024-01-12,2024-01-04,Mild,Recovered with Sequelae,Unrelated
+S0520,Nausea,2024-01-29,2024-08-29,Mild,Ongoing,Related
+S0413,Fatigue,2024-10-06,2024-04-25,Moderate,Recovered,Related
+S0779,Cough,2024-09-13,2024-07-23,Moderate,Recovered,Related
+S0036,Cough,2024-08-14,2024-09-21,Moderate,Recovered with Sequelae,Related
+S0909,Nausea,2024-02-26,2024-02-28,Mild,Ongoing,Unrelated
+S0737,Fever,2024-07-17,2024-06-19,Mild,Ongoing,Unrelated
+S0461,Fatigue,2024-05-08,2024-07-31,Moderate,Recovered with Sequelae,Related
+S0824,Nausea,2024-08-30,2024-07-04,Severe,Recovered,Unrelated
+S0333,Nausea,2024-10-03,2024-10-07,Moderate,Recovered with Sequelae,Unrelated
+S0272,Cough,2024-06-28,2024-10-17,Moderate,Recovered,Unrelated
+S0497,Cough,2024-08-23,2024-01-07,Moderate,Recovered,Unrelated
+S0990,Nausea,2024-02-26,2024-07-09,Severe,Recovered with Sequelae,Unrelated
+S0331,Cough,2024-02-13,2024-09-14,Mild,Ongoing,Related
+S0045,Nausea,2024-05-22,2024-10-02,Severe,Ongoing,Unrelated
+S0869,Headache,2024-02-13,2024-05-20,Severe,Ongoing,Unrelated
+S0741,Cough,2024-03-25,2024-09-17,Severe,Ongoing,Unrelated
+S0872,Nausea,2024-02-03,2024-09-02,Mild,Recovered,Related
+S0969,Fatigue,2024-06-29,2024-10-24,Moderate,Ongoing,Related
+S0518,Nausea,2024-10-04,2024-09-19,Mild,Ongoing,Related
+S0575,Headache,2024-03-12,2024-03-22,Mild,Recovered with Sequelae,Related
+S0695,Cough,2024-08-29,2024-10-24,Moderate,Ongoing,Unrelated
+S0496,Cough,2024-07-24,2024-07-02,Mild,Recovered,Unrelated
+S0368,Fatigue,2024-06-26,2024-08-07,Moderate,Recovered,Unrelated
+S0813,Headache,2024-02-14,2024-01-24,Moderate,Recovered,Related
+S0748,Fever,2024-09-17,2024-01-03,Moderate,Ongoing,Unrelated
+S0097,Headache,2024-07-04,2024-07-24,Mild,Recovered with Sequelae,Related
+S0664,Headache,2024-07-09,2024-06-16,Moderate,Ongoing,Unrelated
+S0194,Fever,2024-04-04,2024-01-17,Severe,Recovered,Related
+S0749,Nausea,2024-01-29,2024-02-19,Severe,Ongoing,Related
+S0459,Nausea,2024-02-09,2024-07-09,Severe,Recovered with Sequelae,Related
+S0462,Fever,2024-07-24,2024-09-07,Mild,Ongoing,Related
+S0144,Fatigue,2024-06-26,2024-05-20,Severe,Ongoing,Related
+S0460,Cough,2024-07-08,2024-01-06,Moderate,Recovered with Sequelae,Unrelated
+S0556,Headache,2024-08-21,2024-03-17,Mild,Recovered with Sequelae,Unrelated
+S0969,Fatigue,2024-07-13,2024-01-07,Moderate,Recovered,Unrelated
+S0923,Cough,2024-05-25,2024-09-09,Moderate,Recovered with Sequelae,Related
+S0814,Fatigue,2024-07-23,2024-03-02,Severe,Recovered,Unrelated
+S0098,Fatigue,2024-10-25,2024-09-07,Mild,Recovered with Sequelae,Related
+S0263,Nausea,2024-02-15,2024-10-02,Moderate,Recovered,Unrelated
+S0757,Fever,2024-04-28,2024-08-08,Moderate,Recovered with Sequelae,Unrelated
+S0653,Nausea,2024-03-15,2024-06-24,Moderate,Ongoing,Related
+S0737,Headache,2024-10-20,2024-07-31,Moderate,Ongoing,Unrelated
+S0840,Nausea,2024-02-20,2024-04-26,Mild,Ongoing,Unrelated
+S0964,Fatigue,2024-02-19,2024-10-23,Mild,Ongoing,Related
+S0016,Nausea,2024-10-26,2024-05-09,Mild,Ongoing,Unrelated
+S0819,Headache,2024-07-04,2024-04-17,Mild,Ongoing,Related
+S0624,Cough,2024-10-28,2024-09-24,Mild,Ongoing,Unrelated
+S0627,Nausea,2024-01-20,2024-04-23,Severe,Recovered,Unrelated
+S0556,Nausea,2024-06-30,2024-05-20,Severe,Ongoing,Unrelated
+S0725,Cough,2024-07-07,2024-06-28,Moderate,Recovered,Related
+S0062,Cough,2024-01-04,2024-09-14,Severe,Ongoing,Unrelated
+S0410,Cough,2024-10-22,2024-02-25,Severe,Recovered with Sequelae,Related
+S0499,Headache,2024-03-21,2024-10-03,Severe,Recovered with Sequelae,Related
+S0957,Nausea,2024-03-30,2024-06-21,Mild,Ongoing,Related
+S0843,Fatigue,2024-01-16,2024-02-09,Moderate,Recovered with Sequelae,Related
+S0222,Cough,2024-09-21,2024-07-23,Moderate,Ongoing,Related
+S0693,Nausea,2024-01-12,2024-05-07,Moderate,Ongoing,Related
+S0184,Fatigue,2024-09-24,2024-03-06,Mild,Recovered with Sequelae,Unrelated
+S0223,Cough,2024-04-24,2024-04-03,Mild,Recovered,Unrelated
+S0219,Cough,2024-07-21,2024-08-09,Severe,Recovered,Related
+S0428,Fatigue,2024-05-19,2024-01-27,Moderate,Ongoing,Related
+S0555,Headache,2024-02-21,2024-08-13,Moderate,Recovered,Unrelated
+S0544,Fever,2024-02-23,2024-05-29,Severe,Recovered,Unrelated
+S0011,Fever,2024-01-10,2024-03-10,Moderate,Recovered,Unrelated
+S0607,Fatigue,2024-07-07,2024-06-04,Severe,Recovered with Sequelae,Unrelated
+S0903,Fever,2024-06-17,2024-06-05,Moderate,Recovered with Sequelae,Related
+S0717,Fatigue,2024-08-09,2024-05-25,Moderate,Ongoing,Related
+S0611,Fever,2024-02-13,2024-07-08,Severe,Recovered,Related
+S0468,Nausea,2024-08-29,2024-05-01,Moderate,Recovered,Unrelated
+S0216,Cough,2024-07-31,2024-02-05,Moderate,Recovered with Sequelae,Unrelated
+S0503,Fever,2024-04-23,2024-09-26,Severe,Recovered with Sequelae,Unrelated
+S0582,Nausea,2024-09-21,2024-03-04,Mild,Ongoing,Related
+S0803,Fever,2024-03-21,2024-06-10,Severe,Ongoing,Related
+S0879,Headache,2024-10-16,2024-09-21,Mild,Ongoing,Related
+S0059,Cough,2024-01-13,2024-06-29,Moderate,Recovered,Unrelated
+S0093,Cough,2024-04-18,2024-01-20,Severe,Ongoing,Unrelated
+S0286,Fever,2024-07-29,2024-10-06,Severe,Recovered with Sequelae,Unrelated
+S0931,Fever,2024-01-19,2024-09-11,Severe,Recovered with Sequelae,Unrelated
+S0838,Headache,2024-04-30,2024-06-16,Moderate,Recovered,Unrelated
+S0159,Fatigue,2024-01-30,2024-01-08,Mild,Ongoing,Unrelated
+S0639,Fever,2024-05-20,2024-09-04,Moderate,Recovered with Sequelae,Related
+S0029,Nausea,2024-09-22,2024-01-16,Mild,Recovered with Sequelae,Unrelated
+S0826,Fever,2024-10-25,2024-05-12,Moderate,Ongoing,Unrelated
+S0822,Headache,2024-03-21,2024-07-17,Mild,Ongoing,Related
+S0380,Cough,2024-01-27,2024-03-13,Moderate,Recovered,Related
+S0897,Headache,2024-03-13,2024-01-27,Mild,Recovered with Sequelae,Unrelated
+S0099,Cough,2024-08-31,2024-08-01,Severe,Recovered,Related
+S0930,Fatigue,2024-03-14,2024-09-26,Mild,Recovered with Sequelae,Unrelated
+S0618,Fever,2024-01-30,2024-04-02,Severe,Recovered with Sequelae,Related
+S0328,Cough,2024-07-20,2024-07-13,Moderate,Recovered with Sequelae,Unrelated
+S0644,Cough,2024-07-25,2024-08-25,Severe,Recovered,Unrelated
+S0788,Fatigue,2024-06-03,2024-05-08,Mild,Ongoing,Unrelated
+S0164,Nausea,2024-05-04,2024-06-18,Mild,Ongoing,Related
+S0897,Fatigue,2024-04-25,2024-09-02,Mild,Ongoing,Unrelated
+S0654,Headache,2024-02-06,2024-01-29,Moderate,Recovered with Sequelae,Related
+S0826,Fever,2024-04-12,2024-04-05,Moderate,Ongoing,Related
+S0387,Cough,2024-09-18,2024-03-16,Moderate,Ongoing,Unrelated
+S0966,Fever,2024-02-22,2024-07-25,Mild,Recovered with Sequelae,Related
+S0589,Nausea,2024-07-11,2024-05-28,Mild,Recovered,Related
+S0098,Fatigue,2024-07-19,2024-03-16,Mild,Recovered,Related
+S0681,Headache,2024-07-06,2024-04-03,Mild,Recovered with Sequelae,Related
+S0168,Fever,2024-04-18,2024-04-14,Moderate,Ongoing,Unrelated
+S0858,Fatigue,2024-08-17,2024-07-10,Mild,Recovered with Sequelae,Unrelated
+S0776,Fever,2024-04-07,2024-10-08,Severe,Recovered with Sequelae,Related
+S0234,Cough,2024-09-13,2024-05-03,Moderate,Ongoing,Related
+S0689,Headache,2024-08-25,2024-07-09,Severe,Ongoing,Related
+S0640,Fever,2024-04-24,2024-04-28,Severe,Recovered with Sequelae,Related
+S0558,Fever,2024-04-02,2024-05-16,Severe,Recovered,Unrelated
+S0600,Fatigue,2024-01-17,2024-09-11,Moderate,Recovered with Sequelae,Unrelated
+S0174,Fever,2024-09-06,2024-05-25,Severe,Recovered,Related
+S0153,Nausea,2024-05-03,2024-01-30,Moderate,Ongoing,Related
+S0334,Fever,2024-05-20,2024-05-11,Mild,Recovered,Related
+S0309,Fever,2024-05-12,2024-05-11,Mild,Recovered,Related
+S0990,Cough,2024-02-17,2024-10-04,Mild,Recovered with Sequelae,Unrelated
+S0700,Fatigue,2024-06-29,2024-08-14,Mild,Recovered,Related
+S0930,Fever,2024-03-06,2024-02-11,Mild,Recovered,Unrelated
+S0834,Fatigue,2024-07-21,2024-01-18,Severe,Ongoing,Related
+S0286,Fatigue,2024-04-01,2024-06-24,Moderate,Recovered with Sequelae,Unrelated
+S0601,Cough,2024-07-14,2024-09-09,Mild,Recovered,Unrelated
+S0905,Headache,2024-10-02,2024-04-07,Mild,Ongoing,Related
+S0185,Cough,2024-04-13,2024-09-21,Mild,Recovered with Sequelae,Related
+S0516,Headache,2024-01-02,2024-08-17,Mild,Recovered with Sequelae,Related
+S0144,Fatigue,2024-08-21,2024-02-05,Moderate,Ongoing,Related
+S0711,Cough,2024-06-20,2024-06-29,Moderate,Recovered with Sequelae,Related
+S0316,Fever,2024-10-17,2024-07-08,Severe,Recovered with Sequelae,Unrelated
+S0533,Fatigue,2024-07-18,2024-01-14,Mild,Recovered with Sequelae,Unrelated
+S0693,Fever,2024-09-21,2024-02-07,Moderate,Recovered,Unrelated
+S0701,Nausea,2024-07-20,2024-06-09,Moderate,Recovered,Unrelated
+S0909,Headache,2024-06-18,2024-05-22,Mild,Recovered with Sequelae,Unrelated
+S0774,Fever,2024-01-20,2024-08-10,Mild,Recovered,Unrelated
+S0071,Fever,2024-10-06,2024-01-06,Mild,Recovered with Sequelae,Unrelated
+S0521,Headache,2024-02-09,2024-09-14,Mild,Recovered,Unrelated
+S0137,Fever,2024-06-29,2024-03-09,Mild,Recovered with Sequelae,Unrelated
+S0582,Fever,2024-10-15,2024-03-18,Moderate,Ongoing,Related
+S0923,Cough,2024-01-03,2024-06-26,Mild,Recovered with Sequelae,Related
+S0833,Nausea,2024-01-13,2024-05-10,Mild,Ongoing,Unrelated
+S0401,Cough,2024-08-01,2024-01-25,Mild,Ongoing,Related
+S0313,Fatigue,2024-05-10,2024-07-09,Mild,Ongoing,Related
+S0297,Headache,2024-07-08,2024-05-11,Moderate,Recovered with Sequelae,Related
+S0520,Fever,2024-06-15,2024-10-13,Severe,Recovered,Related
+S0306,Fatigue,2024-04-13,2024-08-22,Severe,Recovered,Unrelated
+S0465,Cough,2024-01-30,2024-01-31,Moderate,Recovered,Related
+S0919,Nausea,2024-06-10,2024-02-24,Moderate,Recovered,Related
+S0125,Cough,2024-03-31,2024-03-21,Moderate,Recovered with Sequelae,Related
+S0672,Fever,2024-03-01,2024-02-29,Moderate,Recovered with Sequelae,Related
+S0192,Fatigue,2024-09-06,2024-05-20,Severe,Recovered,Related
+S0949,Headache,2024-08-28,2024-02-02,Moderate,Recovered,Unrelated
+S0961,Fatigue,2024-10-20,2024-10-06,Severe,Recovered,Unrelated
+S0735,Fatigue,2024-02-14,2024-07-28,Moderate,Recovered with Sequelae,Related
+S0818,Fever,2024-01-25,2024-03-04,Mild,Recovered with Sequelae,Related
+S0298,Cough,2024-05-31,2024-03-30,Moderate,Recovered,Unrelated
+S0499,Nausea,2024-07-29,2024-02-08,Mild,Ongoing,Related
+S0463,Nausea,2024-06-05,2024-04-10,Mild,Recovered,Unrelated
+S0907,Headache,2024-08-15,2024-08-07,Severe,Recovered,Related
+S0043,Fever,2024-04-28,2024-04-16,Mild,Recovered,Unrelated
+S0456,Fever,2024-02-24,2024-08-05,Severe,Recovered with Sequelae,Related
+S0008,Fatigue,2024-06-23,2024-07-26,Mild,Ongoing,Unrelated
+S0609,Headache,2024-04-07,2024-07-03,Severe,Recovered with Sequelae,Unrelated
+S0401,Nausea,2024-02-07,2024-07-22,Moderate,Recovered with Sequelae,Related
+S0955,Nausea,2024-10-02,2024-07-29,Severe,Ongoing,Related
+S0564,Headache,2024-07-17,2024-09-04,Severe,Ongoing,Unrelated
+S0963,Headache,2024-01-07,2024-07-20,Mild,Ongoing,Related
+S0093,Nausea,2024-10-02,2024-03-03,Severe,Recovered with Sequelae,Unrelated
+S0462,Fever,2024-02-02,2024-08-04,Severe,Recovered with Sequelae,Related
+S0401,Headache,2024-06-03,2024-04-28,Moderate,Recovered,Related
+S0269,Fever,2024-05-12,2024-02-01,Severe,Ongoing,Unrelated
+S0252,Fatigue,2024-04-12,2024-02-04,Moderate,Recovered with Sequelae,Related
+S0344,Nausea,2024-07-30,2024-04-15,Mild,Recovered with Sequelae,Unrelated
+S0216,Nausea,2024-08-05,2024-01-21,Moderate,Recovered,Related
+S0417,Headache,2024-10-28,2024-06-09,Mild,Ongoing,Related
+S0545,Cough,2024-02-23,2024-09-18,Moderate,Recovered with Sequelae,Related
+S0977,Headache,2024-02-01,2024-09-09,Moderate,Ongoing,Related
+S0500,Fever,2024-07-03,2024-10-06,Mild,Recovered with Sequelae,Related
+S0613,Headache,2024-04-10,2024-08-22,Mild,Ongoing,Unrelated
+S0094,Headache,2024-07-07,2024-01-20,Severe,Ongoing,Unrelated
+S0359,Nausea,2024-01-03,2024-06-19,Severe,Recovered,Unrelated
+S0691,Headache,2024-06-20,2024-10-11,Moderate,Ongoing,Related
+S0833,Fatigue,2024-10-07,2024-02-12,Mild,Recovered,Unrelated
+S0846,Headache,2024-07-07,2024-04-25,Mild,Ongoing,Unrelated
+S0612,Nausea,2024-06-08,2024-04-29,Mild,Recovered,Related
+S0331,Cough,2024-06-03,2024-06-17,Moderate,Ongoing,Related
+S0066,Nausea,2024-10-10,2024-03-09,Mild,Ongoing,Unrelated
+S0209,Nausea,2024-03-11,2024-05-08,Severe,Ongoing,Related
+S0361,Fever,2024-07-21,2024-03-31,Severe,Ongoing,Related
+S0128,Cough,2024-03-20,2024-07-08,Moderate,Ongoing,Related
+S0125,Cough,2024-10-16,2024-05-02,Severe,Recovered,Unrelated
+S0977,Fatigue,2024-01-07,2024-07-30,Moderate,Recovered,Related
+S0554,Cough,2024-03-31,2024-10-11,Severe,Ongoing,Related
+S0471,Nausea,2024-03-22,2024-10-07,Mild,Recovered with Sequelae,Related
+S0109,Headache,2024-07-10,2024-09-22,Mild,Ongoing,Related
+S0455,Fatigue,2024-10-25,2024-02-25,Mild,Ongoing,Related
+S0404,Headache,2024-06-08,2024-04-11,Severe,Ongoing,Related
+S0164,Fatigue,2024-01-08,2024-06-18,Mild,Ongoing,Unrelated
+S0959,Nausea,2024-07-03,2024-09-23,Severe,Recovered with Sequelae,Related
+S0596,Nausea,2024-09-04,2024-05-28,Moderate,Recovered,Related
+S0558,Nausea,2024-07-12,2024-09-16,Mild,Recovered,Related
+S0177,Nausea,2024-08-31,2024-06-15,Mild,Ongoing,Unrelated
+S0834,Nausea,2024-07-17,2024-05-16,Severe,Ongoing,Unrelated
+S0617,Cough,2024-10-22,2024-03-31,Severe,Recovered with Sequelae,Related
+S0877,Cough,2024-01-09,2024-01-31,Moderate,Recovered,Unrelated
+S0902,Fatigue,2024-03-11,2024-05-10,Mild,Recovered with Sequelae,Unrelated
+S0052,Cough,2024-05-19,2024-09-30,Severe,Recovered with Sequelae,Related
+S0123,Cough,2024-10-23,2024-02-20,Mild,Recovered,Unrelated
+S0340,Nausea,2024-10-03,2024-06-25,Mild,Recovered,Unrelated
+S0368,Cough,2024-02-20,2024-08-01,Mild,Recovered,Related
+S0085,Cough,2024-04-13,2024-04-30,Mild,Recovered with Sequelae,Unrelated
+S0533,Cough,2024-10-30,2024-04-30,Mild,Recovered with Sequelae,Unrelated
+S0706,Nausea,2024-01-20,2024-03-11,Mild,Recovered with Sequelae,Unrelated
+S0450,Nausea,2024-07-18,2024-05-10,Severe,Recovered with Sequelae,Unrelated
+S0254,Headache,2024-05-08,2024-06-05,Moderate,Recovered with Sequelae,Related
+S0574,Headache,2024-10-22,2024-02-19,Moderate,Recovered with Sequelae,Unrelated
+S0408,Fever,2024-08-30,2024-04-25,Severe,Recovered with Sequelae,Unrelated
+S0217,Nausea,2024-06-11,2024-06-03,Severe,Ongoing,Related
+S0908,Fever,2024-07-02,2024-08-12,Moderate,Recovered with Sequelae,Unrelated
+S0107,Fever,2024-04-28,2024-01-25,Moderate,Recovered,Unrelated
+S0605,Cough,2024-06-30,2024-05-09,Severe,Recovered with Sequelae,Unrelated
+S0176,Fatigue,2024-10-22,2024-10-29,Mild,Recovered,Related
+S0698,Fever,2024-04-18,2024-04-03,Mild,Ongoing,Unrelated
+S0472,Fever,2024-03-11,2024-08-21,Moderate,Recovered with Sequelae,Related
+S0231,Fever,2024-03-10,2024-02-09,Mild,Ongoing,Related
+S0098,Headache,2024-10-13,2024-03-24,Mild,Ongoing,Unrelated
+S0259,Fatigue,2024-01-20,2024-03-11,Severe,Recovered with Sequelae,Related
+S0789,Fever,2024-10-04,2024-07-02,Severe,Recovered with Sequelae,Unrelated
+S0712,Cough,2024-04-12,2024-08-11,Mild,Recovered,Unrelated
+S0412,Cough,2024-10-24,2024-02-09,Severe,Recovered with Sequelae,Related
+S0231,Fever,2024-08-10,2024-10-11,Severe,Ongoing,Unrelated
+S0273,Cough,2024-03-21,2024-09-12,Severe,Ongoing,Unrelated
+S0649,Headache,2024-10-27,2024-10-24,Moderate,Recovered with Sequelae,Unrelated
+S0502,Cough,2024-05-25,2024-04-10,Severe,Recovered with Sequelae,Related
+S0413,Headache,2024-10-16,2024-04-20,Mild,Ongoing,Related
+S0869,Headache,2024-08-28,2024-08-14,Moderate,Ongoing,Unrelated
+S0084,Headache,2024-06-02,2024-03-14,Mild,Ongoing,Related
+S0734,Fever,2024-06-18,2024-02-12,Mild,Ongoing,Unrelated
+S0537,Fatigue,2024-02-15,2024-02-11,Mild,Ongoing,Unrelated
+S0955,Cough,2024-02-08,2024-04-28,Moderate,Ongoing,Unrelated
+S0932,Nausea,2024-02-05,2024-08-14,Mild,Recovered with Sequelae,Unrelated
+S0047,Cough,2024-05-15,2024-10-17,Mild,Recovered with Sequelae,Related
+S0891,Fever,2024-01-18,2024-01-04,Severe,Recovered with Sequelae,Unrelated
+S0671,Headache,2024-06-12,2024-09-03,Severe,Recovered with Sequelae,Related
+S0484,Headache,2024-01-29,2024-01-27,Moderate,Ongoing,Unrelated
+S0011,Headache,2024-03-13,2024-05-10,Severe,Ongoing,Related
+S0516,Cough,2024-10-08,2024-08-22,Mild,Recovered with Sequelae,Related
+S0221,Nausea,2024-06-06,2024-09-15,Moderate,Ongoing,Unrelated
+S0087,Headache,2024-10-28,2024-06-23,Severe,Recovered with Sequelae,Related
+S0407,Nausea,2024-08-13,2024-01-20,Severe,Ongoing,Related
+S0051,Cough,2024-08-31,2024-01-28,Severe,Recovered with Sequelae,Unrelated
+S0261,Nausea,2024-06-06,2024-10-25,Mild,Recovered with Sequelae,Related
+S0352,Fatigue,2024-10-30,2024-10-02,Moderate,Recovered with Sequelae,Related
+S0331,Fatigue,2024-07-29,2024-01-23,Moderate,Recovered,Unrelated
+S0837,Nausea,2024-04-02,2024-10-02,Severe,Ongoing,Unrelated
+S0058,Headache,2024-01-07,2024-06-29,Mild,Ongoing,Unrelated
+S0539,Fatigue,2024-01-27,2024-03-21,Moderate,Recovered with Sequelae,Related
+S0530,Fever,2024-08-04,2024-10-30,Moderate,Recovered with Sequelae,Related
+S0275,Nausea,2024-09-05,2024-03-08,Moderate,Recovered with Sequelae,Related
+S0256,Fever,2024-01-13,2024-07-10,Severe,Recovered with Sequelae,Unrelated
+S0006,Nausea,2024-09-22,2024-10-24,Moderate,Recovered with Sequelae,Unrelated
+S0466,Cough,2024-07-26,2024-08-04,Severe,Ongoing,Unrelated
+S0064,Cough,2024-10-15,2024-10-23,Moderate,Ongoing,Unrelated
+S0344,Headache,2024-05-27,2024-07-08,Moderate,Recovered with Sequelae,Unrelated
+S0212,Fatigue,2024-08-16,2024-10-30,Moderate,Ongoing,Related
+S0806,Fatigue,2024-04-23,2024-10-16,Severe,Recovered with Sequelae,Unrelated
+S0019,Fatigue,2024-08-29,2024-05-26,Mild,Ongoing,Related
+S0470,Nausea,2024-09-07,2024-04-11,Severe,Recovered with Sequelae,Related
+S0290,Fatigue,2024-06-27,2024-04-15,Mild,Recovered with Sequelae,Related
+S0692,Fever,2024-06-06,2024-02-22,Moderate,Recovered,Related
+S0044,Headache,2024-03-14,2024-01-22,Moderate,Recovered,Unrelated
+S0240,Fever,2024-01-04,2024-07-10,Mild,Recovered with Sequelae,Related
+S0722,Fatigue,2024-03-24,2024-08-25,Moderate,Recovered with Sequelae,Related
+S0984,Nausea,2024-02-19,2024-07-06,Mild,Recovered,Related
+S0900,Fever,2024-06-29,2024-01-24,Severe,Recovered,Related
+S0738,Nausea,2024-05-29,2024-09-18,Moderate,Ongoing,Related
+S0346,Nausea,2024-02-10,2024-08-10,Severe,Ongoing,Related
+S0066,Fatigue,2024-10-21,2024-09-21,Mild,Ongoing,Unrelated
+S0009,Nausea,2024-02-09,2024-10-17,Mild,Ongoing,Related
+S0126,Nausea,2024-05-21,2024-09-19,Moderate,Recovered,Related
+S0825,Headache,2024-07-18,2024-09-12,Severe,Recovered,Related
+S0887,Nausea,2024-06-05,2024-09-09,Severe,Recovered,Related
+S0426,Fatigue,2024-10-21,2024-07-27,Severe,Ongoing,Related
+S0114,Fatigue,2024-09-21,2024-05-11,Severe,Recovered with Sequelae,Related
+S0582,Fever,2024-04-05,2024-04-19,Mild,Recovered with Sequelae,Related
+S0770,Cough,2024-09-20,2024-04-04,Moderate,Recovered,Related
+S0835,Headache,2024-03-27,2024-02-18,Severe,Recovered,Related
+S0447,Fever,2024-06-25,2024-08-30,Severe,Ongoing,Unrelated
+S0793,Headache,2024-09-08,2024-05-16,Mild,Recovered with Sequelae,Unrelated
+S0047,Fever,2024-04-02,2024-04-18,Mild,Recovered,Unrelated
+S0321,Headache,2024-02-21,2024-09-05,Moderate,Recovered,Unrelated
+S0786,Fatigue,2024-07-26,2024-03-17,Moderate,Recovered,Related
+S0046,Nausea,2024-04-15,2024-04-22,Severe,Ongoing,Unrelated
+S0877,Fatigue,2024-07-31,2024-05-11,Mild,Recovered,Related
+S0100,Fever,2024-08-27,2024-04-27,Mild,Ongoing,Unrelated
+S0437,Nausea,2024-05-19,2024-08-25,Severe,Recovered,Unrelated
+S0014,Fatigue,2024-01-07,2024-04-15,Severe,Ongoing,Unrelated
+S0667,Nausea,2024-09-02,2024-02-08,Mild,Recovered,Related
+S0780,Fever,2024-01-17,2024-02-24,Severe,Recovered with Sequelae,Unrelated
+S0743,Fever,2024-07-04,2024-09-23,Severe,Ongoing,Related
+S0068,Fatigue,2024-07-29,2024-05-01,Mild,Ongoing,Unrelated
+S0006,Cough,2024-02-15,2024-01-25,Moderate,Recovered with Sequelae,Related
+S0724,Fever,2024-07-09,2024-02-15,Moderate,Recovered with Sequelae,Related
+S0412,Cough,2024-03-30,2024-03-17,Severe,Recovered,Unrelated
+S0050,Cough,2024-02-07,2024-07-12,Severe,Recovered,Related
+S0903,Fatigue,2024-10-27,2024-10-05,Moderate,Ongoing,Unrelated
+S0118,Nausea,2024-08-10,2024-01-01,Severe,Recovered,Related
+S0807,Cough,2024-05-05,2024-07-27,Severe,Recovered with Sequelae,Related
+S0337,Cough,2024-10-13,2024-04-21,Mild,Ongoing,Related
+S0891,Headache,2024-04-11,2024-06-26,Moderate,Recovered,Related
+S0413,Headache,2024-10-14,2024-09-10,Mild,Recovered with Sequelae,Related
+S0090,Nausea,2024-02-13,2024-09-13,Mild,Recovered,Related
+S0538,Cough,2024-05-22,2024-04-30,Moderate,Recovered,Related
+S0341,Nausea,2024-06-21,2024-02-03,Moderate,Recovered,Related
+S0408,Headache,2024-08-20,2024-03-18,Severe,Ongoing,Unrelated
+S0674,Fatigue,2024-04-20,2024-03-19,Mild,Recovered,Related
+S0892,Cough,2024-09-11,2024-07-31,Severe,Ongoing,Related
+S0648,Headache,2024-01-20,2024-05-01,Mild,Ongoing,Related
+S0137,Cough,2024-04-05,2024-01-19,Mild,Recovered,Related
+S0106,Nausea,2024-06-29,2024-04-22,Moderate,Recovered with Sequelae,Unrelated
+S0635,Headache,2024-08-13,2024-08-24,Mild,Ongoing,Unrelated
+S0168,Fatigue,2024-01-25,2024-02-13,Moderate,Ongoing,Related
+S0753,Cough,2024-07-16,2024-10-21,Severe,Recovered with Sequelae,Related
+S0387,Nausea,2024-01-14,2024-10-27,Moderate,Recovered,Unrelated
+S0119,Headache,2024-04-18,2024-10-24,Severe,Recovered with Sequelae,Related
+S0109,Fever,2024-05-26,2024-06-05,Moderate,Ongoing,Related
+S0006,Cough,2024-05-11,2024-09-29,Moderate,Ongoing,Related
+S0114,Nausea,2024-03-07,2024-05-02,Mild,Recovered with Sequelae,Unrelated
+S0734,Cough,2024-08-28,2024-04-25,Moderate,Recovered with Sequelae,Unrelated
+S0621,Cough,2024-06-12,2024-09-10,Moderate,Recovered,Related
+S0881,Fatigue,2024-06-25,2024-10-29,Moderate,Recovered,Unrelated
+S0965,Cough,2024-05-31,2024-09-01,Moderate,Recovered with Sequelae,Unrelated
+S0954,Fatigue,2024-05-13,2024-05-10,Moderate,Recovered,Unrelated
+S0649,Headache,2024-09-03,2024-06-15,Mild,Recovered,Related
+S0740,Headache,2024-06-29,2024-05-02,Mild,Recovered with Sequelae,Related
+S0131,Nausea,2024-05-07,2024-01-19,Severe,Recovered with Sequelae,Unrelated
+S0233,Headache,2024-08-19,2024-07-24,Severe,Recovered with Sequelae,Unrelated
+S0779,Cough,2024-03-15,2024-10-16,Moderate,Recovered with Sequelae,Unrelated
+S0930,Cough,2024-09-07,2024-06-11,Mild,Ongoing,Unrelated
+S0898,Cough,2024-01-23,2024-08-01,Mild,Recovered,Related
+S0967,Nausea,2024-01-16,2024-06-16,Moderate,Ongoing,Unrelated
+S0760,Fever,2024-04-15,2024-10-21,Mild,Ongoing,Related
+S0077,Nausea,2024-07-29,2024-10-15,Mild,Ongoing,Unrelated
+S0856,Fatigue,2024-04-04,2024-09-03,Moderate,Ongoing,Unrelated
+S0671,Fever,2024-02-24,2024-02-02,Mild,Recovered with Sequelae,Related
+S0778,Cough,2024-07-03,2024-08-08,Severe,Ongoing,Related
+S0471,Cough,2024-04-30,2024-05-21,Moderate,Recovered,Unrelated
+S0814,Fatigue,2024-05-01,2024-07-05,Mild,Ongoing,Related
+S0266,Fatigue,2024-08-15,2024-08-18,Moderate,Recovered,Related
+S0993,Fatigue,2024-02-01,2024-09-27,Mild,Ongoing,Related
+S0203,Nausea,2024-10-03,2024-04-19,Moderate,Recovered with Sequelae,Unrelated
+S0069,Headache,2024-09-10,2024-06-14,Severe,Recovered,Related
+S0992,Fatigue,2024-07-27,2024-10-11,Moderate,Recovered,Related
+S0748,Fever,2024-06-15,2024-09-15,Severe,Ongoing,Related
+S0866,Fever,2024-05-30,2024-07-03,Moderate,Recovered,Unrelated
+S0789,Headache,2024-01-30,2024-09-15,Severe,Recovered,Related
+S0248,Fever,2024-03-20,2024-04-07,Moderate,Ongoing,Unrelated
+S0300,Nausea,2024-05-27,2024-04-01,Moderate,Recovered with Sequelae,Related
+S0280,Nausea,2024-06-19,2024-03-19,Moderate,Recovered with Sequelae,Unrelated
+S0426,Nausea,2024-08-02,2024-04-13,Mild,Ongoing,Unrelated
+S0881,Nausea,2024-10-30,2024-01-17,Severe,Recovered,Related
+S0258,Fever,2024-04-10,2024-07-03,Moderate,Recovered,Unrelated
+S0904,Nausea,2024-07-14,2024-10-18,Mild,Ongoing,Related
+S0449,Nausea,2024-02-13,2024-04-13,Severe,Recovered,Related
+S0637,Fever,2024-03-08,2024-04-05,Moderate,Ongoing,Related
+S0082,Fatigue,2024-08-25,2024-01-14,Mild,Ongoing,Unrelated
+S0814,Nausea,2024-01-24,2024-10-27,Severe,Recovered with Sequelae,Unrelated
+S0508,Nausea,2024-10-23,2024-04-03,Moderate,Recovered,Unrelated
+S0277,Cough,2024-05-17,2024-06-16,Mild,Ongoing,Unrelated
+S0920,Fever,2024-09-21,2024-02-28,Mild,Ongoing,Unrelated
+S0413,Fever,2024-05-29,2024-08-10,Moderate,Recovered with Sequelae,Related
+S0291,Fever,2024-09-23,2024-01-09,Severe,Ongoing,Related
+S0367,Fever,2024-04-13,2024-06-30,Severe,Recovered with Sequelae,Unrelated
+S0259,Fever,2024-02-13,2024-05-28,Moderate,Recovered,Unrelated
+S0720,Fatigue,2024-03-23,2024-07-17,Moderate,Recovered with Sequelae,Unrelated
+S0366,Nausea,2024-09-04,2024-03-15,Moderate,Recovered,Related
+S0994,Cough,2024-03-01,2024-09-24,Moderate,Ongoing,Related
+S0773,Cough,2024-06-29,2024-08-13,Mild,Recovered,Unrelated
+S0965,Cough,2024-08-06,2024-04-03,Severe,Ongoing,Unrelated
+S0331,Fatigue,2024-02-07,2024-10-06,Moderate,Recovered,Unrelated
+S0094,Nausea,2024-08-15,2024-06-14,Mild,Ongoing,Related
+S0030,Cough,2024-07-18,2024-03-09,Moderate,Recovered with Sequelae,Unrelated
+S0373,Headache,2024-07-26,2024-08-27,Severe,Recovered,Related
+S0129,Nausea,2024-02-11,2024-02-09,Mild,Ongoing,Unrelated
+S0709,Headache,2024-02-17,2024-09-06,Severe,Ongoing,Unrelated
+S0604,Fatigue,2024-10-18,2024-06-01,Moderate,Ongoing,Related
+S0615,Fatigue,2024-06-23,2024-06-08,Moderate,Recovered with Sequelae,Unrelated
+S0396,Nausea,2024-02-29,2024-05-27,Moderate,Ongoing,Related
+S0993,Nausea,2024-10-03,2024-01-01,Mild,Recovered,Unrelated
+S0051,Nausea,2024-10-03,2024-06-29,Severe,Recovered,Related
+S0810,Fever,2024-07-27,2024-07-12,Moderate,Ongoing,Related
+S0701,Fever,2024-02-07,2024-08-03,Mild,Recovered,Related
+S0264,Fever,2024-01-16,2024-04-04,Mild,Recovered with Sequelae,Unrelated
+S0913,Fatigue,2024-09-18,2024-05-05,Mild,Ongoing,Unrelated
+S0654,Nausea,2024-04-11,2024-07-11,Severe,Ongoing,Unrelated
+S0964,Fever,2024-09-11,2024-04-12,Mild,Recovered,Unrelated
+S0339,Fever,2024-02-02,2024-09-03,Moderate,Recovered with Sequelae,Unrelated
+S0265,Nausea,2024-05-07,2024-04-06,Severe,Recovered,Related
+S0461,Cough,2024-06-20,2024-06-13,Severe,Ongoing,Unrelated
+S0312,Fatigue,2024-05-25,2024-07-26,Severe,Ongoing,Related
+S0812,Fever,2024-04-01,2024-07-17,Mild,Recovered,Related
+S0253,Cough,2024-01-17,2024-07-01,Severe,Ongoing,Related
+S0266,Fatigue,2024-08-28,2024-03-10,Mild,Recovered,Unrelated
+S0688,Fatigue,2024-07-17,2024-03-07,Severe,Ongoing,Unrelated
+S0657,Nausea,2024-07-06,2024-10-02,Severe,Recovered with Sequelae,Related
+S0042,Nausea,2024-06-17,2024-03-19,Severe,Ongoing,Related
+S0762,Cough,2024-10-07,2024-04-12,Severe,Recovered with Sequelae,Related
+S0492,Cough,2024-01-02,2024-01-10,Mild,Recovered with Sequelae,Unrelated
+S0146,Fever,2024-01-18,2024-08-28,Severe,Ongoing,Related
+S0733,Headache,2024-05-17,2024-07-20,Severe,Recovered,Unrelated
+S0882,Fatigue,2024-06-20,2024-06-08,Mild,Ongoing,Unrelated
+S0562,Nausea,2024-07-11,2024-01-26,Moderate,Recovered with Sequelae,Related
+S0878,Nausea,2024-03-04,2024-06-24,Moderate,Ongoing,Unrelated
+S0855,Fatigue,2024-07-28,2024-07-25,Severe,Recovered,Unrelated
+S0243,Fatigue,2024-10-14,2024-08-11,Mild,Ongoing,Unrelated
+S0785,Fever,2024-06-18,2024-10-20,Mild,Recovered,Related
+S0572,Fatigue,2024-02-03,2024-10-17,Moderate,Recovered with Sequelae,Unrelated
+S0152,Nausea,2024-06-12,2024-08-06,Severe,Ongoing,Unrelated
+S0248,Fatigue,2024-07-23,2024-01-31,Moderate,Recovered with Sequelae,Related
+S0411,Cough,2024-07-02,2024-10-18,Mild,Ongoing,Related
+S0907,Headache,2024-08-31,2024-08-06,Mild,Recovered with Sequelae,Unrelated
+S0231,Fever,2024-08-21,2024-04-17,Severe,Recovered,Unrelated
+S0233,Nausea,2024-08-13,2024-06-30,Moderate,Recovered,Unrelated
+S0631,Fatigue,2024-07-02,2024-02-24,Severe,Recovered,Related
+S0021,Fatigue,2024-03-19,2024-09-15,Mild,Recovered with Sequelae,Unrelated
+S0673,Fatigue,2024-08-07,2024-06-14,Severe,Ongoing,Unrelated
+S0167,Cough,2024-05-28,2024-03-09,Mild,Recovered,Unrelated
+S0473,Fever,2024-09-13,2024-06-12,Moderate,Recovered with Sequelae,Related
+S0175,Nausea,2024-08-26,2024-06-23,Mild,Recovered,Unrelated
+S0162,Nausea,2024-10-12,2024-04-06,Mild,Recovered,Unrelated
+S0085,Nausea,2024-10-22,2024-05-24,Severe,Recovered,Related
+S0420,Nausea,2024-05-28,2024-06-29,Mild,Recovered,Related
+S0185,Fever,2024-03-03,2024-07-29,Severe,Ongoing,Related
+S0371,Fatigue,2024-08-09,2024-04-23,Moderate,Recovered with Sequelae,Related
+S0171,Nausea,2024-09-29,2024-02-07,Moderate,Recovered,Related
+S0576,Cough,2024-04-16,2024-09-30,Severe,Ongoing,Unrelated
+S0882,Fever,2024-05-22,2024-06-09,Moderate,Recovered,Related
+S0337,Headache,2024-09-19,2024-06-08,Moderate,Recovered,Related
+S0642,Nausea,2024-01-28,2024-04-04,Severe,Recovered with Sequelae,Unrelated
+S0816,Fever,2024-03-17,2024-01-22,Mild,Recovered with Sequelae,Unrelated
+S0935,Fever,2024-01-04,2024-08-02,Moderate,Recovered,Unrelated
+S0627,Nausea,2024-08-03,2024-03-11,Mild,Recovered with Sequelae,Related
+S0138,Headache,2024-03-13,2024-08-03,Moderate,Recovered,Unrelated
+S0203,Fatigue,2024-01-31,2024-02-06,Moderate,Ongoing,Related
+S0657,Nausea,2024-05-13,2024-07-29,Mild,Recovered with Sequelae,Unrelated
+S0634,Headache,2024-09-11,2024-10-04,Mild,Recovered with Sequelae,Unrelated
+S0582,Fever,2024-08-26,2024-10-11,Mild,Recovered with Sequelae,Unrelated
+S0949,Nausea,2024-04-10,2024-05-10,Severe,Recovered,Unrelated
+S0919,Fatigue,2024-01-21,2024-10-04,Mild,Recovered with Sequelae,Unrelated
+S0292,Cough,2024-09-13,2024-09-03,Moderate,Recovered with Sequelae,Unrelated
+S0518,Fever,2024-05-23,2024-01-27,Severe,Recovered,Related
+S0251,Cough,2024-02-08,2024-05-22,Severe,Ongoing,Related
+S0810,Cough,2024-03-19,2024-07-14,Severe,Ongoing,Related
+S0453,Cough,2024-05-20,2024-03-16,Severe,Ongoing,Related
+S0426,Fatigue,2024-02-28,2024-05-03,Moderate,Recovered with Sequelae,Unrelated
+S0118,Cough,2024-06-05,2024-07-28,Moderate,Recovered with Sequelae,Related
+S0675,Nausea,2024-04-23,2024-04-01,Moderate,Recovered with Sequelae,Related
+S0038,Nausea,2024-01-28,2024-02-19,Moderate,Recovered with Sequelae,Related
+S0899,Cough,2024-08-08,2024-05-01,Severe,Ongoing,Related
+S0463,Fatigue,2024-02-15,2024-02-03,Severe,Recovered with Sequelae,Related
+S0622,Fatigue,2024-07-19,2024-09-09,Mild,Recovered,Related
+S0357,Fatigue,2024-09-22,2024-04-03,Mild,Ongoing,Related
+S0099,Headache,2024-01-17,2024-10-14,Mild,Ongoing,Unrelated
+S0412,Fever,2024-07-19,2024-07-20,Mild,Recovered,Related
+S0232,Headache,2024-03-03,2024-04-21,Severe,Recovered with Sequelae,Related
+S0074,Nausea,2024-01-06,2024-09-22,Severe,Recovered with Sequelae,Related
+S0274,Nausea,2024-03-23,2024-04-20,Severe,Recovered with Sequelae,Related
+S0361,Headache,2024-07-26,2024-04-06,Moderate,Ongoing,Unrelated
+S0245,Cough,2024-05-12,2024-09-20,Mild,Recovered,Unrelated
+S0880,Headache,2024-05-11,2024-09-10,Severe,Ongoing,Related
+S0837,Fever,2024-10-08,2024-09-19,Mild,Ongoing,Related
+S0669,Fatigue,2024-02-23,2024-07-09,Severe,Recovered with Sequelae,Unrelated
+S0872,Nausea,2024-10-16,2024-08-03,Mild,Recovered,Unrelated
+S0732,Cough,2024-04-17,2024-03-03,Severe,Recovered,Related
+S0727,Fever,2024-06-03,2024-06-15,Moderate,Recovered,Unrelated
+S0669,Fever,2024-05-23,2024-07-10,Mild,Recovered,Related
+S0664,Fever,2024-06-17,2024-01-30,Mild,Recovered with Sequelae,Unrelated
+S0063,Headache,2024-06-15,2024-02-17,Moderate,Recovered,Unrelated
+S0969,Cough,2024-07-11,2024-08-17,Moderate,Recovered with Sequelae,Related
+S0012,Nausea,2024-05-31,2024-03-18,Mild,Ongoing,Unrelated
+S0104,Fatigue,2024-03-24,2024-03-09,Moderate,Ongoing,Unrelated
+S0116,Fatigue,2024-05-27,2024-02-04,Severe,Recovered,Unrelated
+S0200,Cough,2024-09-19,2024-04-10,Moderate,Recovered with Sequelae,Unrelated
+S0054,Cough,2024-01-20,2024-05-22,Mild,Ongoing,Related
+S0113,Cough,2024-06-08,2024-08-09,Moderate,Ongoing,Unrelated
+S0854,Fatigue,2024-01-24,2024-01-10,Mild,Ongoing,Unrelated
+S0861,Fatigue,2024-04-25,2024-02-20,Mild,Recovered,Unrelated
+S0820,Fever,2024-02-18,2024-10-18,Severe,Recovered with Sequelae,Related
+S0936,Fatigue,2024-01-25,2024-10-27,Mild,Ongoing,Unrelated
+S0747,Cough,2024-10-21,2024-10-22,Moderate,Recovered,Unrelated
+S0915,Headache,2024-06-11,2024-06-02,Mild,Recovered with Sequelae,Related
+S0408,Nausea,2024-05-20,2024-08-29,Mild,Ongoing,Unrelated
+S0828,Fever,2024-02-28,2024-09-06,Severe,Ongoing,Related
+S0142,Fever,2024-07-10,2024-08-25,Moderate,Recovered with Sequelae,Unrelated
+S0677,Nausea,2024-07-05,2024-01-03,Moderate,Recovered with Sequelae,Unrelated
+S0953,Cough,2024-09-22,2024-10-17,Mild,Ongoing,Unrelated
+S0284,Fever,2024-07-05,2024-05-01,Moderate,Ongoing,Unrelated
+S0105,Fever,2024-02-06,2024-08-31,Moderate,Ongoing,Related
+S0432,Nausea,2024-03-17,2024-01-04,Moderate,Ongoing,Related
+S0060,Headache,2024-04-14,2024-09-06,Mild,Recovered with Sequelae,Related
+S0498,Fatigue,2024-10-25,2024-06-19,Moderate,Recovered,Unrelated
+S0709,Nausea,2024-03-02,2024-08-15,Moderate,Ongoing,Related
+S0785,Fever,2024-10-28,2024-03-25,Moderate,Recovered with Sequelae,Unrelated
+S0312,Nausea,2024-04-26,2024-09-24,Moderate,Recovered with Sequelae,Related
+S0294,Cough,2024-02-23,2024-02-13,Moderate,Recovered,Related
+S0467,Fatigue,2024-05-14,2024-02-04,Severe,Recovered,Related
+S0223,Fatigue,2024-04-12,2024-08-07,Mild,Ongoing,Unrelated
+S0662,Fever,2024-06-06,2024-02-02,Moderate,Recovered,Unrelated
+S0013,Fatigue,2024-03-31,2024-08-22,Moderate,Recovered with Sequelae,Unrelated
+S0539,Cough,2024-01-27,2024-09-26,Severe,Recovered with Sequelae,Related
+S0699,Headache,2024-08-17,2024-05-27,Mild,Recovered,Related
+S0877,Fever,2024-07-17,2024-04-09,Severe,Ongoing,Related
+S0394,Fatigue,2024-04-06,2024-02-20,Moderate,Ongoing,Unrelated
+S0756,Fatigue,2024-08-13,2024-07-04,Moderate,Ongoing,Unrelated
+S0463,Headache,2024-02-06,2024-09-30,Moderate,Recovered,Related
+S0194,Nausea,2024-04-01,2024-09-23,Severe,Ongoing,Unrelated
+S0321,Cough,2024-05-11,2024-02-01,Mild,Recovered with Sequelae,Related
+S0476,Headache,2024-05-03,2024-06-02,Severe,Recovered with Sequelae,Related
+S0834,Nausea,2024-10-05,2024-04-05,Severe,Ongoing,Related
+S0102,Nausea,2024-01-06,2024-07-21,Mild,Recovered,Unrelated
+S0740,Cough,2024-02-02,2024-10-26,Severe,Recovered,Unrelated
+S0299,Nausea,2024-03-05,2024-04-27,Moderate,Ongoing,Unrelated
+S0629,Cough,2024-03-30,2024-07-03,Mild,Ongoing,Related
+S0719,Fatigue,2024-06-28,2024-02-26,Severe,Recovered with Sequelae,Unrelated
+S0836,Fatigue,2024-07-06,2024-04-19,Severe,Recovered,Unrelated
+S0383,Nausea,2024-10-25,2024-01-04,Severe,Ongoing,Related
+S0718,Cough,2024-01-23,2024-02-29,Mild,Recovered,Related
+S0199,Nausea,2024-08-12,2024-10-05,Severe,Recovered with Sequelae,Related
+S0285,Fatigue,2024-01-27,2024-01-27,Severe,Recovered with Sequelae,Related
+S0415,Fever,2024-01-08,2024-09-16,Moderate,Ongoing,Unrelated
+S0074,Fever,2024-09-22,2024-03-26,Moderate,Ongoing,Unrelated
+S0003,Cough,2024-03-24,2024-10-08,Moderate,Recovered with Sequelae,Unrelated
+S0022,Cough,2024-09-01,2024-05-21,Severe,Recovered,Unrelated
+S0580,Fever,2024-08-15,2024-09-25,Severe,Recovered with Sequelae,Related
+S0464,Fever,2024-07-27,2024-03-20,Moderate,Ongoing,Unrelated
+S0585,Fever,2024-01-12,2024-06-13,Mild,Recovered with Sequelae,Unrelated
+S0775,Fever,2024-02-11,2024-07-10,Severe,Recovered,Unrelated
+S0572,Fever,2024-04-27,2024-03-04,Mild,Recovered with Sequelae,Related
+S0066,Fatigue,2024-04-03,2024-10-26,Mild,Recovered,Unrelated
+S0714,Cough,2024-10-28,2024-07-11,Severe,Recovered with Sequelae,Related
+S0118,Fatigue,2024-10-06,2024-04-09,Mild,Recovered,Unrelated
+S0881,Headache,2024-10-27,2024-04-23,Mild,Recovered with Sequelae,Related
+S0391,Fatigue,2024-02-24,2024-02-11,Severe,Recovered,Unrelated
+S0328,Nausea,2024-01-18,2024-09-11,Severe,Ongoing,Unrelated
+S0775,Fever,2024-05-12,2024-01-07,Severe,Ongoing,Related
+S0377,Cough,2024-07-12,2024-04-03,Severe,Ongoing,Unrelated
+S0670,Fever,2024-05-14,2024-03-03,Moderate,Ongoing,Related
+S0013,Fatigue,2024-09-10,2024-10-29,Mild,Recovered with Sequelae,Unrelated
+S0551,Fever,2024-08-01,2024-09-15,Severe,Recovered,Related
+S0442,Fever,2024-08-15,2024-09-29,Moderate,Recovered,Unrelated
+S0994,Cough,2024-03-22,2024-03-02,Severe,Recovered,Unrelated
+S0137,Headache,2024-03-15,2024-07-05,Severe,Recovered,Unrelated
+S0790,Fatigue,2024-10-05,2024-10-14,Moderate,Recovered with Sequelae,Unrelated
+S0917,Fatigue,2024-05-26,2024-07-11,Moderate,Ongoing,Related
+S0793,Fever,2024-09-16,2024-08-11,Mild,Ongoing,Related
+S0292,Fever,2024-09-05,2024-07-04,Severe,Ongoing,Unrelated
+S0278,Cough,2024-01-22,2024-01-26,Severe,Recovered,Related
+S0811,Headache,2024-09-07,2024-06-25,Severe,Recovered with Sequelae,Unrelated
+S0277,Headache,2024-04-20,2024-08-18,Moderate,Recovered with Sequelae,Unrelated
+S0625,Headache,2024-04-26,2024-10-24,Mild,Ongoing,Unrelated
+S0374,Fatigue,2024-03-25,2024-06-12,Severe,Recovered with Sequelae,Unrelated
+S0713,Cough,2024-01-02,2024-07-24,Severe,Recovered,Unrelated
+S0100,Nausea,2024-01-21,2024-09-15,Mild,Ongoing,Related
+S0521,Fever,2024-02-02,2024-04-01,Severe,Recovered with Sequelae,Unrelated
+S0249,Headache,2024-10-25,2024-07-05,Mild,Recovered,Unrelated
+S0621,Headache,2024-06-11,2024-10-21,Mild,Ongoing,Unrelated
+S0194,Fever,2024-04-09,2024-08-05,Mild,Recovered,Related
+S0455,Fever,2024-09-15,2024-04-23,Mild,Ongoing,Unrelated
+S0146,Headache,2024-08-25,2024-03-24,Mild,Recovered with Sequelae,Related
+S0074,Nausea,2024-07-21,2024-04-17,Severe,Recovered,Related
+S0387,Fatigue,2024-10-02,2024-10-18,Mild,Recovered,Related
+S0686,Fever,2024-10-23,2024-04-05,Moderate,Recovered,Related
+S0612,Cough,2024-09-03,2024-01-26,Mild,Recovered,Unrelated
+S0868,Headache,2024-05-25,2024-07-07,Moderate,Ongoing,Related
+S0196,Fever,2024-01-18,2024-05-30,Mild,Recovered,Related
+S0086,Nausea,2024-09-21,2024-09-04,Moderate,Recovered with Sequelae,Unrelated
+S0262,Fever,2024-04-02,2024-05-27,Moderate,Recovered,Unrelated
+S0205,Fever,2024-06-15,2024-09-10,Severe,Ongoing,Unrelated
+S0211,Headache,2024-10-18,2024-08-14,Severe,Recovered with Sequelae,Related
+S0377,Fever,2024-06-11,2024-01-26,Severe,Recovered,Unrelated
+S0869,Fatigue,2024-04-21,2024-08-07,Mild,Recovered with Sequelae,Related
+S0022,Headache,2024-02-29,2024-09-09,Severe,Ongoing,Unrelated
+S0101,Fever,2024-03-16,2024-01-04,Moderate,Recovered,Related
+S0971,Headache,2024-06-09,2024-04-23,Mild,Recovered,Related
+S0616,Fatigue,2024-09-08,2024-09-05,Moderate,Ongoing,Related
+S0562,Fever,2024-10-05,2024-10-02,Mild,Ongoing,Unrelated
+S0614,Nausea,2024-04-04,2024-10-03,Mild,Ongoing,Related
+S0687,Fatigue,2024-08-17,2024-08-04,Severe,Recovered,Unrelated
+S0189,Fever,2024-09-29,2024-10-20,Mild,Recovered,Related
+S0893,Cough,2024-04-29,2024-05-25,Mild,Ongoing,Related
+S0364,Headache,2024-10-15,2024-10-29,Severe,Recovered,Related
+S0834,Headache,2024-09-29,2024-10-14,Severe,Recovered with Sequelae,Unrelated
+S0826,Cough,2024-08-30,2024-10-28,Mild,Recovered,Unrelated
+S0291,Cough,2024-07-08,2024-03-05,Severe,Recovered,Unrelated
+S0519,Fever,2024-07-20,2024-04-12,Mild,Recovered with Sequelae,Unrelated
+S0832,Headache,2024-03-10,2024-01-04,Moderate,Ongoing,Related
+S0386,Fatigue,2024-03-30,2024-07-30,Severe,Recovered with Sequelae,Unrelated
+S0097,Fever,2024-06-03,2024-02-21,Severe,Recovered,Related
+S0756,Nausea,2024-10-27,2024-10-18,Severe,Recovered,Related
+S0732,Nausea,2024-10-19,2024-07-31,Mild,Ongoing,Related
+S0396,Cough,2024-08-25,2024-10-29,Moderate,Recovered,Related
+S0921,Fever,2024-04-01,2024-04-11,Mild,Ongoing,Related
+S0463,Headache,2024-08-02,2024-01-12,Severe,Ongoing,Unrelated
+S0163,Nausea,2024-04-05,2024-02-03,Moderate,Ongoing,Unrelated
+S0740,Headache,2024-07-27,2024-07-14,Severe,Recovered with Sequelae,Unrelated
+S0438,Cough,2024-02-08,2024-02-12,Moderate,Ongoing,Related
+S0017,Fever,2024-04-25,2024-07-25,Moderate,Recovered,Related
+S0692,Cough,2024-10-26,2024-07-06,Severe,Recovered with Sequelae,Unrelated
+S0649,Fatigue,2024-06-26,2024-09-11,Moderate,Recovered,Related
+S0247,Fatigue,2024-05-22,2024-02-26,Moderate,Recovered,Related
+S0868,Fever,2024-03-30,2024-02-26,Severe,Ongoing,Unrelated
+S0713,Fatigue,2024-05-29,2024-03-18,Moderate,Recovered with Sequelae,Related
+S0410,Nausea,2024-03-02,2024-05-08,Severe,Recovered with Sequelae,Unrelated
+S0294,Fever,2024-10-15,2024-03-26,Severe,Ongoing,Related
+S0794,Fatigue,2024-02-26,2024-04-26,Moderate,Recovered with Sequelae,Related
+S0758,Headache,2024-02-20,2024-05-03,Mild,Recovered,Related
+S0130,Fatigue,2024-09-22,2024-04-01,Severe,Recovered,Related
+S0862,Nausea,2024-07-23,2024-07-04,Mild,Recovered with Sequelae,Related
+S0263,Headache,2024-06-08,2024-08-29,Moderate,Recovered,Related
+S0900,Nausea,2024-06-15,2024-04-11,Moderate,Recovered,Unrelated
+S0718,Fatigue,2024-08-19,2024-04-24,Moderate,Recovered,Related
+S0409,Fatigue,2024-01-11,2024-06-01,Severe,Recovered,Related
+S0183,Cough,2024-08-11,2024-04-18,Mild,Recovered with Sequelae,Unrelated
+S0633,Nausea,2024-02-14,2024-10-13,Mild,Recovered with Sequelae,Related
+S0537,Headache,2024-06-30,2024-08-20,Moderate,Recovered,Related
+S0631,Headache,2024-07-17,2024-01-17,Moderate,Ongoing,Unrelated
+S0261,Cough,2024-10-14,2024-08-09,Moderate,Recovered with Sequelae,Related
+S0583,Fever,2024-02-03,2024-05-28,Moderate,Ongoing,Unrelated
+S0311,Headache,2024-06-27,2024-08-11,Mild,Recovered with Sequelae,Related
+S0963,Fever,2024-05-27,2024-02-15,Moderate,Ongoing,Unrelated
+S0038,Headache,2024-08-24,2024-01-26,Severe,Ongoing,Related
+S0673,Fatigue,2024-06-27,2024-04-20,Mild,Recovered with Sequelae,Unrelated
+S0410,Cough,2024-03-14,2024-05-23,Mild,Ongoing,Unrelated
+S0131,Headache,2024-04-16,2024-10-18,Moderate,Recovered with Sequelae,Related
+S0088,Headache,2024-09-02,2024-07-22,Mild,Recovered,Related
+S0444,Headache,2024-05-30,2024-05-06,Mild,Recovered with Sequelae,Related
+S0844,Nausea,2024-10-02,2024-03-13,Mild,Ongoing,Related
+S0590,Fatigue,2024-02-21,2024-06-07,Mild,Recovered with Sequelae,Unrelated
+S0334,Cough,2024-09-12,2024-06-28,Mild,Recovered with Sequelae,Related
+S0192,Fever,2024-08-25,2024-07-26,Mild,Recovered,Unrelated
+S0419,Nausea,2024-02-24,2024-03-11,Mild,Recovered with Sequelae,Unrelated
+S0958,Headache,2024-04-17,2024-04-11,Severe,Recovered,Related
+S0876,Fatigue,2024-07-31,2024-10-02,Moderate,Recovered,Related
+S0741,Cough,2024-07-30,2024-05-31,Mild,Recovered with Sequelae,Unrelated
+S0736,Cough,2024-07-26,2024-05-20,Moderate,Recovered with Sequelae,Related
+S0288,Headache,2024-05-08,2024-07-01,Mild,Recovered,Related
+S0196,Headache,2024-07-18,2024-08-04,Mild,Recovered,Unrelated
+S0572,Fever,2024-01-31,2024-05-02,Mild,Recovered,Unrelated
+S0456,Cough,2024-09-06,2024-07-25,Mild,Recovered,Related
+S0491,Headache,2024-04-13,2024-09-16,Severe,Recovered with Sequelae,Related
+S0734,Fatigue,2024-05-02,2024-02-04,Moderate,Recovered with Sequelae,Unrelated
+S0504,Fever,2024-07-15,2024-08-21,Severe,Ongoing,Unrelated
+S0505,Cough,2024-02-18,2024-04-14,Severe,Ongoing,Related
+S0115,Fatigue,2024-03-09,2024-08-03,Moderate,Recovered with Sequelae,Related
+S0150,Fever,2024-07-15,2024-08-11,Moderate,Recovered,Related
+S0450,Headache,2024-01-11,2024-07-24,Mild,Recovered,Unrelated
+S0998,Nausea,2024-01-21,2024-10-30,Mild,Recovered,Related
+S0138,Fever,2024-04-19,2024-09-29,Mild,Recovered with Sequelae,Related
+S0587,Nausea,2024-10-26,2024-10-10,Moderate,Recovered,Related
+S0783,Cough,2024-01-24,2024-08-29,Severe,Recovered with Sequelae,Related
+S0514,Cough,2024-04-30,2024-05-19,Mild,Recovered,Unrelated
+S0087,Nausea,2024-02-27,2024-03-06,Mild,Recovered,Unrelated
+S0469,Fatigue,2024-10-11,2024-01-11,Mild,Recovered with Sequelae,Related
+S0655,Nausea,2024-02-04,2024-08-03,Mild,Ongoing,Unrelated
+S0215,Nausea,2024-03-08,2024-01-01,Moderate,Recovered with Sequelae,Related
+S0174,Cough,2024-04-14,2024-07-18,Severe,Ongoing,Unrelated
+S0432,Cough,2024-01-05,2024-02-13,Moderate,Recovered with Sequelae,Related
+S0178,Headache,2024-05-30,2024-07-08,Mild,Recovered with Sequelae,Related
+S0934,Cough,2024-10-01,2024-07-31,Moderate,Recovered,Related
+S0845,Fatigue,2024-01-20,2024-07-08,Severe,Recovered with Sequelae,Related
+S0238,Fatigue,2024-09-27,2024-09-06,Moderate,Ongoing,Related
+S0464,Fatigue,2024-01-13,2024-02-14,Moderate,Recovered with Sequelae,Related
+S0159,Fatigue,2024-04-23,2024-09-13,Severe,Recovered with Sequelae,Related
+S0799,Fatigue,2024-06-10,2024-07-24,Severe,Recovered with Sequelae,Related
+S0079,Fever,2024-01-12,2024-03-07,Severe,Recovered with Sequelae,Related
+S0506,Nausea,2024-04-10,2024-08-02,Severe,Recovered with Sequelae,Unrelated
+S0173,Fever,2024-01-09,2024-05-29,Moderate,Recovered with Sequelae,Unrelated
+S0740,Headache,2024-10-01,2024-06-02,Moderate,Recovered with Sequelae,Unrelated
+S0861,Fatigue,2024-02-21,2024-05-21,Severe,Recovered,Related
+S0769,Fatigue,2024-02-09,2024-09-08,Moderate,Recovered,Unrelated
+S0839,Fatigue,2024-06-07,2024-01-19,Mild,Recovered,Related
+S0477,Fatigue,2024-02-27,2024-10-12,Severe,Recovered,Unrelated
+S0067,Fever,2024-05-09,2024-08-16,Moderate,Ongoing,Related
+S0621,Fever,2024-03-02,2024-07-02,Severe,Recovered with Sequelae,Related
+S0115,Cough,2024-07-13,2024-06-13,Mild,Ongoing,Related
+S0420,Nausea,2024-10-25,2024-05-30,Mild,Ongoing,Related
+S0744,Headache,2024-09-12,2024-04-30,Moderate,Recovered,Unrelated
+S0220,Fatigue,2024-05-21,2024-07-16,Mild,Recovered with Sequelae,Unrelated
+S0540,Fever,2024-03-14,2024-06-16,Severe,Recovered,Related
+S0264,Nausea,2024-02-11,2024-06-30,Mild,Recovered,Related
+S0191,Nausea,2024-09-22,2024-03-16,Mild,Ongoing,Related
+S0921,Fatigue,2024-10-10,2024-01-02,Severe,Recovered with Sequelae,Unrelated
+S0756,Headache,2024-08-16,2024-08-21,Moderate,Recovered,Unrelated
+S0632,Fatigue,2024-07-29,2024-04-12,Mild,Recovered with Sequelae,Unrelated
+S0979,Fatigue,2024-04-19,2024-06-22,Mild,Recovered,Unrelated
+S0723,Headache,2024-10-12,2024-05-07,Severe,Recovered with Sequelae,Unrelated
+S0296,Fever,2024-08-07,2024-09-23,Mild,Recovered with Sequelae,Related
+S0642,Fever,2024-08-22,2024-04-01,Severe,Recovered,Unrelated
+S0802,Nausea,2024-05-23,2024-09-06,Mild,Ongoing,Related
+S0634,Fever,2024-02-23,2024-04-29,Mild,Recovered,Unrelated
+S0034,Cough,2024-07-30,2024-03-20,Severe,Recovered,Unrelated
+S0912,Cough,2024-09-15,2024-03-27,Severe,Recovered with Sequelae,Related
+S0117,Fatigue,2024-06-07,2024-01-02,Severe,Ongoing,Unrelated
+S0337,Nausea,2024-02-21,2024-10-10,Moderate,Recovered with Sequelae,Related
+S0669,Cough,2024-09-26,2024-02-16,Moderate,Ongoing,Unrelated
+S0840,Nausea,2024-09-13,2024-03-14,Severe,Recovered with Sequelae,Unrelated
+S0318,Cough,2024-03-01,2024-03-11,Severe,Recovered,Related
+S0443,Fatigue,2024-09-26,2024-02-15,Mild,Recovered,Related
+S0165,Fever,2024-02-05,2024-03-31,Mild,Recovered,Unrelated
+S0801,Nausea,2024-07-03,2024-01-25,Moderate,Recovered with Sequelae,Unrelated
+S0172,Nausea,2024-03-19,2024-02-02,Severe,Ongoing,Unrelated
+S0542,Nausea,2024-09-18,2024-01-03,Moderate,Recovered,Unrelated
+S0356,Cough,2024-04-03,2024-09-22,Moderate,Recovered,Unrelated
+S0901,Fever,2024-01-06,2024-03-02,Mild,Ongoing,Related
+S0430,Fever,2024-08-03,2024-04-27,Moderate,Recovered,Unrelated
+S0012,Nausea,2024-07-11,2024-03-29,Severe,Recovered with Sequelae,Related
+S0098,Headache,2024-08-27,2024-01-22,Moderate,Ongoing,Related
+S0824,Fatigue,2024-02-25,2024-05-11,Moderate,Recovered with Sequelae,Unrelated
+S0515,Headache,2024-05-29,2024-09-08,Mild,Recovered,Unrelated
+S0819,Fatigue,2024-03-01,2024-07-06,Moderate,Recovered,Related
+S0929,Cough,2024-04-06,2024-03-27,Mild,Recovered with Sequelae,Related
+S0992,Fever,2024-01-14,2024-08-25,Mild,Ongoing,Unrelated
+S0940,Fever,2024-04-30,2024-06-07,Mild,Ongoing,Related
+S0178,Nausea,2024-04-21,2024-02-28,Moderate,Recovered with Sequelae,Related
+S0632,Nausea,2024-08-26,2024-06-04,Moderate,Recovered with Sequelae,Unrelated
+S0138,Nausea,2024-02-10,2024-05-06,Severe,Recovered,Related
+S0883,Fatigue,2024-04-09,2024-03-16,Mild,Recovered with Sequelae,Related
+S0773,Cough,2024-01-01,2024-06-11,Moderate,Ongoing,Related
+S0055,Fever,2024-07-18,2024-03-21,Severe,Recovered with Sequelae,Related
+S0419,Headache,2024-03-16,2024-01-04,Severe,Ongoing,Related
+S0868,Cough,2024-05-06,2024-01-18,Severe,Recovered,Unrelated
+S0493,Fatigue,2024-04-26,2024-06-26,Severe,Ongoing,Unrelated
+S0891,Fever,2024-01-20,2024-08-02,Severe,Ongoing,Related
+S0313,Fever,2024-06-19,2024-02-02,Moderate,Ongoing,Related
+S0979,Cough,2024-09-13,2024-01-08,Mild,Recovered with Sequelae,Unrelated
+S0275,Nausea,2024-02-09,2024-08-30,Severe,Ongoing,Related
+S0860,Nausea,2024-05-29,2024-05-03,Severe,Ongoing,Unrelated
+S0353,Fever,2024-08-26,2024-07-19,Severe,Recovered with Sequelae,Related
+S0913,Nausea,2024-10-04,2024-10-27,Moderate,Ongoing,Related
+S0417,Headache,2024-04-05,2024-10-03,Mild,Recovered,Unrelated
+S0020,Fever,2024-01-22,2024-09-07,Mild,Recovered,Unrelated
+S0556,Fever,2024-10-28,2024-08-03,Severe,Ongoing,Unrelated
+S0507,Fever,2024-08-05,2024-05-25,Mild,Recovered,Related
+S0538,Cough,2024-06-19,2024-09-18,Severe,Ongoing,Unrelated
+S0662,Fatigue,2024-04-13,2024-09-29,Mild,Recovered with Sequelae,Unrelated
+S0327,Nausea,2024-05-23,2024-05-21,Mild,Recovered with Sequelae,Related
+S0889,Fatigue,2024-03-24,2024-08-17,Mild,Recovered with Sequelae,Related
+S0803,Headache,2024-02-21,2024-09-07,Severe,Recovered with Sequelae,Related
+S0889,Nausea,2024-08-26,2024-01-13,Severe,Recovered with Sequelae,Unrelated
+S0164,Fever,2024-03-11,2024-03-09,Severe,Recovered with Sequelae,Related
+S0025,Fever,2024-09-20,2024-04-17,Moderate,Ongoing,Related
+S0811,Headache,2024-07-04,2024-06-15,Moderate,Ongoing,Unrelated
+S0799,Fatigue,2024-08-01,2024-10-08,Severe,Recovered with Sequelae,Related
+S0609,Headache,2024-07-23,2024-09-23,Moderate,Recovered with Sequelae,Unrelated
+S0537,Fever,2024-05-14,2024-01-28,Severe,Ongoing,Unrelated
+S0176,Nausea,2024-10-17,2024-03-26,Mild,Recovered,Related
+S0480,Fatigue,2024-10-24,2024-02-06,Severe,Recovered,Related
+S0133,Headache,2024-10-08,2024-01-10,Mild,Ongoing,Related
+S0711,Nausea,2024-08-13,2024-01-15,Moderate,Recovered,Unrelated
+S0757,Headache,2024-05-11,2024-09-10,Moderate,Recovered,Unrelated
+S0893,Fever,2024-04-15,2024-10-06,Severe,Recovered with Sequelae,Related
+S0519,Fatigue,2024-08-14,2024-02-23,Severe,Recovered,Related
+S0076,Fever,2024-08-24,2024-02-24,Mild,Ongoing,Related
+S0662,Headache,2024-03-18,2024-01-19,Severe,Recovered,Related
+S0496,Headache,2024-09-16,2024-04-29,Moderate,Recovered with Sequelae,Unrelated
+S0695,Fever,2024-06-11,2024-07-24,Mild,Recovered with Sequelae,Related
+S0027,Fever,2024-09-23,2024-08-10,Severe,Ongoing,Related
+S0672,Cough,2024-01-15,2024-04-20,Mild,Recovered,Unrelated
+S0349,Cough,2024-01-28,2024-09-08,Severe,Recovered with Sequelae,Related
+S0877,Headache,2024-05-21,2024-10-10,Mild,Recovered with Sequelae,Related
+S0872,Headache,2024-06-11,2024-09-16,Moderate,Ongoing,Unrelated
+S0202,Cough,2024-09-19,2024-05-08,Mild,Ongoing,Related
+S0323,Cough,2024-01-17,2024-01-16,Moderate,Recovered with Sequelae,Unrelated
+S0214,Cough,2024-02-03,2024-02-25,Mild,Recovered with Sequelae,Unrelated
+S0891,Nausea,2024-09-07,2024-04-13,Moderate,Recovered,Unrelated
+S0331,Fever,2024-02-09,2024-10-11,Severe,Recovered,Unrelated
+S0426,Fever,2024-08-26,2024-05-10,Mild,Recovered,Related
+S0032,Headache,2024-10-22,2024-08-31,Moderate,Ongoing,Related
+S0469,Headache,2024-04-28,2024-01-12,Mild,Ongoing,Related
+S0669,Nausea,2024-08-14,2024-03-19,Severe,Recovered with Sequelae,Related
+S0236,Cough,2024-09-04,2024-06-26,Moderate,Recovered with Sequelae,Unrelated
+S0839,Headache,2024-02-14,2024-10-07,Mild,Ongoing,Related
+S0208,Nausea,2024-06-08,2024-10-03,Mild,Ongoing,Unrelated
+S0205,Fever,2024-06-07,2024-01-27,Mild,Recovered,Related
+S0805,Cough,2024-02-26,2024-01-13,Moderate,Ongoing,Related
+S0711,Headache,2024-03-22,2024-01-31,Moderate,Recovered,Unrelated
+S0948,Headache,2024-10-19,2024-06-13,Mild,Ongoing,Related
+S0923,Fever,2024-01-09,2024-06-10,Severe,Recovered with Sequelae,Related
+S0610,Headache,2024-05-21,2024-02-08,Mild,Recovered with Sequelae,Unrelated
+S0782,Headache,2024-05-01,2024-10-21,Moderate,Recovered with Sequelae,Unrelated
+S0212,Fatigue,2024-08-25,2024-05-28,Severe,Recovered with Sequelae,Related
+S0190,Nausea,2024-06-15,2024-08-25,Severe,Recovered with Sequelae,Unrelated
+S0987,Fever,2024-05-22,2024-08-22,Severe,Recovered,Unrelated
+S0983,Headache,2024-10-22,2024-10-25,Moderate,Recovered with Sequelae,Unrelated
+S0285,Headache,2024-06-29,2024-03-05,Mild,Recovered,Related
+S0377,Cough,2024-06-17,2024-09-19,Moderate,Recovered,Related
+S0371,Headache,2024-08-30,2024-02-07,Moderate,Ongoing,Related
+S0201,Fatigue,2024-02-26,2024-01-21,Mild,Recovered,Related
+S0946,Cough,2024-05-15,2024-06-16,Mild,Recovered,Related
+S0161,Nausea,2024-04-26,2024-10-16,Mild,Ongoing,Related
+S0875,Headache,2024-04-25,2024-09-06,Mild,Recovered,Unrelated
+S0133,Fever,2024-10-27,2024-10-24,Severe,Recovered with Sequelae,Related
+S0254,Fever,2024-02-16,2024-07-03,Severe,Recovered,Unrelated
+S0270,Nausea,2024-08-26,2024-07-11,Moderate,Recovered,Unrelated
+S1000,Nausea,2024-06-09,2024-05-26,Severe,Ongoing,Related
+S0133,Headache,2024-01-29,2024-02-20,Moderate,Ongoing,Unrelated
+S0963,Cough,2024-03-15,2024-06-23,Moderate,Ongoing,Unrelated
+S0960,Fatigue,2024-01-11,2024-05-15,Moderate,Recovered with Sequelae,Unrelated
+S0410,Headache,2024-09-02,2024-03-10,Mild,Recovered with Sequelae,Related
+S0083,Fever,2024-02-29,2024-05-09,Mild,Recovered with Sequelae,Related
+S0044,Fever,2024-01-21,2024-08-20,Mild,Recovered,Related
+S0070,Fatigue,2024-06-11,2024-08-26,Severe,Recovered,Related
+S0667,Cough,2024-03-24,2024-02-11,Mild,Recovered,Related
+S0584,Cough,2024-03-24,2024-02-12,Severe,Recovered,Related
+S0008,Nausea,2024-04-07,2024-01-16,Mild,Recovered,Related
+S0060,Fever,2024-01-16,2024-02-21,Moderate,Ongoing,Related
+S0465,Nausea,2024-05-10,2024-09-10,Moderate,Recovered,Related
+S0743,Headache,2024-06-15,2024-09-01,Mild,Ongoing,Unrelated
+S0083,Cough,2024-01-29,2024-04-28,Severe,Recovered with Sequelae,Related
+S0022,Fever,2024-05-02,2024-06-22,Severe,Recovered with Sequelae,Unrelated
+S0442,Headache,2024-04-13,2024-07-30,Severe,Recovered with Sequelae,Unrelated
+S0334,Cough,2024-06-25,2024-07-04,Moderate,Recovered,Related
+S0991,Nausea,2024-05-15,2024-09-11,Moderate,Ongoing,Unrelated
+S0928,Cough,2024-01-08,2024-01-18,Severe,Recovered,Related
+S0648,Cough,2024-08-05,2024-06-28,Mild,Recovered,Unrelated
+S0856,Fever,2024-02-18,2024-09-16,Severe,Recovered,Related
+S0916,Cough,2024-06-06,2024-07-18,Severe,Recovered with Sequelae,Unrelated
+S0549,Nausea,2024-10-07,2024-03-24,Moderate,Recovered with Sequelae,Related
+S0206,Fatigue,2024-08-14,2024-04-25,Moderate,Recovered with Sequelae,Unrelated
+S0453,Fever,2024-08-23,2024-08-14,Moderate,Recovered,Related
+S0852,Nausea,2024-02-14,2024-09-17,Severe,Recovered,Related
+S0880,Cough,2024-05-12,2024-02-19,Moderate,Recovered with Sequelae,Related
+S0818,Cough,2024-09-30,2024-10-18,Severe,Ongoing,Related
+S0556,Headache,2024-06-18,2024-05-17,Mild,Recovered with Sequelae,Unrelated
+S0892,Nausea,2024-03-10,2024-04-25,Mild,Recovered,Unrelated
+S0166,Fever,2024-04-18,2024-01-09,Mild,Recovered,Unrelated
+S0497,Headache,2024-03-25,2024-09-06,Mild,Recovered with Sequelae,Related
+S0012,Fatigue,2024-07-02,2024-02-28,Moderate,Ongoing,Related
+S0294,Nausea,2024-05-02,2024-06-18,Severe,Ongoing,Unrelated
+S0526,Fatigue,2024-08-09,2024-01-05,Moderate,Recovered with Sequelae,Related
+S0028,Cough,2024-05-09,2024-09-18,Mild,Ongoing,Unrelated
+S0578,Fever,2024-07-10,2024-07-01,Mild,Ongoing,Unrelated
+S0502,Fever,2024-02-02,2024-10-26,Mild,Recovered,Unrelated
+S0851,Cough,2024-01-21,2024-08-31,Mild,Recovered,Related
+S0369,Fever,2024-01-13,2024-09-19,Severe,Ongoing,Related
+S0311,Fever,2024-09-23,2024-01-21,Mild,Recovered,Related
+S0923,Headache,2024-07-04,2024-08-24,Severe,Recovered,Unrelated
+S0004,Fatigue,2024-10-14,2024-08-06,Mild,Recovered,Unrelated
+S0839,Headache,2024-01-27,2024-05-11,Moderate,Recovered with Sequelae,Related
+S0305,Cough,2024-01-06,2024-05-06,Moderate,Recovered with Sequelae,Related
+S0312,Headache,2024-02-02,2024-10-20,Severe,Recovered,Unrelated
+S0470,Fatigue,2024-07-08,2024-07-02,Mild,Recovered,Unrelated
+S0386,Headache,2024-10-12,2024-03-10,Severe,Recovered,Related
+S0987,Fatigue,2024-09-26,2024-04-06,Mild,Recovered with Sequelae,Related
+S0346,Cough,2024-09-23,2024-01-02,Severe,Recovered,Unrelated
+S0195,Cough,2024-04-07,2024-05-18,Severe,Ongoing,Unrelated
+S0971,Cough,2024-03-26,2024-08-25,Mild,Recovered,Unrelated
+S0884,Fatigue,2024-06-02,2024-02-20,Mild,Recovered,Unrelated
+S0808,Cough,2024-05-21,2024-10-16,Moderate,Ongoing,Related
+S0080,Nausea,2024-07-30,2024-06-11,Mild,Recovered with Sequelae,Related
+S0014,Headache,2024-02-06,2024-08-28,Mild,Recovered with Sequelae,Unrelated
+S0152,Fatigue,2024-07-14,2024-09-18,Moderate,Ongoing,Unrelated
+S0538,Nausea,2024-08-14,2024-03-02,Moderate,Recovered,Related
+S0298,Fever,2024-03-11,2024-02-23,Severe,Recovered,Related
+S0656,Cough,2024-06-19,2024-08-19,Severe,Recovered with Sequelae,Related
+S0263,Cough,2024-02-22,2024-09-04,Moderate,Ongoing,Unrelated
+S0464,Fever,2024-07-16,2024-07-13,Moderate,Ongoing,Unrelated
+S0145,Nausea,2024-03-02,2024-10-07,Severe,Recovered,Related
+S0594,Nausea,2024-10-28,2024-01-15,Severe,Recovered,Related
+S0871,Fever,2024-06-13,2024-02-01,Mild,Recovered,Related
+S0203,Cough,2024-03-24,2024-09-06,Severe,Recovered with Sequelae,Related
+S0691,Fever,2024-03-31,2024-01-11,Severe,Recovered with Sequelae,Related
+S0952,Cough,2024-04-06,2024-06-01,Mild,Recovered with Sequelae,Related
+S0471,Fever,2024-07-09,2024-03-26,Severe,Recovered with Sequelae,Unrelated
+S0301,Fever,2024-05-09,2024-02-26,Moderate,Recovered with Sequelae,Unrelated
+S0455,Nausea,2024-10-23,2024-03-31,Moderate,Recovered with Sequelae,Unrelated
+S0813,Cough,2024-09-04,2024-08-27,Severe,Ongoing,Related
+S0030,Headache,2024-02-11,2024-04-21,Mild,Ongoing,Related
+S0890,Fatigue,2024-05-07,2024-02-13,Moderate,Recovered,Related
+S0155,Headache,2024-02-19,2024-05-11,Mild,Recovered with Sequelae,Related
+S0563,Nausea,2024-09-19,2024-01-10,Severe,Recovered with Sequelae,Unrelated
+S0874,Headache,2024-02-12,2024-07-16,Moderate,Recovered with Sequelae,Related
+S0044,Fever,2024-05-10,2024-04-27,Mild,Recovered,Related
+S0412,Cough,2024-09-03,2024-02-21,Moderate,Recovered with Sequelae,Unrelated
+S0775,Cough,2024-01-24,2024-01-18,Severe,Recovered,Unrelated
+S0283,Headache,2024-05-21,2024-01-19,Severe,Recovered with Sequelae,Unrelated
+S0849,Fatigue,2024-05-08,2024-06-26,Mild,Ongoing,Related
+S0102,Cough,2024-04-06,2024-04-07,Severe,Recovered,Related
+S0582,Headache,2024-08-03,2024-10-11,Severe,Ongoing,Unrelated
+S0802,Cough,2024-07-01,2024-07-30,Severe,Ongoing,Related
+S0658,Fever,2024-10-10,2024-03-01,Severe,Recovered,Unrelated
+S0173,Nausea,2024-10-08,2024-10-19,Mild,Recovered,Unrelated
+S0806,Fatigue,2024-05-08,2024-02-28,Severe,Recovered with Sequelae,Unrelated
+S0939,Cough,2024-08-30,2024-09-16,Moderate,Recovered with Sequelae,Related
+S0714,Headache,2024-10-20,2024-10-03,Severe,Recovered with Sequelae,Related
+S0180,Cough,2024-08-31,2024-04-27,Moderate,Ongoing,Related
+S0264,Fever,2024-01-14,2024-07-08,Moderate,Recovered with Sequelae,Unrelated
+S0212,Cough,2024-04-11,2024-01-30,Moderate,Recovered,Related
+S0361,Headache,2024-06-03,2024-08-22,Mild,Ongoing,Related
+S0962,Fatigue,2024-01-13,2024-08-01,Severe,Recovered,Unrelated
+S0372,Cough,2024-04-16,2024-08-17,Mild,Recovered with Sequelae,Related
+S0203,Fatigue,2024-08-30,2024-02-16,Mild,Recovered with Sequelae,Unrelated
+S0991,Fatigue,2024-08-12,2024-02-26,Severe,Recovered with Sequelae,Related
+S0430,Fatigue,2024-03-06,2024-04-18,Moderate,Recovered with Sequelae,Unrelated
+S0237,Headache,2024-08-19,2024-01-09,Severe,Recovered with Sequelae,Unrelated
+S0986,Fever,2024-04-27,2024-02-07,Mild,Recovered with Sequelae,Related
+S0649,Fever,2024-05-03,2024-02-03,Moderate,Ongoing,Unrelated
+S0709,Headache,2024-06-25,2024-10-03,Mild,Recovered with Sequelae,Unrelated
+S0583,Cough,2024-06-24,2024-05-25,Severe,Ongoing,Related
+S0308,Fatigue,2024-09-23,2024-01-23,Severe,Recovered,Related
+S0408,Cough,2024-04-16,2024-05-02,Severe,Recovered with Sequelae,Unrelated
+S0757,Nausea,2024-02-29,2024-01-21,Mild,Recovered,Related
+S0021,Fever,2024-02-18,2024-09-10,Severe,Recovered with Sequelae,Related
+S0306,Cough,2024-10-18,2024-08-04,Moderate,Recovered,Unrelated
+S0932,Headache,2024-02-18,2024-07-02,Mild,Recovered with Sequelae,Related
+S0910,Fever,2024-07-11,2024-03-24,Moderate,Recovered,Unrelated
+S0832,Headache,2024-05-16,2024-09-28,Mild,Recovered,Unrelated
+S0863,Fatigue,2024-09-11,2024-09-14,Mild,Recovered,Unrelated
+S0522,Nausea,2024-10-04,2024-09-28,Severe,Recovered,Unrelated
+S0103,Nausea,2024-08-22,2024-07-11,Moderate,Ongoing,Related
+S0471,Fatigue,2024-08-19,2024-10-12,Moderate,Recovered with Sequelae,Unrelated
+S0480,Cough,2024-05-08,2024-05-16,Severe,Ongoing,Unrelated
+S0233,Nausea,2024-02-13,2024-07-01,Moderate,Recovered with Sequelae,Unrelated
+S0204,Cough,2024-06-06,2024-03-29,Mild,Recovered with Sequelae,Related
+S0953,Cough,2024-01-29,2024-07-26,Severe,Ongoing,Unrelated
+S0328,Headache,2024-09-02,2024-08-13,Severe,Ongoing,Related
+S0734,Fever,2024-09-12,2024-07-22,Mild,Recovered with Sequelae,Unrelated
+S0208,Nausea,2024-03-16,2024-02-23,Mild,Recovered with Sequelae,Related
+S0468,Nausea,2024-04-20,2024-02-16,Severe,Recovered,Unrelated
+S0955,Nausea,2024-07-20,2024-05-08,Mild,Recovered with Sequelae,Related
+S0978,Fatigue,2024-02-06,2024-01-23,Severe,Recovered,Unrelated
+S0938,Fever,2024-06-23,2024-01-07,Mild,Recovered,Related
+S0634,Fatigue,2024-06-11,2024-07-22,Severe,Recovered,Unrelated
+S0613,Nausea,2024-05-09,2024-07-31,Mild,Recovered,Unrelated
+S0603,Fever,2024-02-05,2024-02-05,Severe,Recovered with Sequelae,Unrelated
+S0083,Nausea,2024-07-12,2024-09-08,Severe,Ongoing,Related
+S0370,Fatigue,2024-05-05,2024-03-30,Mild,Ongoing,Unrelated
+S0722,Nausea,2024-03-15,2024-03-03,Mild,Recovered,Unrelated
+S0338,Fatigue,2024-05-11,2024-05-24,Mild,Recovered,Unrelated
+S0432,Fever,2024-04-21,2024-07-01,Mild,Ongoing,Related
+S0521,Headache,2024-06-22,2024-02-26,Mild,Ongoing,Related
+S0020,Fatigue,2024-07-29,2024-06-29,Mild,Ongoing,Unrelated
+S0791,Fever,2024-10-25,2024-02-23,Mild,Recovered,Related
+S0031,Headache,2024-09-10,2024-07-27,Moderate,Ongoing,Related
+S0305,Cough,2024-08-12,2024-05-08,Moderate,Recovered,Unrelated
+S0192,Fatigue,2024-04-27,2024-03-29,Severe,Recovered,Related
+S0563,Cough,2024-01-27,2024-09-09,Severe,Ongoing,Unrelated
+S0611,Cough,2024-05-07,2024-06-17,Severe,Recovered with Sequelae,Unrelated
+S0868,Headache,2024-10-12,2024-07-12,Severe,Recovered with Sequelae,Related
+S0018,Cough,2024-08-11,2024-05-06,Severe,Recovered with Sequelae,Unrelated
+S0015,Fatigue,2024-02-01,2024-01-01,Severe,Recovered,Related
+S0429,Fever,2024-05-16,2024-03-20,Moderate,Recovered,Related
+S0855,Cough,2024-08-07,2024-01-08,Severe,Recovered with Sequelae,Unrelated
+S0357,Cough,2024-06-07,2024-09-30,Mild,Ongoing,Unrelated
+S0560,Nausea,2024-04-19,2024-01-18,Moderate,Ongoing,Related
+S0933,Nausea,2024-06-19,2024-07-07,Severe,Recovered with Sequelae,Unrelated
+S0537,Cough,2024-10-19,2024-05-21,Moderate,Recovered,Related
+S0684,Fever,2024-06-27,2024-06-15,Moderate,Recovered,Related
+S0359,Fatigue,2024-03-28,2024-03-30,Severe,Recovered with Sequelae,Unrelated
+S0897,Fatigue,2024-03-01,2024-06-15,Mild,Recovered with Sequelae,Unrelated
+S0825,Cough,2024-02-05,2024-02-03,Moderate,Recovered,Related
+S0058,Headache,2024-01-29,2024-09-11,Mild,Ongoing,Unrelated
+S0257,Cough,2024-09-26,2024-08-07,Severe,Recovered with Sequelae,Unrelated
+S0375,Fever,2024-09-20,2024-08-23,Mild,Recovered,Related
+S0888,Cough,2024-10-14,2024-02-27,Mild,Recovered,Related
+S0190,Nausea,2024-01-22,2024-10-03,Moderate,Recovered,Unrelated
+S0439,Fatigue,2024-06-06,2024-07-16,Severe,Recovered with Sequelae,Unrelated
+S0597,Fatigue,2024-03-16,2024-03-13,Severe,Recovered,Related
+S0694,Cough,2024-07-26,2024-01-25,Moderate,Ongoing,Unrelated
+S0167,Headache,2024-08-18,2024-10-20,Severe,Ongoing,Related
+S0310,Headache,2024-03-12,2024-10-09,Severe,Recovered with Sequelae,Unrelated
+S0117,Headache,2024-10-03,2024-09-16,Moderate,Ongoing,Related
+S0872,Headache,2024-03-06,2024-05-02,Mild,Recovered with Sequelae,Related
+S0031,Fever,2024-01-14,2024-09-25,Severe,Recovered,Unrelated
+S0391,Fatigue,2024-09-07,2024-07-12,Severe,Recovered with Sequelae,Unrelated
+S0512,Fever,2024-10-23,2024-02-14,Severe,Recovered,Related
+S0405,Fatigue,2024-04-13,2024-05-21,Severe,Recovered,Related
+S0056,Fever,2024-05-20,2024-03-25,Moderate,Ongoing,Unrelated
+S0666,Headache,2024-07-21,2024-05-25,Moderate,Recovered with Sequelae,Related
+S0896,Cough,2024-07-26,2024-10-21,Mild,Recovered with Sequelae,Related
+S0834,Cough,2024-03-10,2024-05-02,Mild,Recovered with Sequelae,Related
+S0715,Fatigue,2024-05-31,2024-02-06,Severe,Recovered with Sequelae,Unrelated
+S0539,Nausea,2024-06-23,2024-05-05,Severe,Recovered,Unrelated
+S0486,Headache,2024-10-22,2024-07-10,Mild,Recovered with Sequelae,Unrelated
+S0282,Nausea,2024-05-28,2024-09-26,Mild,Ongoing,Related
+S0901,Cough,2024-10-24,2024-04-16,Severe,Recovered,Unrelated
+S0006,Fever,2024-02-18,2024-07-29,Severe,Recovered with Sequelae,Related
+S0091,Fatigue,2024-07-11,2024-07-01,Moderate,Ongoing,Unrelated
+S0268,Cough,2024-02-28,2024-02-04,Severe,Recovered,Related
+S0728,Headache,2024-01-05,2024-06-05,Moderate,Recovered with Sequelae,Related
+S0738,Cough,2024-01-26,2024-10-11,Severe,Recovered,Unrelated
+S0760,Fever,2024-02-02,2024-06-29,Severe,Ongoing,Unrelated
+S0559,Cough,2024-08-26,2024-07-01,Severe,Recovered,Related
+S0415,Nausea,2024-02-10,2024-03-11,Moderate,Recovered with Sequelae,Unrelated
+S0871,Nausea,2024-03-23,2024-10-24,Severe,Ongoing,Unrelated
+S0187,Cough,2024-04-07,2024-03-22,Moderate,Ongoing,Related
+S0240,Cough,2024-09-30,2024-07-07,Mild,Ongoing,Related
+S0396,Fever,2024-03-30,2024-03-02,Severe,Ongoing,Unrelated
+S0079,Cough,2024-10-07,2024-01-16,Mild,Recovered,Related
+S0052,Fatigue,2024-10-14,2024-10-15,Severe,Recovered with Sequelae,Related
+S0616,Nausea,2024-10-14,2024-01-29,Severe,Ongoing,Unrelated
+S0570,Cough,2024-02-16,2024-03-02,Severe,Ongoing,Unrelated
+S0534,Headache,2024-01-22,2024-06-20,Severe,Ongoing,Unrelated
+S0961,Fever,2024-04-14,2024-10-08,Severe,Ongoing,Related
+S0298,Headache,2024-04-02,2024-02-07,Mild,Recovered with Sequelae,Related
+S0274,Headache,2024-03-17,2024-08-25,Severe,Recovered with Sequelae,Unrelated
+S0638,Nausea,2024-01-12,2024-02-15,Severe,Ongoing,Unrelated
+S0172,Nausea,2024-07-16,2024-06-20,Moderate,Recovered,Related
+S0650,Headache,2024-03-02,2024-09-04,Moderate,Recovered with Sequelae,Unrelated
+S0635,Fatigue,2024-04-02,2024-08-18,Severe,Ongoing,Unrelated
+S0684,Headache,2024-05-01,2024-05-19,Severe,Recovered,Related
+S0284,Fatigue,2024-02-08,2024-06-28,Mild,Recovered,Unrelated
+S0941,Headache,2024-08-12,2024-02-06,Moderate,Recovered,Unrelated
+S0673,Fatigue,2024-08-14,2024-10-05,Severe,Recovered,Unrelated
+S0487,Cough,2024-02-26,2024-03-31,Moderate,Recovered with Sequelae,Related
+S0168,Fatigue,2024-07-04,2024-09-03,Mild,Recovered with Sequelae,Unrelated
+S0050,Fatigue,2024-06-28,2024-04-04,Moderate,Recovered with Sequelae,Unrelated
+S0955,Cough,2024-05-19,2024-02-10,Moderate,Recovered with Sequelae,Unrelated
+S0267,Fatigue,2024-07-30,2024-07-13,Severe,Recovered with Sequelae,Related
+S0403,Headache,2024-09-20,2024-06-21,Moderate,Recovered with Sequelae,Related
+S0737,Fever,2024-04-06,2024-02-25,Severe,Recovered with Sequelae,Related
+S0824,Headache,2024-06-08,2024-02-26,Moderate,Recovered,Related
+S0056,Fever,2024-08-26,2024-01-14,Mild,Ongoing,Related
+S0559,Cough,2024-04-30,2024-04-18,Moderate,Recovered with Sequelae,Unrelated
+S0104,Fatigue,2024-10-24,2024-01-11,Severe,Recovered with Sequelae,Related
+S0743,Cough,2024-10-08,2024-05-27,Moderate,Recovered with Sequelae,Unrelated
+S0411,Nausea,2024-07-25,2024-03-18,Severe,Recovered with Sequelae,Unrelated
+S0298,Headache,2024-04-21,2024-02-24,Moderate,Recovered,Related
+S0507,Headache,2024-05-01,2024-09-29,Mild,Recovered with Sequelae,Related
+S0182,Fever,2024-04-27,2024-06-22,Moderate,Ongoing,Unrelated
+S0174,Fever,2024-06-26,2024-09-17,Severe,Recovered,Related
+S0270,Cough,2024-04-08,2024-10-17,Mild,Recovered with Sequelae,Unrelated
+S0596,Cough,2024-02-11,2024-06-05,Mild,Ongoing,Unrelated
+S0256,Cough,2024-10-12,2024-03-16,Severe,Recovered with Sequelae,Unrelated
+S0990,Cough,2024-08-21,2024-07-04,Mild,Recovered,Related
+S0502,Fatigue,2024-07-24,2024-05-16,Moderate,Ongoing,Unrelated
+S0651,Nausea,2024-09-15,2024-06-06,Severe,Recovered with Sequelae,Unrelated
+S0474,Fatigue,2024-09-05,2024-04-16,Mild,Ongoing,Unrelated
+S0775,Fatigue,2024-03-06,2024-01-07,Severe,Ongoing,Unrelated
+S0954,Headache,2024-01-01,2024-05-31,Moderate,Recovered with Sequelae,Related
+S0241,Nausea,2024-02-18,2024-06-15,Severe,Recovered,Unrelated
+S0562,Fatigue,2024-01-22,2024-03-02,Severe,Recovered with Sequelae,Unrelated
+S0551,Nausea,2024-03-12,2024-07-05,Severe,Ongoing,Related
+S0164,Fever,2024-07-02,2024-04-17,Severe,Recovered,Related
+S0232,Nausea,2024-07-29,2024-06-01,Mild,Recovered with Sequelae,Related
+S0020,Fever,2024-03-17,2024-01-12,Severe,Ongoing,Unrelated
+S0452,Cough,2024-05-03,2024-03-16,Moderate,Ongoing,Related
+S0148,Nausea,2024-05-06,2024-10-14,Severe,Recovered,Unrelated
+S0228,Fatigue,2024-02-14,2024-10-02,Severe,Recovered,Related
+S0161,Fatigue,2024-06-08,2024-01-23,Mild,Ongoing,Related
+S0735,Headache,2024-03-13,2024-10-16,Severe,Recovered with Sequelae,Unrelated
+S0982,Fatigue,2024-07-13,2024-06-05,Mild,Recovered,Related
+S0383,Nausea,2024-02-17,2024-01-16,Moderate,Recovered with Sequelae,Unrelated
+S0303,Fatigue,2024-05-29,2024-06-10,Mild,Ongoing,Related
+S0571,Fatigue,2024-02-08,2024-03-09,Moderate,Ongoing,Related
+S0650,Headache,2024-03-16,2024-09-20,Moderate,Recovered,Related
+S0817,Fatigue,2024-06-15,2024-08-23,Severe,Recovered,Related
+S0162,Headache,2024-01-24,2024-09-02,Moderate,Ongoing,Related
+S0019,Cough,2024-01-15,2024-05-05,Severe,Ongoing,Unrelated
+S0197,Headache,2024-10-30,2024-09-01,Severe,Ongoing,Unrelated
+S0996,Nausea,2024-08-15,2024-06-30,Moderate,Recovered with Sequelae,Unrelated
+S0032,Cough,2024-10-01,2024-04-13,Mild,Ongoing,Unrelated
+S0661,Fever,2024-06-05,2024-09-29,Moderate,Recovered with Sequelae,Unrelated
+S0400,Nausea,2024-01-19,2024-10-04,Severe,Ongoing,Unrelated
+S0808,Nausea,2024-07-23,2024-01-11,Mild,Recovered,Unrelated
+S0956,Nausea,2024-05-27,2024-01-12,Severe,Ongoing,Unrelated
+S0984,Fatigue,2024-07-27,2024-03-06,Mild,Ongoing,Unrelated
+S0653,Nausea,2024-03-16,2024-06-08,Moderate,Ongoing,Related
+S0722,Headache,2024-05-15,2024-05-22,Severe,Ongoing,Unrelated
+S0324,Nausea,2024-02-11,2024-04-26,Mild,Recovered with Sequelae,Related
+S0956,Cough,2024-02-06,2024-02-21,Mild,Recovered with Sequelae,Unrelated
+S0044,Headache,2024-02-24,2024-07-11,Severe,Ongoing,Related
+S0997,Fever,2024-07-30,2024-09-16,Severe,Ongoing,Unrelated
+S0718,Nausea,2024-07-28,2024-10-02,Moderate,Recovered with Sequelae,Unrelated
+S0935,Nausea,2024-05-05,2024-03-10,Mild,Recovered with Sequelae,Unrelated
+S0892,Headache,2024-06-11,2024-10-23,Moderate,Recovered with Sequelae,Related
+S0828,Fever,2024-07-17,2024-10-16,Moderate,Recovered,Unrelated
+S0331,Headache,2024-02-07,2024-08-27,Mild,Ongoing,Unrelated
+S0131,Fever,2024-09-01,2024-09-10,Moderate,Ongoing,Unrelated
+S0573,Fever,2024-03-12,2024-01-03,Moderate,Recovered with Sequelae,Related
+S0359,Headache,2024-08-08,2024-10-24,Mild,Recovered,Unrelated
+S0805,Nausea,2024-05-05,2024-02-28,Moderate,Ongoing,Unrelated
+S0462,Headache,2024-04-21,2024-02-29,Severe,Recovered,Unrelated
+S0738,Nausea,2024-09-08,2024-10-20,Moderate,Recovered,Unrelated
+S0882,Fatigue,2024-02-03,2024-02-07,Moderate,Ongoing,Related
+S0935,Cough,2024-07-01,2024-01-18,Mild,Ongoing,Unrelated
+S0200,Fever,2024-03-20,2024-10-26,Moderate,Recovered with Sequelae,Unrelated
+S0797,Cough,2024-07-22,2024-01-10,Severe,Recovered with Sequelae,Related
+S0096,Fever,2024-07-26,2024-04-05,Mild,Recovered,Unrelated
+S0952,Fever,2024-02-02,2024-03-24,Moderate,Ongoing,Unrelated
+S0432,Fatigue,2024-08-13,2024-03-23,Mild,Recovered,Related
+S0465,Fatigue,2024-01-08,2024-03-22,Mild,Recovered with Sequelae,Related
+S0599,Headache,2024-04-08,2024-01-12,Mild,Ongoing,Unrelated
+S0508,Cough,2024-07-20,2024-04-22,Mild,Ongoing,Unrelated
+S0268,Nausea,2024-08-20,2024-07-25,Severe,Recovered with Sequelae,Related
+S0849,Fatigue,2024-08-08,2024-05-04,Severe,Ongoing,Unrelated
+S0600,Cough,2024-09-12,2024-05-31,Mild,Ongoing,Related
+S0285,Cough,2024-05-09,2024-07-08,Mild,Ongoing,Unrelated
+S0303,Fatigue,2024-10-25,2024-01-05,Severe,Recovered with Sequelae,Related
+S0768,Fever,2024-02-28,2024-10-11,Mild,Recovered,Unrelated
+S0415,Headache,2024-07-29,2024-04-14,Severe,Ongoing,Related
+S0593,Nausea,2024-01-26,2024-07-25,Moderate,Recovered with Sequelae,Related
+S0287,Cough,2024-05-02,2024-04-05,Mild,Recovered,Unrelated
+S0820,Fatigue,2024-01-24,2024-10-30,Mild,Ongoing,Related
+S0437,Fever,2024-04-18,2024-04-28,Mild,Ongoing,Related
+S0652,Headache,2024-04-26,2024-10-16,Severe,Ongoing,Unrelated
+S0532,Headache,2024-03-29,2024-08-19,Severe,Ongoing,Unrelated
+S0668,Fatigue,2024-01-17,2024-07-18,Severe,Recovered with Sequelae,Unrelated
+S0411,Fever,2024-06-20,2024-09-19,Moderate,Recovered,Related
+S0960,Headache,2024-01-24,2024-10-12,Mild,Ongoing,Unrelated
+S0554,Nausea,2024-01-22,2024-02-22,Severe,Recovered,Unrelated
+S0708,Nausea,2024-10-18,2024-07-13,Moderate,Recovered with Sequelae,Unrelated
+S0612,Fever,2024-05-08,2024-09-28,Moderate,Recovered,Related
+S0469,Headache,2024-09-10,2024-09-18,Severe,Ongoing,Unrelated
+S0543,Nausea,2024-07-11,2024-09-30,Moderate,Recovered with Sequelae,Unrelated
+S0518,Cough,2024-05-19,2024-03-17,Moderate,Recovered,Related
+S0822,Cough,2024-10-05,2024-07-24,Mild,Recovered,Related
+S0894,Cough,2024-03-26,2024-03-14,Severe,Ongoing,Unrelated
+S0318,Headache,2024-04-17,2024-10-25,Severe,Ongoing,Unrelated
+S0773,Nausea,2024-08-19,2024-10-10,Moderate,Ongoing,Unrelated
+S0409,Nausea,2024-04-05,2024-07-04,Moderate,Ongoing,Unrelated
+S0436,Headache,2024-05-25,2024-10-14,Severe,Recovered with Sequelae,Related
+S0652,Nausea,2024-05-02,2024-03-28,Mild,Ongoing,Related
+S0139,Cough,2024-06-07,2024-07-02,Moderate,Recovered,Unrelated
+S0098,Headache,2024-03-13,2024-08-15,Severe,Ongoing,Related
+S0024,Nausea,2024-02-19,2024-03-06,Mild,Recovered with Sequelae,Unrelated
+S0435,Cough,2024-06-15,2024-07-24,Moderate,Recovered with Sequelae,Unrelated
+S0374,Nausea,2024-05-21,2024-08-09,Moderate,Recovered with Sequelae,Unrelated
+S0088,Fever,2024-08-14,2024-03-04,Moderate,Recovered,Related
+S0085,Nausea,2024-01-12,2024-03-27,Severe,Recovered with Sequelae,Related
+S0514,Nausea,2024-06-25,2024-07-26,Severe,Ongoing,Unrelated
+S0144,Fatigue,2024-06-20,2024-01-27,Mild,Recovered,Related
+S0676,Fever,2024-03-12,2024-02-04,Moderate,Recovered with Sequelae,Unrelated
+S0780,Headache,2024-03-05,2024-07-22,Severe,Ongoing,Related
+S0041,Nausea,2024-08-25,2024-05-06,Moderate,Recovered,Unrelated
+S0339,Nausea,2024-05-25,2024-09-23,Severe,Recovered,Related
+S0860,Fatigue,2024-09-12,2024-02-06,Severe,Recovered with Sequelae,Related
+S0426,Fatigue,2024-07-06,2024-05-14,Mild,Recovered with Sequelae,Unrelated
+S0142,Nausea,2024-07-27,2024-01-10,Moderate,Recovered,Unrelated
+S0412,Cough,2024-09-24,2024-04-02,Mild,Recovered,Related
+S0044,Fever,2024-09-24,2024-10-11,Severe,Ongoing,Unrelated
+S0122,Fever,2024-07-31,2024-08-25,Mild,Ongoing,Related
+S0744,Headache,2024-08-22,2024-05-02,Moderate,Ongoing,Unrelated
+S0234,Fever,2024-04-17,2024-03-11,Mild,Recovered,Related
+S0729,Fever,2024-08-10,2024-05-23,Mild,Ongoing,Related
+S0810,Headache,2024-04-13,2024-10-13,Moderate,Recovered,Unrelated
+S0804,Fatigue,2024-01-30,2024-07-09,Moderate,Ongoing,Unrelated
+S0450,Headache,2024-10-01,2024-04-30,Mild,Ongoing,Unrelated
+S0095,Cough,2024-05-18,2024-01-13,Severe,Recovered,Unrelated
+S0096,Fever,2024-03-14,2024-06-24,Mild,Ongoing,Related
+S0923,Cough,2024-04-23,2024-06-13,Moderate,Recovered,Unrelated
+S0929,Headache,2024-05-19,2024-02-10,Severe,Recovered,Unrelated
+S0785,Headache,2024-05-09,2024-09-10,Moderate,Ongoing,Unrelated
+S0527,Fatigue,2024-04-30,2024-06-23,Mild,Recovered with Sequelae,Unrelated
+S0843,Fever,2024-09-25,2024-09-08,Severe,Recovered with Sequelae,Related
+S0391,Cough,2024-06-06,2024-03-15,Severe,Recovered with Sequelae,Unrelated
+S0513,Cough,2024-05-23,2024-02-11,Mild,Ongoing,Unrelated
+S0943,Fatigue,2024-09-09,2024-10-13,Mild,Ongoing,Unrelated
+S0461,Headache,2024-07-16,2024-01-23,Severe,Recovered,Unrelated
+S0138,Cough,2024-02-27,2024-04-18,Moderate,Recovered with Sequelae,Unrelated
+S0377,Headache,2024-03-28,2024-02-26,Mild,Ongoing,Related
+S0813,Nausea,2024-04-01,2024-07-25,Moderate,Ongoing,Unrelated
+S0788,Fatigue,2024-05-27,2024-03-01,Severe,Recovered with Sequelae,Unrelated
+S0593,Headache,2024-10-10,2024-08-20,Severe,Ongoing,Unrelated
+S0526,Fatigue,2024-08-04,2024-08-30,Severe,Recovered,Related
+S0727,Nausea,2024-07-20,2024-03-07,Severe,Recovered,Related
+S0454,Nausea,2024-02-19,2024-08-15,Mild,Ongoing,Unrelated
+S0649,Fatigue,2024-05-17,2024-02-02,Severe,Recovered,Related
+S0414,Nausea,2024-03-03,2024-02-25,Severe,Recovered,Related
+S0001,Fatigue,2024-08-23,2024-03-24,Moderate,Recovered with Sequelae,Related
+S0695,Fever,2024-06-08,2024-08-10,Moderate,Recovered with Sequelae,Related
+S0164,Fatigue,2024-08-31,2024-07-25,Mild,Recovered,Related
+S0065,Cough,2024-03-11,2024-04-09,Mild,Recovered with Sequelae,Unrelated
+S0414,Fever,2024-08-26,2024-08-28,Mild,Recovered,Unrelated
+S0670,Fatigue,2024-06-12,2024-02-17,Moderate,Recovered with Sequelae,Unrelated
+S0323,Headache,2024-08-17,2024-07-18,Mild,Recovered,Unrelated
+S0116,Cough,2024-03-13,2024-04-12,Moderate,Ongoing,Unrelated
+S0934,Cough,2024-02-17,2024-04-07,Mild,Ongoing,Related
+S0727,Nausea,2024-03-05,2024-03-19,Mild,Ongoing,Unrelated
+S0743,Nausea,2024-06-01,2024-03-20,Mild,Recovered,Unrelated
+S0186,Headache,2024-06-27,2024-03-14,Moderate,Recovered,Related
+S0652,Headache,2024-07-23,2024-01-20,Severe,Recovered,Unrelated
+S0363,Fatigue,2024-08-28,2024-08-08,Moderate,Recovered with Sequelae,Related
+S0756,Nausea,2024-08-17,2024-06-26,Moderate,Recovered with Sequelae,Related
+S0913,Fever,2024-01-12,2024-06-09,Severe,Ongoing,Related
+S0735,Headache,2024-02-26,2024-03-02,Moderate,Recovered with Sequelae,Unrelated
+S0136,Cough,2024-04-18,2024-03-17,Moderate,Recovered with Sequelae,Unrelated
+S0522,Fever,2024-06-22,2024-02-02,Severe,Ongoing,Unrelated
+S0436,Nausea,2024-10-14,2024-04-25,Severe,Ongoing,Related
+S0361,Headache,2024-09-10,2024-05-10,Severe,Recovered,Unrelated
+S0655,Fatigue,2024-03-27,2024-07-30,Moderate,Recovered,Related
+S0197,Fever,2024-04-20,2024-07-09,Moderate,Recovered with Sequelae,Unrelated
+S0694,Fever,2024-03-06,2024-03-22,Mild,Recovered with Sequelae,Related
+S0786,Nausea,2024-10-05,2024-10-27,Mild,Ongoing,Related
+S0725,Nausea,2024-01-16,2024-03-13,Moderate,Recovered,Related
+S0233,Fever,2024-09-18,2024-05-07,Moderate,Recovered with Sequelae,Unrelated
+S0026,Headache,2024-09-27,2024-01-10,Mild,Ongoing,Related
+S0928,Cough,2024-05-18,2024-06-02,Moderate,Ongoing,Related
+S0334,Nausea,2024-03-22,2024-05-20,Mild,Recovered with Sequelae,Related
+S0567,Headache,2024-06-29,2024-09-17,Moderate,Recovered,Related
+S0275,Fever,2024-10-04,2024-01-30,Mild,Recovered,Unrelated
+S0752,Headache,2024-07-06,2024-03-31,Severe,Recovered with Sequelae,Related
+S0854,Nausea,2024-09-05,2024-02-18,Moderate,Recovered with Sequelae,Related
+S0558,Cough,2024-02-01,2024-05-20,Mild,Recovered,Related
+S0691,Headache,2024-10-23,2024-06-17,Mild,Recovered with Sequelae,Related
+S0580,Fever,2024-04-03,2024-02-03,Severe,Recovered,Unrelated
+S0215,Cough,2024-06-24,2024-03-13,Mild,Recovered with Sequelae,Related
+S0275,Cough,2024-08-03,2024-04-28,Moderate,Recovered with Sequelae,Related
+S0511,Fever,2024-07-13,2024-03-12,Severe,Ongoing,Related
+S0445,Headache,2024-08-10,2024-02-06,Mild,Recovered with Sequelae,Unrelated
+S0322,Cough,2024-02-21,2024-06-22,Moderate,Recovered with Sequelae,Unrelated
+S0196,Fever,2024-05-21,2024-02-14,Severe,Recovered with Sequelae,Related
+S0136,Cough,2024-06-08,2024-09-12,Moderate,Recovered with Sequelae,Related
+S0872,Fatigue,2024-05-22,2024-10-17,Moderate,Recovered,Unrelated
+S0999,Fever,2024-05-18,2024-03-08,Moderate,Recovered with Sequelae,Unrelated
+S0127,Nausea,2024-07-26,2024-05-10,Mild,Ongoing,Related
+S0066,Nausea,2024-02-22,2024-02-14,Severe,Ongoing,Unrelated
+S0951,Headache,2024-06-24,2024-08-28,Moderate,Recovered with Sequelae,Unrelated
+S0949,Fever,2024-08-13,2024-05-17,Mild,Recovered,Related
+S0411,Fatigue,2024-03-28,2024-04-06,Moderate,Recovered with Sequelae,Unrelated
+S0632,Nausea,2024-08-04,2024-08-11,Severe,Recovered,Related
+S0971,Fever,2024-02-11,2024-10-03,Mild,Recovered,Related
+S0904,Fatigue,2024-03-11,2024-05-11,Moderate,Ongoing,Related
+S0207,Headache,2024-06-22,2024-01-28,Mild,Recovered with Sequelae,Unrelated
+S0231,Headache,2024-02-09,2024-05-06,Mild,Ongoing,Unrelated
+S0515,Headache,2024-05-23,2024-02-10,Mild,Ongoing,Related
+S0561,Fatigue,2024-03-29,2024-07-01,Moderate,Recovered,Unrelated
+S0670,Headache,2024-01-25,2024-09-21,Mild,Recovered,Unrelated
+S0176,Nausea,2024-04-17,2024-03-30,Mild,Recovered with Sequelae,Unrelated
+S0500,Fatigue,2024-01-07,2024-05-30,Mild,Recovered,Related
+S0822,Fever,2024-08-01,2024-08-09,Moderate,Recovered,Unrelated
+S0467,Nausea,2024-04-23,2024-10-04,Moderate,Recovered with Sequelae,Unrelated
+S0854,Nausea,2024-08-22,2024-06-11,Moderate,Ongoing,Related
+S0955,Fatigue,2024-04-11,2024-07-02,Mild,Recovered,Unrelated
+S0224,Fever,2024-10-02,2024-01-01,Moderate,Recovered with Sequelae,Related
+S0106,Headache,2024-01-03,2024-06-30,Moderate,Recovered,Related
+S0086,Fever,2024-10-07,2024-07-21,Moderate,Recovered,Unrelated
+S0694,Cough,2024-05-27,2024-02-05,Mild,Recovered with Sequelae,Related
+S0581,Fatigue,2024-08-01,2024-09-26,Severe,Recovered with Sequelae,Related
+S0739,Fever,2024-02-08,2024-08-20,Mild,Recovered,Unrelated
+S0920,Fatigue,2024-07-25,2024-07-04,Severe,Recovered,Unrelated
+S0796,Nausea,2024-02-19,2024-01-22,Moderate,Recovered,Unrelated
+S0921,Headache,2024-10-15,2024-04-14,Severe,Ongoing,Unrelated
+S0429,Fever,2024-06-11,2024-04-07,Severe,Ongoing,Unrelated
+S0696,Nausea,2024-03-05,2024-10-13,Severe,Recovered,Unrelated
+S0854,Headache,2024-07-15,2024-06-03,Moderate,Recovered with Sequelae,Unrelated
+S0792,Fatigue,2024-01-17,2024-05-13,Severe,Ongoing,Unrelated
+S0631,Cough,2024-02-03,2024-02-10,Moderate,Recovered with Sequelae,Unrelated
+S0024,Cough,2024-01-20,2024-08-01,Moderate,Recovered,Related
+S0128,Fever,2024-04-27,2024-08-03,Severe,Recovered,Related
+S0206,Nausea,2024-02-16,2024-01-26,Moderate,Recovered,Related
+S0133,Fatigue,2024-08-09,2024-01-29,Mild,Recovered,Unrelated
+S0930,Fatigue,2024-01-31,2024-07-03,Mild,Recovered,Unrelated
+S0840,Cough,2024-07-07,2024-10-29,Moderate,Recovered with Sequelae,Related
+S0681,Fatigue,2024-07-22,2024-03-24,Moderate,Recovered with Sequelae,Unrelated
+S0025,Cough,2024-05-15,2024-09-30,Moderate,Recovered,Related
+S0782,Headache,2024-04-12,2024-08-15,Moderate,Recovered with Sequelae,Related
+S0833,Headache,2024-05-24,2024-08-22,Moderate,Ongoing,Related
+S0695,Nausea,2024-04-04,2024-06-27,Moderate,Recovered with Sequelae,Related
+S0448,Fatigue,2024-09-16,2024-03-15,Moderate,Ongoing,Unrelated
+S0196,Headache,2024-06-03,2024-02-06,Mild,Ongoing,Related
+S0723,Fatigue,2024-09-04,2024-09-28,Moderate,Recovered,Related
+S0371,Fatigue,2024-03-05,2024-01-14,Moderate,Recovered with Sequelae,Related
+S0948,Nausea,2024-10-05,2024-08-25,Moderate,Ongoing,Unrelated
+S0850,Fever,2024-03-01,2024-09-30,Mild,Recovered with Sequelae,Related
+S0579,Fever,2024-08-26,2024-03-07,Moderate,Recovered,Unrelated
+S0354,Headache,2024-08-17,2024-07-19,Moderate,Ongoing,Unrelated
+S0262,Nausea,2024-02-23,2024-02-10,Moderate,Ongoing,Unrelated
+S0582,Fatigue,2024-08-19,2024-03-31,Mild,Ongoing,Related
+S0351,Headache,2024-05-09,2024-09-13,Mild,Recovered with Sequelae,Unrelated
+S0052,Cough,2024-03-31,2024-09-10,Moderate,Recovered,Unrelated
+S0818,Nausea,2024-02-25,2024-01-26,Moderate,Recovered with Sequelae,Related
+S0605,Headache,2024-03-13,2024-06-03,Mild,Recovered,Related
+S0121,Fever,2024-02-19,2024-02-01,Moderate,Ongoing,Related
+S0297,Fever,2024-02-15,2024-08-17,Moderate,Recovered,Unrelated
+S0030,Fever,2024-02-01,2024-07-29,Severe,Recovered with Sequelae,Unrelated
+S0651,Fatigue,2024-06-23,2024-02-06,Mild,Recovered with Sequelae,Unrelated
+S0087,Nausea,2024-06-08,2024-07-11,Moderate,Ongoing,Related
+S0508,Fatigue,2024-04-28,2024-03-23,Moderate,Recovered with Sequelae,Unrelated
+S0853,Headache,2024-10-27,2024-04-28,Severe,Recovered with Sequelae,Related
+S0490,Fatigue,2024-05-01,2024-07-15,Mild,Recovered with Sequelae,Unrelated
+S0138,Cough,2024-06-30,2024-07-12,Moderate,Recovered with Sequelae,Related
+S0343,Headache,2024-06-05,2024-01-24,Mild,Recovered with Sequelae,Unrelated
+S0997,Fatigue,2024-03-11,2024-03-26,Moderate,Ongoing,Related
+S0099,Cough,2024-07-19,2024-08-28,Severe,Recovered with Sequelae,Unrelated
+S0935,Fever,2024-07-01,2024-06-13,Severe,Ongoing,Related
+S0855,Nausea,2024-01-09,2024-06-26,Moderate,Recovered with Sequelae,Unrelated
+S0670,Cough,2024-06-04,2024-06-14,Severe,Ongoing,Related
+S0126,Nausea,2024-08-23,2024-02-12,Moderate,Recovered,Related
+S0891,Fever,2024-04-19,2024-06-28,Mild,Ongoing,Related
+S0933,Headache,2024-05-02,2024-07-07,Severe,Recovered with Sequelae,Unrelated
+S0054,Fatigue,2024-03-04,2024-04-10,Severe,Recovered with Sequelae,Related
+S0324,Fatigue,2024-03-18,2024-08-02,Severe,Recovered,Related
+S0973,Headache,2024-01-30,2024-02-24,Mild,Ongoing,Related
+S0103,Fatigue,2024-08-07,2024-09-28,Severe,Ongoing,Related
+S0670,Headache,2024-04-20,2024-04-15,Moderate,Recovered with Sequelae,Unrelated
+S0248,Nausea,2024-09-19,2024-08-19,Severe,Ongoing,Related
+S0756,Nausea,2024-08-02,2024-01-30,Severe,Recovered,Unrelated
+S0021,Fever,2024-01-31,2024-06-25,Mild,Recovered with Sequelae,Related
+S0191,Cough,2024-02-25,2024-08-02,Moderate,Recovered with Sequelae,Related
+S0405,Fever,2024-08-20,2024-04-25,Moderate,Recovered,Related
+S0299,Fever,2024-10-13,2024-10-27,Mild,Ongoing,Unrelated
+S0539,Nausea,2024-03-30,2024-05-22,Moderate,Ongoing,Related
+S0952,Nausea,2024-09-10,2024-06-23,Severe,Recovered,Related
+S0253,Fatigue,2024-07-30,2024-02-20,Mild,Recovered with Sequelae,Unrelated
+S0460,Cough,2024-05-23,2024-02-15,Mild,Recovered,Unrelated
+S0151,Fever,2024-10-10,2024-03-21,Moderate,Recovered,Related
+S0527,Fever,2024-06-18,2024-07-07,Mild,Ongoing,Unrelated
+S0203,Fever,2024-01-05,2024-03-20,Severe,Recovered with Sequelae,Related
+S0905,Nausea,2024-09-18,2024-06-17,Mild,Recovered,Unrelated
+S0198,Fever,2024-10-05,2024-06-27,Mild,Recovered with Sequelae,Unrelated
+S0884,Fatigue,2024-09-25,2024-02-17,Moderate,Ongoing,Unrelated
+S0413,Cough,2024-10-25,2024-05-23,Moderate,Recovered with Sequelae,Related
+S0801,Headache,2024-04-12,2024-03-05,Mild,Ongoing,Unrelated
+S0904,Fever,2024-08-07,2024-03-12,Moderate,Ongoing,Related
+S0886,Headache,2024-01-28,2024-06-03,Severe,Recovered with Sequelae,Unrelated
+S0175,Fever,2024-10-10,2024-07-28,Mild,Ongoing,Related
+S0675,Cough,2024-08-02,2024-01-12,Mild,Recovered,Unrelated
+S0273,Headache,2024-04-19,2024-07-07,Mild,Recovered,Related
+S0649,Nausea,2024-02-09,2024-06-02,Mild,Ongoing,Unrelated
+S0826,Fever,2024-08-23,2024-02-04,Severe,Recovered,Related
+S0533,Fever,2024-02-24,2024-07-05,Mild,Recovered with Sequelae,Unrelated
+S0380,Cough,2024-08-12,2024-04-18,Mild,Recovered with Sequelae,Unrelated
+S0219,Headache,2024-05-01,2024-04-30,Severe,Ongoing,Unrelated
+S0136,Cough,2024-05-30,2024-09-27,Moderate,Recovered,Related
+S0856,Headache,2024-06-28,2024-04-10,Mild,Ongoing,Related
+S0025,Headache,2024-01-05,2024-09-09,Severe,Ongoing,Unrelated
+S0198,Fatigue,2024-01-06,2024-01-28,Moderate,Recovered,Related
+S0455,Cough,2024-07-12,2024-10-25,Mild,Recovered with Sequelae,Related
+S0829,Fatigue,2024-10-06,2024-08-04,Mild,Recovered,Unrelated
+S0977,Headache,2024-09-26,2024-03-10,Moderate,Recovered with Sequelae,Related
+S0386,Cough,2024-07-29,2024-06-15,Severe,Recovered with Sequelae,Related
+S0991,Fever,2024-01-29,2024-06-20,Moderate,Recovered,Unrelated
+S0564,Fatigue,2024-08-23,2024-01-13,Moderate,Recovered with Sequelae,Unrelated
+S0313,Headache,2024-09-05,2024-07-10,Severe,Recovered,Related
+S0354,Fatigue,2024-06-08,2024-07-22,Mild,Recovered,Related
+S0421,Cough,2024-10-10,2024-06-15,Moderate,Recovered with Sequelae,Related
+S0435,Fever,2024-02-16,2024-06-29,Mild,Recovered with Sequelae,Related
+S0918,Fatigue,2024-05-26,2024-01-11,Mild,Recovered with Sequelae,Unrelated
+S0500,Headache,2024-05-21,2024-01-31,Moderate,Recovered with Sequelae,Unrelated
+S0482,Fever,2024-05-28,2024-05-04,Moderate,Recovered with Sequelae,Related
+S0974,Fever,2024-09-27,2024-06-08,Severe,Recovered,Unrelated
+S0642,Cough,2024-05-24,2024-08-14,Moderate,Recovered with Sequelae,Unrelated
+S0622,Fever,2024-08-29,2024-08-20,Severe,Recovered with Sequelae,Related
+S0070,Nausea,2024-04-25,2024-03-03,Mild,Recovered with Sequelae,Unrelated
+S0410,Headache,2024-09-02,2024-07-02,Moderate,Ongoing,Related
+S0803,Nausea,2024-06-12,2024-09-01,Mild,Ongoing,Unrelated
+S0217,Fatigue,2024-08-25,2024-06-10,Severe,Recovered,Unrelated
+S0872,Fatigue,2024-08-17,2024-04-28,Mild,Ongoing,Related
+S0843,Fatigue,2024-06-19,2024-10-04,Severe,Recovered with Sequelae,Unrelated
+S0073,Cough,2024-07-21,2024-08-10,Severe,Recovered with Sequelae,Unrelated
+S0225,Headache,2024-07-25,2024-06-03,Moderate,Recovered,Related
+S0558,Fever,2024-04-23,2024-09-03,Moderate,Recovered with Sequelae,Related
+S0619,Fever,2024-03-04,2024-05-06,Severe,Recovered,Unrelated
+S0636,Cough,2024-07-02,2024-08-15,Mild,Recovered with Sequelae,Related
+S0950,Nausea,2024-03-27,2024-09-30,Moderate,Recovered with Sequelae,Related
+S0800,Fatigue,2024-01-14,2024-08-22,Mild,Recovered with Sequelae,Related
+S0953,Headache,2024-04-11,2024-10-28,Mild,Ongoing,Unrelated
+S0693,Cough,2024-09-01,2024-07-19,Moderate,Ongoing,Related
+S0501,Headache,2024-10-26,2024-06-19,Mild,Recovered,Unrelated
+S0918,Cough,2024-10-05,2024-02-28,Severe,Recovered,Related
+S0916,Cough,2024-10-25,2024-04-26,Mild,Recovered,Related
+S0363,Headache,2024-05-24,2024-01-24,Moderate,Ongoing,Related
+S0916,Fever,2024-06-25,2024-09-23,Mild,Recovered with Sequelae,Related
+S0782,Headache,2024-07-26,2024-05-08,Severe,Ongoing,Unrelated
+S0743,Headache,2024-09-28,2024-08-07,Mild,Recovered with Sequelae,Related
+S0480,Fever,2024-05-10,2024-04-08,Moderate,Recovered,Unrelated
+S0784,Nausea,2024-08-21,2024-01-14,Mild,Recovered,Unrelated
+S0156,Headache,2024-02-19,2024-02-28,Mild,Recovered,Unrelated
+S0244,Headache,2024-06-02,2024-04-27,Severe,Ongoing,Related
+S0124,Cough,2024-07-20,2024-07-16,Mild,Recovered,Related
+S0520,Fever,2024-03-26,2024-07-06,Moderate,Ongoing,Unrelated
+S0842,Fatigue,2024-03-31,2024-01-23,Severe,Recovered,Related
+S0669,Fatigue,2024-07-17,2024-07-21,Moderate,Ongoing,Related
+S0797,Nausea,2024-03-14,2024-06-12,Moderate,Ongoing,Related
+S0653,Fever,2024-01-04,2024-04-14,Severe,Recovered with Sequelae,Related
+S0331,Cough,2024-01-19,2024-04-13,Mild,Recovered with Sequelae,Unrelated
+S0601,Fever,2024-09-17,2024-01-19,Moderate,Ongoing,Related
+S0279,Fatigue,2024-07-06,2024-08-07,Severe,Recovered with Sequelae,Unrelated
+S0312,Nausea,2024-05-11,2024-10-01,Mild,Recovered with Sequelae,Related
+S0332,Fever,2024-06-03,2024-06-26,Severe,Recovered with Sequelae,Unrelated
+S0467,Fever,2024-05-27,2024-06-27,Mild,Ongoing,Unrelated
+S0877,Nausea,2024-08-20,2024-05-24,Mild,Ongoing,Unrelated
+S0697,Nausea,2024-05-02,2024-07-16,Mild,Recovered with Sequelae,Unrelated
+S0829,Nausea,2024-10-16,2024-03-07,Severe,Recovered with Sequelae,Related
+S0907,Headache,2024-04-12,2024-04-14,Mild,Recovered,Related
+S0857,Headache,2024-01-14,2024-08-30,Severe,Recovered with Sequelae,Related
+S0817,Nausea,2024-04-07,2024-09-22,Mild,Recovered,Related
+S0976,Fever,2024-05-10,2024-05-03,Severe,Recovered,Unrelated
+S0858,Nausea,2024-07-01,2024-08-05,Mild,Recovered,Related
+S0658,Fever,2024-08-18,2024-07-06,Moderate,Ongoing,Related
+S0338,Cough,2024-10-16,2024-08-22,Severe,Ongoing,Unrelated
+S0756,Cough,2024-06-22,2024-09-27,Mild,Ongoing,Unrelated
+S0996,Headache,2024-03-29,2024-09-17,Mild,Recovered with Sequelae,Unrelated
+S0771,Headache,2024-02-13,2024-02-15,Moderate,Recovered,Related
+S0075,Nausea,2024-06-05,2024-06-18,Moderate,Recovered,Related
+S0823,Nausea,2024-04-30,2024-05-13,Moderate,Recovered with Sequelae,Unrelated
+S0433,Fever,2024-09-13,2024-04-27,Mild,Ongoing,Related
+S0375,Nausea,2024-03-19,2024-07-01,Moderate,Recovered,Related
+S0669,Headache,2024-08-18,2024-06-25,Moderate,Recovered,Related
+S0875,Nausea,2024-03-17,2024-05-15,Severe,Recovered,Unrelated
+S0154,Fever,2024-05-05,2024-03-30,Mild,Recovered with Sequelae,Unrelated
+S0492,Fatigue,2024-03-09,2024-09-12,Moderate,Recovered,Related
+S0017,Fatigue,2024-09-05,2024-01-24,Mild,Recovered with Sequelae,Unrelated
+S0824,Fatigue,2024-03-01,2024-05-30,Mild,Recovered with Sequelae,Unrelated
+S0163,Cough,2024-03-10,2024-10-07,Moderate,Recovered with Sequelae,Unrelated
+S0501,Nausea,2024-09-19,2024-01-06,Mild,Recovered with Sequelae,Related
+S0454,Fever,2024-06-04,2024-03-02,Moderate,Recovered,Related
+S1000,Headache,2024-06-04,2024-09-12,Severe,Ongoing,Unrelated
+S0440,Cough,2024-02-20,2024-09-27,Severe,Recovered,Unrelated
+S0796,Fever,2024-02-16,2024-09-19,Mild,Recovered with Sequelae,Unrelated
+S0028,Nausea,2024-03-01,2024-01-10,Severe,Ongoing,Related
+S0434,Fatigue,2024-04-11,2024-03-17,Mild,Recovered with Sequelae,Unrelated
+S0583,Fever,2024-04-22,2024-09-04,Moderate,Ongoing,Related
+S0417,Fever,2024-10-04,2024-06-11,Moderate,Recovered with Sequelae,Unrelated
+S0243,Cough,2024-05-18,2024-01-10,Moderate,Recovered,Related
+S0413,Nausea,2024-03-03,2024-05-21,Severe,Recovered,Related
+S0077,Fever,2024-10-11,2024-09-02,Mild,Recovered with Sequelae,Related
+S0955,Fatigue,2024-06-01,2024-04-19,Severe,Recovered,Related
+S0014,Cough,2024-07-12,2024-07-02,Moderate,Recovered,Unrelated
+S0060,Fever,2024-01-03,2024-08-13,Mild,Ongoing,Unrelated
+S0555,Fever,2024-06-09,2024-05-05,Mild,Ongoing,Unrelated
+S0459,Nausea,2024-04-19,2024-05-03,Severe,Ongoing,Related
+S0656,Cough,2024-02-17,2024-08-18,Mild,Ongoing,Related
+S0490,Headache,2024-06-19,2024-05-12,Mild,Recovered with Sequelae,Related
+S0981,Cough,2024-02-08,2024-04-18,Severe,Ongoing,Related
+S0934,Fatigue,2024-07-31,2024-07-08,Mild,Recovered with Sequelae,Related
+S0871,Headache,2024-05-13,2024-05-08,Severe,Ongoing,Related
+S0026,Fever,2024-02-06,2024-07-16,Severe,Recovered,Related
+S0094,Fever,2024-03-26,2024-09-08,Moderate,Recovered with Sequelae,Unrelated
+S0892,Headache,2024-04-13,2024-01-20,Moderate,Recovered,Related
+S0348,Fever,2024-02-23,2024-01-15,Severe,Recovered,Related
+S0330,Fever,2024-08-28,2024-08-24,Severe,Recovered,Unrelated
+S0741,Fever,2024-02-20,2024-03-07,Mild,Recovered,Unrelated
+S0737,Fever,2024-01-13,2024-05-18,Mild,Recovered with Sequelae,Related
+S0307,Fever,2024-08-25,2024-05-10,Mild,Ongoing,Related
+S0022,Cough,2024-02-22,2024-04-19,Moderate,Ongoing,Related
+S0816,Headache,2024-08-29,2024-03-31,Severe,Ongoing,Unrelated
+S0558,Fatigue,2024-08-04,2024-01-07,Moderate,Ongoing,Unrelated
+S0801,Headache,2024-01-09,2024-07-26,Mild,Ongoing,Unrelated
+S0050,Fever,2024-04-26,2024-02-28,Mild,Recovered,Related
+S0632,Headache,2024-09-24,2024-04-02,Mild,Recovered,Related
+S0969,Nausea,2024-03-26,2024-01-12,Severe,Ongoing,Related
+S0758,Cough,2024-03-11,2024-03-27,Moderate,Ongoing,Related
+S0247,Headache,2024-07-18,2024-10-19,Mild,Recovered,Unrelated
+S0712,Fatigue,2024-10-02,2024-06-06,Severe,Recovered with Sequelae,Related
+S0541,Nausea,2024-02-13,2024-09-25,Severe,Recovered,Unrelated
+S0463,Fatigue,2024-03-11,2024-09-06,Moderate,Recovered with Sequelae,Unrelated
+S0123,Cough,2024-01-29,2024-01-01,Mild,Recovered with Sequelae,Unrelated
+S0547,Nausea,2024-07-28,2024-09-05,Severe,Recovered with Sequelae,Unrelated
+S0581,Headache,2024-03-27,2024-09-23,Moderate,Recovered with Sequelae,Unrelated
+S0660,Nausea,2024-07-16,2024-02-15,Moderate,Recovered,Unrelated
+S0416,Cough,2024-04-06,2024-08-07,Severe,Ongoing,Related
+S0258,Nausea,2024-03-15,2024-04-27,Mild,Recovered,Unrelated
+S0202,Headache,2024-03-08,2024-09-28,Severe,Recovered with Sequelae,Unrelated
+S0891,Cough,2024-09-25,2024-03-08,Severe,Ongoing,Unrelated
+S0648,Headache,2024-08-16,2024-07-24,Moderate,Recovered with Sequelae,Unrelated
+S0793,Nausea,2024-09-07,2024-01-09,Severe,Recovered,Related
+S0431,Cough,2024-05-12,2024-09-17,Severe,Ongoing,Unrelated
+S0934,Nausea,2024-08-18,2024-07-11,Severe,Recovered,Unrelated
+S0363,Headache,2024-05-23,2024-07-28,Moderate,Ongoing,Unrelated
+S0522,Fever,2024-09-20,2024-08-20,Severe,Recovered,Related
+S0741,Fever,2024-04-03,2024-02-19,Mild,Recovered,Related
+S0466,Nausea,2024-09-29,2024-02-16,Mild,Recovered,Related
+S0258,Fatigue,2024-02-18,2024-04-17,Moderate,Recovered with Sequelae,Unrelated
+S0368,Fatigue,2024-08-21,2024-07-27,Mild,Ongoing,Related
+S0227,Fatigue,2024-05-08,2024-09-22,Mild,Recovered,Unrelated
+S0838,Nausea,2024-01-03,2024-03-01,Severe,Ongoing,Related
+S0453,Fatigue,2024-08-31,2024-07-28,Mild,Ongoing,Related
+S0324,Cough,2024-03-15,2024-07-03,Severe,Recovered,Related
+S0393,Nausea,2024-04-11,2024-09-22,Severe,Recovered,Unrelated
+S0789,Cough,2024-06-16,2024-08-09,Moderate,Recovered with Sequelae,Unrelated
+S0720,Fever,2024-01-18,2024-08-13,Moderate,Ongoing,Unrelated
+S0187,Fever,2024-01-11,2024-05-01,Severe,Ongoing,Related
+S0825,Cough,2024-06-24,2024-03-07,Moderate,Recovered with Sequelae,Related
+S0994,Nausea,2024-07-08,2024-01-19,Mild,Recovered with Sequelae,Unrelated
+S0635,Nausea,2024-03-24,2024-01-12,Mild,Ongoing,Related
+S0942,Fatigue,2024-01-25,2024-10-14,Moderate,Recovered with Sequelae,Unrelated
+S0429,Fatigue,2024-04-14,2024-06-28,Mild,Ongoing,Related
+S0254,Nausea,2024-10-16,2024-09-14,Severe,Recovered with Sequelae,Related
+S0388,Fever,2024-05-27,2024-08-04,Mild,Recovered,Related
+S0810,Fatigue,2024-04-28,2024-05-01,Mild,Recovered,Related
+S0510,Nausea,2024-02-19,2024-07-30,Mild,Recovered with Sequelae,Unrelated
+S0865,Fever,2024-01-23,2024-06-12,Moderate,Ongoing,Related
+S0778,Fatigue,2024-04-27,2024-09-20,Moderate,Ongoing,Unrelated
+S0265,Headache,2024-08-24,2024-06-28,Severe,Recovered with Sequelae,Unrelated
+S0918,Nausea,2024-05-26,2024-09-29,Mild,Recovered,Related
+S0643,Cough,2024-06-12,2024-01-16,Severe,Recovered,Unrelated
+S0597,Nausea,2024-01-26,2024-09-29,Moderate,Ongoing,Related
+S0103,Cough,2024-03-23,2024-01-23,Moderate,Recovered,Unrelated
+S0563,Cough,2024-08-23,2024-02-10,Severe,Ongoing,Unrelated
+S0199,Fatigue,2024-07-07,2024-08-07,Moderate,Ongoing,Related
+S0398,Cough,2024-01-20,2024-03-23,Moderate,Recovered with Sequelae,Unrelated
+S0005,Cough,2024-04-20,2024-01-03,Severe,Recovered with Sequelae,Unrelated
+S0760,Fatigue,2024-06-08,2024-03-04,Moderate,Recovered,Unrelated
+S0130,Cough,2024-01-18,2024-08-01,Moderate,Recovered,Unrelated
+S0073,Headache,2024-10-12,2024-06-21,Mild,Ongoing,Unrelated
+S0317,Nausea,2024-08-01,2024-04-02,Mild,Ongoing,Related
+S0334,Fever,2024-01-20,2024-10-20,Moderate,Recovered with Sequelae,Unrelated
+S0546,Cough,2024-08-01,2024-10-23,Severe,Recovered,Unrelated
+S0146,Fatigue,2024-02-05,2024-06-18,Moderate,Ongoing,Unrelated
+S0250,Fever,2024-02-09,2024-10-01,Severe,Recovered,Related
+S0534,Headache,2024-06-25,2024-04-05,Mild,Recovered with Sequelae,Unrelated
+S0512,Cough,2024-10-02,2024-07-13,Moderate,Recovered,Related
+S0737,Headache,2024-06-28,2024-05-05,Severe,Recovered with Sequelae,Related
+S0927,Headache,2024-02-15,2024-04-05,Mild,Ongoing,Related
+S0457,Nausea,2024-04-08,2024-04-22,Severe,Recovered,Related
+S0291,Fatigue,2024-10-23,2024-05-05,Moderate,Ongoing,Unrelated
+S0592,Cough,2024-10-29,2024-01-22,Mild,Ongoing,Related
+S0232,Nausea,2024-04-18,2024-06-22,Moderate,Recovered,Related
+S0150,Headache,2024-07-11,2024-06-29,Moderate,Recovered,Related
+S0479,Cough,2024-06-02,2024-05-05,Mild,Recovered with Sequelae,Unrelated
+S0157,Headache,2024-06-29,2024-01-31,Mild,Ongoing,Related
+S0404,Fatigue,2024-05-17,2024-08-30,Severe,Recovered,Related
+S0811,Headache,2024-03-18,2024-08-20,Moderate,Ongoing,Unrelated
+S0328,Nausea,2024-06-16,2024-08-10,Moderate,Recovered with Sequelae,Related
+S0935,Headache,2024-03-20,2024-01-21,Moderate,Recovered with Sequelae,Related
+S0837,Headache,2024-01-27,2024-05-19,Severe,Recovered,Related
+S0759,Headache,2024-03-22,2024-02-27,Severe,Ongoing,Unrelated
+S0730,Headache,2024-03-24,2024-07-29,Severe,Recovered with Sequelae,Related
+S0832,Cough,2024-05-13,2024-02-19,Severe,Recovered with Sequelae,Unrelated
+S0435,Nausea,2024-01-24,2024-08-18,Severe,Recovered with Sequelae,Related
+S0760,Cough,2024-03-11,2024-01-20,Moderate,Recovered with Sequelae,Unrelated
+S0076,Nausea,2024-05-23,2024-02-03,Mild,Recovered,Related
+S0023,Nausea,2024-03-03,2024-05-24,Severe,Recovered,Unrelated
+S0399,Fatigue,2024-03-25,2024-01-26,Severe,Recovered,Related
+S0796,Headache,2024-09-09,2024-03-15,Severe,Recovered,Related
+S0848,Nausea,2024-02-15,2024-04-15,Severe,Recovered,Unrelated
+S0044,Fever,2024-05-20,2024-09-24,Moderate,Recovered with Sequelae,Unrelated
+S0333,Cough,2024-10-14,2024-10-29,Severe,Ongoing,Unrelated
+S0155,Nausea,2024-06-04,2024-08-07,Mild,Ongoing,Unrelated
+S0873,Fever,2024-04-25,2024-09-24,Severe,Recovered with Sequelae,Unrelated
+S0059,Fever,2024-08-02,2024-10-09,Mild,Recovered,Related
+S0697,Fever,2024-04-09,2024-10-30,Moderate,Ongoing,Unrelated
+S0174,Fatigue,2024-04-11,2024-03-15,Severe,Ongoing,Related
+S0955,Fatigue,2024-09-11,2024-09-29,Mild,Recovered,Unrelated
+S0656,Cough,2024-07-12,2024-06-29,Mild,Ongoing,Unrelated
+S0680,Headache,2024-08-03,2024-10-16,Moderate,Recovered with Sequelae,Unrelated
+S0255,Cough,2024-09-05,2024-07-11,Severe,Recovered,Unrelated
+S0471,Nausea,2024-02-11,2024-09-02,Severe,Recovered with Sequelae,Related
+S0606,Nausea,2024-03-25,2024-07-12,Moderate,Recovered with Sequelae,Related
+S0790,Cough,2024-10-30,2024-02-04,Mild,Recovered,Unrelated
+S0550,Fatigue,2024-02-08,2024-05-31,Moderate,Recovered,Related
+S0174,Cough,2024-08-03,2024-02-21,Mild,Recovered with Sequelae,Unrelated
+S0189,Headache,2024-10-24,2024-03-01,Severe,Recovered with Sequelae,Related
+S0635,Headache,2024-05-16,2024-10-07,Severe,Ongoing,Related
+S0209,Fatigue,2024-02-21,2024-09-04,Severe,Recovered,Unrelated
+S0560,Fatigue,2024-02-01,2024-07-08,Severe,Recovered with Sequelae,Related
+S0558,Fever,2024-08-03,2024-01-02,Severe,Ongoing,Unrelated
+S0555,Fatigue,2024-09-23,2024-07-07,Moderate,Recovered,Related
+S0729,Fever,2024-04-28,2024-03-23,Severe,Recovered,Related
+S0520,Cough,2024-05-23,2024-10-01,Mild,Ongoing,Unrelated
+S0008,Fever,2024-04-14,2024-10-28,Moderate,Recovered,Related
+S0655,Fatigue,2024-07-18,2024-07-18,Severe,Recovered,Unrelated
+S0586,Nausea,2024-08-08,2024-03-01,Mild,Ongoing,Related
+S0329,Nausea,2024-08-13,2024-07-24,Mild,Ongoing,Related
+S0672,Fever,2024-01-16,2024-02-16,Moderate,Ongoing,Unrelated
+S0224,Fatigue,2024-03-02,2024-06-03,Moderate,Recovered,Unrelated
+S0959,Nausea,2024-06-12,2024-06-16,Moderate,Recovered,Unrelated
+S0980,Nausea,2024-06-10,2024-04-22,Severe,Recovered,Related
+S0866,Cough,2024-02-23,2024-08-15,Severe,Ongoing,Related
+S0521,Fever,2024-10-18,2024-07-03,Mild,Recovered,Related
+S0974,Fatigue,2024-10-07,2024-07-19,Severe,Recovered with Sequelae,Related
+S0927,Fatigue,2024-04-13,2024-07-28,Moderate,Recovered with Sequelae,Unrelated
+S0515,Headache,2024-10-10,2024-04-11,Moderate,Ongoing,Unrelated
+S0222,Headache,2024-07-24,2024-01-01,Mild,Recovered with Sequelae,Related
+S0086,Nausea,2024-08-06,2024-09-24,Mild,Recovered,Unrelated
+S0470,Cough,2024-03-15,2024-02-05,Severe,Recovered,Related
+S0567,Headache,2024-06-25,2024-10-20,Mild,Recovered with Sequelae,Unrelated
+S0418,Cough,2024-03-04,2024-10-11,Mild,Recovered with Sequelae,Related
+S0964,Headache,2024-07-06,2024-05-27,Moderate,Recovered with Sequelae,Related
+S0480,Nausea,2024-05-11,2024-05-28,Moderate,Recovered with Sequelae,Unrelated
+S0545,Headache,2024-03-18,2024-09-13,Severe,Recovered,Related
+S0757,Headache,2024-06-24,2024-04-22,Severe,Recovered with Sequelae,Unrelated
+S0952,Fever,2024-10-21,2024-10-01,Mild,Ongoing,Unrelated
+S0697,Fatigue,2024-02-24,2024-03-03,Mild,Recovered,Related
+S0227,Cough,2024-06-08,2024-07-10,Severe,Recovered with Sequelae,Related
+S0416,Headache,2024-09-19,2024-01-20,Severe,Recovered with Sequelae,Unrelated
+S0670,Headache,2024-04-10,2024-07-04,Mild,Recovered,Unrelated
+S0728,Headache,2024-06-10,2024-02-26,Severe,Recovered,Unrelated
+S0297,Fatigue,2024-04-27,2024-03-22,Moderate,Recovered,Related
+S0438,Cough,2024-07-12,2024-02-03,Severe,Ongoing,Unrelated
+S0841,Cough,2024-03-07,2024-05-15,Mild,Recovered with Sequelae,Unrelated
+S0317,Nausea,2024-05-20,2024-04-15,Moderate,Ongoing,Unrelated
+S0814,Cough,2024-01-14,2024-10-20,Severe,Recovered with Sequelae,Unrelated
+S0953,Nausea,2024-05-20,2024-07-20,Moderate,Recovered,Unrelated
+S0452,Fatigue,2024-07-07,2024-07-03,Mild,Ongoing,Related
+S0288,Fever,2024-03-10,2024-03-26,Moderate,Recovered,Related
+S0436,Cough,2024-10-19,2024-07-08,Severe,Recovered with Sequelae,Unrelated
+S0817,Nausea,2024-01-01,2024-08-08,Moderate,Recovered with Sequelae,Related
+S0451,Headache,2024-02-16,2024-02-24,Mild,Ongoing,Unrelated
+S0074,Fever,2024-01-21,2024-08-08,Moderate,Recovered,Related
+S0552,Fatigue,2024-09-11,2024-09-10,Mild,Recovered with Sequelae,Related
+S0147,Nausea,2024-02-22,2024-02-19,Mild,Recovered with Sequelae,Unrelated
+S0088,Fever,2024-06-28,2024-03-15,Mild,Ongoing,Unrelated
+S0259,Headache,2024-04-01,2024-09-13,Mild,Ongoing,Unrelated
+S0168,Cough,2024-07-25,2024-03-16,Moderate,Recovered,Related
+S0623,Fatigue,2024-04-20,2024-01-23,Mild,Recovered with Sequelae,Unrelated
+S0867,Cough,2024-02-02,2024-04-04,Moderate,Ongoing,Related
+S0320,Fever,2024-01-29,2024-07-26,Severe,Recovered with Sequelae,Unrelated
+S0781,Headache,2024-09-05,2024-05-25,Mild,Recovered,Unrelated
+S0482,Headache,2024-04-13,2024-01-24,Severe,Ongoing,Related
+S0025,Headache,2024-09-09,2024-07-23,Severe,Ongoing,Unrelated
+S0789,Nausea,2024-09-23,2024-07-02,Mild,Ongoing,Related
+S0178,Headache,2024-01-18,2024-01-07,Moderate,Recovered with Sequelae,Unrelated
+S0588,Fever,2024-02-28,2024-01-12,Mild,Recovered with Sequelae,Related
+S0780,Nausea,2024-03-12,2024-08-04,Moderate,Ongoing,Related
+S0345,Headache,2024-02-05,2024-10-26,Severe,Recovered,Related
+S0520,Fatigue,2024-03-22,2024-09-14,Moderate,Recovered with Sequelae,Unrelated
+S0950,Fever,2024-01-29,2024-10-24,Moderate,Recovered,Related
+S0639,Cough,2024-09-12,2024-08-19,Moderate,Recovered with Sequelae,Related
+S0800,Nausea,2024-01-03,2024-04-11,Mild,Ongoing,Unrelated
+S0405,Fever,2024-10-21,2024-02-03,Mild,Recovered,Related
+S0110,Fever,2024-09-15,2024-02-05,Severe,Ongoing,Related
+S0593,Headache,2024-04-15,2024-07-12,Mild,Ongoing,Unrelated
+S0759,Headache,2024-08-18,2024-05-07,Moderate,Recovered,Unrelated
+S0365,Headache,2024-06-15,2024-04-08,Moderate,Recovered with Sequelae,Related
+S0427,Fatigue,2024-03-12,2024-04-12,Moderate,Ongoing,Related
+S0056,Fever,2024-08-28,2024-09-09,Severe,Recovered with Sequelae,Unrelated
+S0122,Headache,2024-09-03,2024-09-23,Mild,Recovered,Unrelated
+S0570,Cough,2024-10-20,2024-05-26,Severe,Recovered with Sequelae,Related
+S0070,Fatigue,2024-01-02,2024-06-29,Moderate,Ongoing,Unrelated
+S0929,Headache,2024-02-04,2024-08-05,Mild,Ongoing,Unrelated
+S0590,Cough,2024-01-06,2024-03-17,Moderate,Ongoing,Unrelated
+S0216,Cough,2024-09-09,2024-09-21,Moderate,Ongoing,Related
+S0851,Fatigue,2024-08-25,2024-05-15,Moderate,Ongoing,Related
+S0198,Cough,2024-10-03,2024-03-03,Severe,Ongoing,Related
+S0599,Fever,2024-07-02,2024-02-14,Severe,Ongoing,Unrelated
+S0052,Cough,2024-06-20,2024-05-19,Mild,Recovered,Unrelated
+S0630,Headache,2024-04-27,2024-01-26,Moderate,Recovered,Related
+S0429,Fever,2024-02-12,2024-03-03,Severe,Recovered,Related
+S0762,Cough,2024-10-28,2024-05-08,Moderate,Ongoing,Related
+S0178,Nausea,2024-01-04,2024-03-30,Moderate,Recovered with Sequelae,Related
+S0522,Nausea,2024-02-01,2024-02-13,Moderate,Ongoing,Related
+S0149,Fever,2024-03-15,2024-03-01,Severe,Recovered with Sequelae,Unrelated
+S0080,Nausea,2024-09-08,2024-07-15,Moderate,Recovered,Related
+S0075,Headache,2024-04-16,2024-08-05,Mild,Recovered with Sequelae,Unrelated
+S0821,Fatigue,2024-07-12,2024-04-25,Moderate,Recovered,Unrelated
+S0424,Nausea,2024-09-15,2024-02-16,Mild,Recovered,Unrelated
+S0922,Nausea,2024-01-15,2024-04-21,Mild,Ongoing,Related
+S0255,Headache,2024-04-03,2024-07-18,Severe,Recovered with Sequelae,Related
+S0499,Headache,2024-09-18,2024-08-23,Mild,Ongoing,Related
+S0097,Cough,2024-05-23,2024-03-01,Severe,Recovered with Sequelae,Related
+S0656,Fever,2024-01-23,2024-07-23,Severe,Recovered,Unrelated
+S0566,Cough,2024-02-08,2024-01-02,Moderate,Recovered,Unrelated
+S0157,Cough,2024-08-28,2024-09-28,Mild,Ongoing,Unrelated
+S0762,Headache,2024-04-06,2024-01-18,Mild,Recovered,Unrelated
+S0265,Fever,2024-08-25,2024-03-22,Severe,Ongoing,Related
+S0689,Nausea,2024-01-09,2024-02-14,Mild,Recovered,Related
+S0596,Fatigue,2024-08-08,2024-07-31,Moderate,Recovered,Unrelated
+S0223,Fatigue,2024-09-01,2024-03-24,Severe,Recovered,Unrelated
+S0469,Nausea,2024-03-06,2024-04-14,Mild,Recovered with Sequelae,Related
+S0152,Fever,2024-04-20,2024-03-20,Moderate,Recovered with Sequelae,Unrelated
+S0080,Fatigue,2024-04-22,2024-09-06,Severe,Recovered,Related
+S0403,Cough,2024-01-13,2024-07-20,Severe,Recovered,Related
+S0659,Fever,2024-09-15,2024-02-18,Severe,Ongoing,Related
+S0209,Cough,2024-09-09,2024-09-28,Mild,Recovered,Unrelated
+S0026,Cough,2024-10-01,2024-09-28,Severe,Recovered with Sequelae,Related
+S0361,Fatigue,2024-04-17,2024-07-06,Severe,Recovered with Sequelae,Related
+S0097,Fatigue,2024-09-21,2024-03-17,Severe,Recovered with Sequelae,Unrelated
+S0085,Cough,2024-08-23,2024-10-23,Moderate,Recovered,Unrelated
+S0239,Fatigue,2024-04-26,2024-02-28,Severe,Recovered,Unrelated
+S0375,Nausea,2024-01-30,2024-09-24,Mild,Ongoing,Unrelated
+S0761,Cough,2024-07-27,2024-01-19,Moderate,Recovered with Sequelae,Related
+S0726,Fatigue,2024-06-30,2024-10-28,Severe,Ongoing,Unrelated
+S0015,Fatigue,2024-09-28,2024-06-27,Severe,Recovered,Unrelated
+S0928,Headache,2024-10-12,2024-09-22,Severe,Ongoing,Related
+S0884,Fever,2024-06-05,2024-02-13,Mild,Recovered,Related
+S0259,Nausea,2024-01-03,2024-02-09,Mild,Recovered with Sequelae,Related
+S0614,Nausea,2024-02-16,2024-08-02,Severe,Ongoing,Related
+S0563,Cough,2024-08-15,2024-09-11,Moderate,Recovered,Unrelated
+S0318,Fatigue,2024-05-16,2024-06-30,Mild,Recovered,Related
+S0210,Nausea,2024-09-05,2024-02-19,Mild,Recovered with Sequelae,Related
+S0199,Headache,2024-05-04,2024-08-16,Mild,Recovered with Sequelae,Unrelated
+S0849,Cough,2024-04-17,2024-03-19,Moderate,Ongoing,Related
+S0148,Headache,2024-05-21,2024-03-13,Mild,Recovered,Unrelated
+S0554,Headache,2024-09-13,2024-05-16,Severe,Recovered with Sequelae,Related
+S0450,Fever,2024-04-04,2024-07-29,Mild,Recovered with Sequelae,Unrelated
+S0576,Nausea,2024-08-08,2024-08-15,Severe,Recovered,Related
+S0722,Fever,2024-07-06,2024-04-11,Moderate,Recovered,Unrelated
+S0206,Fatigue,2024-02-25,2024-04-25,Mild,Recovered with Sequelae,Unrelated
+S0033,Fatigue,2024-09-21,2024-09-21,Mild,Ongoing,Unrelated
+S0478,Headache,2024-07-14,2024-01-21,Moderate,Recovered with Sequelae,Related
+S0630,Cough,2024-07-13,2024-07-19,Severe,Recovered,Unrelated
+S0137,Nausea,2024-03-08,2024-02-15,Mild,Ongoing,Unrelated
+S0292,Cough,2024-02-08,2024-05-11,Moderate,Recovered,Related
+S0670,Fatigue,2024-03-09,2024-10-19,Moderate,Ongoing,Unrelated
+S0168,Fever,2024-04-02,2024-10-26,Moderate,Recovered,Related
+S0766,Fever,2024-01-03,2024-04-08,Severe,Ongoing,Related
+S0856,Fever,2024-05-22,2024-09-24,Severe,Ongoing,Related
+S0131,Fever,2024-10-12,2024-08-23,Severe,Recovered,Related
+S0558,Fatigue,2024-03-27,2024-01-30,Moderate,Recovered with Sequelae,Related
+S0215,Headache,2024-01-08,2024-01-12,Mild,Recovered with Sequelae,Unrelated
+S0624,Fever,2024-06-17,2024-10-19,Severe,Recovered,Unrelated
+S0137,Headache,2024-03-23,2024-08-18,Severe,Recovered,Unrelated
+S0011,Headache,2024-02-16,2024-07-22,Severe,Ongoing,Unrelated
+S0435,Nausea,2024-06-02,2024-09-27,Moderate,Recovered with Sequelae,Related
+S0258,Nausea,2024-07-28,2024-02-06,Mild,Recovered with Sequelae,Unrelated
+S0317,Cough,2024-08-22,2024-03-21,Mild,Recovered with Sequelae,Unrelated
+S0118,Fatigue,2024-02-10,2024-09-15,Moderate,Recovered with Sequelae,Related
+S0366,Nausea,2024-06-22,2024-02-05,Mild,Recovered with Sequelae,Unrelated
+S0553,Fatigue,2024-03-05,2024-04-25,Mild,Recovered,Unrelated
+S0330,Nausea,2024-10-21,2024-08-11,Moderate,Recovered,Related
+S0482,Cough,2024-04-19,2024-03-09,Mild,Recovered with Sequelae,Unrelated
+S0050,Fever,2024-06-21,2024-05-01,Mild,Recovered,Unrelated
+S0207,Cough,2024-01-15,2024-06-30,Moderate,Recovered,Unrelated
+S0108,Headache,2024-09-26,2024-08-23,Severe,Recovered,Related
+S0350,Headache,2024-01-09,2024-07-14,Severe,Recovered,Related
+S0906,Cough,2024-02-20,2024-10-09,Moderate,Recovered,Unrelated
+S0697,Fatigue,2024-06-13,2024-09-07,Mild,Recovered,Related
+S0100,Fever,2024-06-09,2024-08-09,Mild,Ongoing,Unrelated
+S0402,Cough,2024-03-23,2024-07-07,Severe,Recovered,Unrelated
+S0704,Fever,2024-01-23,2024-02-18,Mild,Recovered with Sequelae,Unrelated
+S0780,Fatigue,2024-02-01,2024-05-01,Moderate,Ongoing,Unrelated
+S0399,Cough,2024-05-13,2024-01-12,Mild,Ongoing,Related
+S0402,Fever,2024-06-20,2024-10-04,Moderate,Recovered,Unrelated
+S0547,Fever,2024-04-21,2024-10-26,Moderate,Recovered,Related
+S0127,Fever,2024-04-28,2024-06-19,Moderate,Recovered with Sequelae,Related
+S0831,Fatigue,2024-10-27,2024-04-21,Mild,Ongoing,Unrelated
+S0944,Nausea,2024-06-09,2024-04-15,Moderate,Ongoing,Unrelated
+S0162,Cough,2024-06-10,2024-01-27,Mild,Ongoing,Related
+S0920,Fever,2024-06-08,2024-07-21,Moderate,Recovered,Unrelated
+S0557,Cough,2024-01-12,2024-08-17,Mild,Recovered,Related
+S0833,Fatigue,2024-07-31,2024-04-27,Severe,Ongoing,Unrelated
+S0128,Cough,2024-07-18,2024-03-19,Moderate,Ongoing,Unrelated
+S0743,Fatigue,2024-10-05,2024-08-03,Moderate,Ongoing,Related
+S0880,Fatigue,2024-01-08,2024-07-13,Severe,Recovered,Related
+S0670,Cough,2024-04-19,2024-01-17,Severe,Recovered,Related
+S0127,Headache,2024-01-16,2024-06-22,Mild,Recovered with Sequelae,Unrelated
+S0890,Fatigue,2024-03-01,2024-10-01,Mild,Ongoing,Unrelated
+S0718,Headache,2024-06-19,2024-01-15,Severe,Ongoing,Unrelated
+S0244,Fatigue,2024-04-07,2024-01-13,Severe,Recovered,Unrelated
+S0563,Fever,2024-08-09,2024-04-19,Mild,Ongoing,Related
+S0494,Fever,2024-01-28,2024-06-16,Moderate,Recovered with Sequelae,Related
+S0535,Fatigue,2024-08-06,2024-01-11,Severe,Recovered with Sequelae,Related
+S0397,Cough,2024-09-13,2024-03-08,Moderate,Recovered with Sequelae,Related
+S0022,Headache,2024-05-15,2024-09-08,Severe,Ongoing,Related
+S0485,Cough,2024-04-27,2024-09-18,Severe,Ongoing,Unrelated
+S0464,Fever,2024-04-07,2024-03-23,Moderate,Recovered,Related
+S0646,Headache,2024-02-07,2024-05-06,Mild,Recovered,Unrelated
+S0268,Fatigue,2024-02-19,2024-07-29,Mild,Recovered with Sequelae,Unrelated
+S0399,Fatigue,2024-04-03,2024-06-20,Severe,Ongoing,Related
+S0427,Fever,2024-06-20,2024-05-26,Moderate,Recovered,Unrelated
+S0131,Cough,2024-08-26,2024-01-25,Moderate,Ongoing,Related
+S0225,Fatigue,2024-03-01,2024-05-03,Severe,Recovered with Sequelae,Unrelated
+S0713,Nausea,2024-04-11,2024-09-10,Moderate,Recovered with Sequelae,Related
+S0067,Headache,2024-09-26,2024-07-19,Moderate,Ongoing,Related
+S0609,Fever,2024-03-05,2024-06-12,Moderate,Recovered,Unrelated
+S0713,Fatigue,2024-07-24,2024-05-14,Severe,Ongoing,Unrelated
+S0947,Fever,2024-09-15,2024-02-04,Moderate,Recovered with Sequelae,Related
+S0215,Cough,2024-03-24,2024-10-04,Moderate,Recovered with Sequelae,Unrelated
+S0351,Fever,2024-07-30,2024-10-12,Severe,Recovered,Unrelated
+S0254,Nausea,2024-02-18,2024-03-15,Mild,Recovered,Related
+S0524,Nausea,2024-06-15,2024-08-21,Mild,Recovered,Related
+S0470,Cough,2024-07-23,2024-08-16,Mild,Recovered with Sequelae,Related
+S0806,Nausea,2024-02-26,2024-08-31,Mild,Recovered with Sequelae,Unrelated
+S0664,Cough,2024-01-04,2024-06-11,Moderate,Recovered,Unrelated
+S0456,Cough,2024-02-26,2024-02-04,Mild,Ongoing,Unrelated
+S0355,Headache,2024-04-23,2024-03-15,Severe,Recovered,Related
+S0692,Headache,2024-10-14,2024-07-10,Severe,Ongoing,Unrelated
+S0790,Nausea,2024-03-30,2024-09-03,Severe,Recovered with Sequelae,Unrelated
+S0937,Fever,2024-08-03,2024-03-18,Moderate,Ongoing,Unrelated
+S0507,Nausea,2024-03-06,2024-04-28,Moderate,Ongoing,Unrelated
+S0617,Headache,2024-05-31,2024-02-06,Severe,Recovered with Sequelae,Unrelated
+S0788,Headache,2024-08-28,2024-02-24,Severe,Ongoing,Related
+S0103,Cough,2024-09-30,2024-07-22,Mild,Recovered,Unrelated
+S0026,Headache,2024-06-08,2024-04-20,Mild,Recovered,Related
+S0747,Fatigue,2024-09-24,2024-07-19,Severe,Recovered,Unrelated
+S0899,Nausea,2024-07-08,2024-06-13,Moderate,Ongoing,Unrelated
+S0537,Fatigue,2024-10-21,2024-05-10,Severe,Ongoing,Unrelated
+S0335,Cough,2024-01-15,2024-07-17,Moderate,Recovered,Related
+S0372,Cough,2024-01-17,2024-10-01,Mild,Recovered with Sequelae,Related
+S0574,Fever,2024-05-24,2024-02-24,Moderate,Ongoing,Unrelated
+S0233,Cough,2024-03-03,2024-10-06,Mild,Recovered with Sequelae,Related
+S0237,Fever,2024-03-03,2024-02-06,Mild,Recovered with Sequelae,Unrelated
+S0918,Fatigue,2024-01-29,2024-02-12,Severe,Recovered with Sequelae,Related
+S0342,Fever,2024-02-01,2024-05-11,Moderate,Recovered with Sequelae,Related
+S0615,Fever,2024-01-16,2024-02-16,Mild,Recovered with Sequelae,Related
+S0089,Nausea,2024-06-23,2024-08-08,Severe,Recovered with Sequelae,Related
+S0598,Cough,2024-10-16,2024-03-04,Moderate,Ongoing,Related
+S0902,Fatigue,2024-02-15,2024-01-11,Mild,Recovered with Sequelae,Unrelated
+S0553,Fatigue,2024-08-24,2024-01-13,Mild,Recovered with Sequelae,Unrelated
+S0781,Fever,2024-06-30,2024-07-14,Moderate,Recovered with Sequelae,Unrelated
+S0052,Cough,2024-09-05,2024-01-26,Mild,Recovered with Sequelae,Related
+S0609,Nausea,2024-10-17,2024-05-04,Moderate,Recovered,Related
+S0980,Cough,2024-10-15,2024-03-16,Moderate,Recovered,Related
+S0465,Fatigue,2024-07-20,2024-05-06,Mild,Recovered with Sequelae,Related
+S0271,Fever,2024-07-07,2024-02-25,Mild,Recovered,Unrelated
+S0386,Cough,2024-07-20,2024-02-09,Moderate,Recovered,Unrelated
+S0928,Cough,2024-02-02,2024-03-04,Severe,Recovered,Related
+S0635,Nausea,2024-05-16,2024-09-27,Severe,Recovered,Unrelated
+S0769,Cough,2024-09-06,2024-10-12,Mild,Recovered,Related
+S0258,Fever,2024-02-03,2024-09-11,Severe,Recovered with Sequelae,Unrelated
+S0336,Fatigue,2024-06-01,2024-03-30,Mild,Recovered,Unrelated
+S0977,Nausea,2024-10-30,2024-08-14,Mild,Recovered with Sequelae,Unrelated
+S0085,Fever,2024-06-18,2024-08-03,Severe,Ongoing,Unrelated
+S0959,Nausea,2024-05-29,2024-10-27,Severe,Recovered,Unrelated
+S0043,Nausea,2024-04-07,2024-06-28,Severe,Recovered with Sequelae,Unrelated
+S0758,Fever,2024-06-14,2024-10-06,Moderate,Recovered with Sequelae,Related
+S0222,Headache,2024-07-22,2024-10-09,Moderate,Recovered,Unrelated
+S0148,Headache,2024-05-19,2024-08-02,Moderate,Ongoing,Related
+S0747,Nausea,2024-08-07,2024-03-28,Moderate,Ongoing,Unrelated
+S0305,Fatigue,2024-01-27,2024-06-06,Moderate,Recovered with Sequelae,Unrelated
+S0592,Fever,2024-01-28,2024-02-06,Moderate,Recovered with Sequelae,Unrelated
+S0399,Headache,2024-06-06,2024-01-04,Mild,Recovered with Sequelae,Unrelated
+S0766,Cough,2024-10-02,2024-07-22,Mild,Recovered with Sequelae,Unrelated
+S0776,Cough,2024-08-10,2024-07-27,Severe,Recovered,Related
+S0817,Cough,2024-03-18,2024-08-03,Mild,Ongoing,Unrelated
+S0860,Cough,2024-04-03,2024-02-17,Severe,Recovered with Sequelae,Unrelated
+S0145,Fever,2024-04-10,2024-07-04,Severe,Recovered,Unrelated
+S0660,Fatigue,2024-09-09,2024-10-19,Severe,Ongoing,Unrelated
+S0536,Nausea,2024-05-13,2024-08-17,Severe,Recovered,Unrelated
+S0603,Nausea,2024-08-19,2024-08-02,Mild,Recovered,Unrelated
+S0179,Headache,2024-06-20,2024-06-09,Severe,Ongoing,Related
+S0738,Headache,2024-04-15,2024-02-11,Mild,Ongoing,Unrelated
+S0046,Headache,2024-03-31,2024-07-08,Mild,Ongoing,Related
+S0368,Fatigue,2024-05-03,2024-07-13,Moderate,Recovered,Related
+S0538,Cough,2024-03-14,2024-07-28,Severe,Ongoing,Related
+S0074,Headache,2024-09-15,2024-04-11,Moderate,Ongoing,Unrelated
+S0796,Headache,2024-10-19,2024-05-04,Mild,Ongoing,Related
+S0080,Nausea,2024-09-11,2024-08-23,Mild,Recovered with Sequelae,Related
+S0040,Fever,2024-04-17,2024-07-01,Severe,Recovered,Unrelated
+S0778,Headache,2024-01-06,2024-01-05,Moderate,Recovered,Unrelated
+S0423,Fever,2024-10-12,2024-09-17,Moderate,Ongoing,Unrelated
+S0276,Cough,2024-06-25,2024-02-08,Moderate,Recovered with Sequelae,Unrelated
+S0297,Cough,2024-04-09,2024-10-06,Moderate,Recovered,Unrelated
+S0826,Headache,2024-10-29,2024-06-24,Moderate,Recovered with Sequelae,Related
+S0287,Fatigue,2024-08-14,2024-08-11,Severe,Recovered,Related
+S0747,Cough,2024-08-12,2024-08-08,Severe,Ongoing,Unrelated
+S0655,Fever,2024-07-19,2024-08-07,Severe,Ongoing,Related
+S0375,Fever,2024-05-19,2024-05-31,Severe,Ongoing,Related
+S0037,Fatigue,2024-03-12,2024-08-30,Moderate,Ongoing,Unrelated
+S0277,Fever,2024-08-18,2024-04-26,Moderate,Recovered with Sequelae,Related
+S0247,Nausea,2024-04-12,2024-02-27,Moderate,Recovered,Unrelated
+S0805,Fatigue,2024-06-08,2024-09-23,Moderate,Recovered with Sequelae,Unrelated
+S0828,Headache,2024-05-10,2024-08-02,Mild,Ongoing,Unrelated
+S0881,Fatigue,2024-06-30,2024-06-25,Mild,Recovered,Unrelated
+S0313,Cough,2024-04-18,2024-02-13,Severe,Recovered,Related
+S0302,Cough,2024-01-29,2024-03-08,Moderate,Ongoing,Related
+S0655,Headache,2024-06-27,2024-07-07,Moderate,Recovered,Unrelated
+S0304,Fatigue,2024-09-20,2024-10-05,Severe,Ongoing,Related
+S0737,Cough,2024-01-12,2024-08-05,Moderate,Recovered with Sequelae,Related
+S0814,Nausea,2024-08-06,2024-10-21,Moderate,Ongoing,Related
+S0782,Fever,2024-04-18,2024-03-31,Severe,Recovered,Related
+S0291,Nausea,2024-10-19,2024-09-10,Moderate,Ongoing,Related
+S0041,Nausea,2024-03-09,2024-10-12,Severe,Ongoing,Unrelated
+S0851,Nausea,2024-04-30,2024-02-09,Severe,Recovered,Unrelated
+S0945,Headache,2024-01-18,2024-05-17,Moderate,Ongoing,Unrelated
+S0303,Fever,2024-02-06,2024-02-25,Moderate,Recovered with Sequelae,Related
+S0688,Fever,2024-02-10,2024-09-18,Mild,Recovered with Sequelae,Related
+S0295,Fever,2024-02-05,2024-07-12,Moderate,Recovered with Sequelae,Unrelated
+S0747,Cough,2024-01-12,2024-08-27,Severe,Recovered,Related
+S0356,Fever,2024-08-01,2024-03-05,Moderate,Recovered with Sequelae,Unrelated
+S0967,Fatigue,2024-04-01,2024-05-17,Moderate,Ongoing,Related
+S0543,Fatigue,2024-03-26,2024-10-21,Severe,Recovered with Sequelae,Unrelated
+S0577,Fatigue,2024-04-25,2024-01-28,Mild,Recovered with Sequelae,Unrelated
+S0696,Cough,2024-05-02,2024-09-09,Moderate,Recovered,Unrelated
+S0781,Headache,2024-06-14,2024-03-22,Severe,Ongoing,Unrelated
+S0152,Headache,2024-06-13,2024-09-25,Severe,Ongoing,Related
+S0085,Fatigue,2024-01-29,2024-05-04,Moderate,Recovered with Sequelae,Unrelated
+S0907,Headache,2024-02-11,2024-01-22,Moderate,Recovered with Sequelae,Related
+S0083,Headache,2024-06-01,2024-06-03,Moderate,Recovered with Sequelae,Related
+S0898,Headache,2024-04-19,2024-08-12,Severe,Recovered with Sequelae,Related
+S0288,Fever,2024-01-16,2024-09-19,Moderate,Ongoing,Related
+S0010,Fever,2024-04-27,2024-01-10,Mild,Recovered with Sequelae,Related
+S0273,Cough,2024-07-23,2024-10-26,Severe,Recovered with Sequelae,Related
+S0541,Nausea,2024-05-20,2024-01-15,Severe,Recovered,Unrelated
+S0507,Nausea,2024-10-17,2024-08-13,Moderate,Recovered with Sequelae,Related
+S0382,Fatigue,2024-03-10,2024-09-24,Moderate,Recovered with Sequelae,Related
+S0986,Headache,2024-02-08,2024-01-31,Severe,Recovered,Related
+S0974,Cough,2024-09-07,2024-04-15,Mild,Ongoing,Related
+S0130,Cough,2024-06-27,2024-09-16,Moderate,Ongoing,Related
+S0804,Cough,2024-09-25,2024-01-10,Moderate,Recovered,Unrelated
+S0635,Headache,2024-01-02,2024-01-23,Severe,Ongoing,Unrelated
+S0968,Fatigue,2024-07-11,2024-07-18,Severe,Recovered,Unrelated

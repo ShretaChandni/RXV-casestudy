@@ -1,0 +1,1001 @@
+SUBJID,IE_CRITERIA,IE_MET,IE_REASON
+S0001,Criteria 1,Yes,Pre-existing condition
+S0002,Criteria 2,Yes,Age
+S0003,Criteria 3,Yes,Pre-existing condition
+S0004,Criteria 4,Yes,Age
+S0005,Criteria 5,Yes,Age
+S0006,Criteria 1,No,Other
+S0007,Criteria 2,Yes,Other
+S0008,Criteria 3,Yes,Other
+S0009,Criteria 4,Yes,Consent not provided
+S0010,Criteria 5,Yes,Pre-existing condition
+S0011,Criteria 1,Yes,Consent not provided
+S0012,Criteria 2,No,Age
+S0013,Criteria 3,Yes,Age
+S0014,Criteria 4,No,Age
+S0015,Criteria 5,Yes,Other
+S0016,Criteria 1,Yes,Pre-existing condition
+S0017,Criteria 2,Yes,Consent not provided
+S0018,Criteria 3,Yes,Age
+S0019,Criteria 4,No,Pre-existing condition
+S0020,Criteria 5,No,Consent not provided
+S0021,Criteria 1,Yes,Age
+S0022,Criteria 2,No,Age
+S0023,Criteria 3,Yes,Other
+S0024,Criteria 4,Yes,Pre-existing condition
+S0025,Criteria 5,Yes,Age
+S0026,Criteria 1,Yes,Other
+S0027,Criteria 2,Yes,Other
+S0028,Criteria 3,No,Age
+S0029,Criteria 4,No,Age
+S0030,Criteria 5,No,Age
+S0031,Criteria 1,Yes,Consent not provided
+S0032,Criteria 2,Yes,Pre-existing condition
+S0033,Criteria 3,Yes,Pre-existing condition
+S0034,Criteria 4,Yes,Other
+S0035,Criteria 5,Yes,Consent not provided
+S0036,Criteria 1,Yes,Other
+S0037,Criteria 2,Yes,Other
+S0038,Criteria 3,No,Pre-existing condition
+S0039,Criteria 4,No,Pre-existing condition
+S0040,Criteria 5,Yes,Pre-existing condition
+S0041,Criteria 1,Yes,Pre-existing condition
+S0042,Criteria 2,Yes,Consent not provided
+S0043,Criteria 3,Yes,Age
+S0044,Criteria 4,Yes,Pre-existing condition
+S0045,Criteria 5,No,Pre-existing condition
+S0046,Criteria 1,Yes,Other
+S0047,Criteria 2,Yes,Other
+S0048,Criteria 3,No,Pre-existing condition
+S0049,Criteria 4,Yes,Pre-existing condition
+S0050,Criteria 5,No,Pre-existing condition
+S0051,Criteria 1,Yes,Age
+S0052,Criteria 2,No,Pre-existing condition
+S0053,Criteria 3,Yes,Consent not provided
+S0054,Criteria 4,Yes,Other
+S0055,Criteria 5,Yes,Pre-existing condition
+S0056,Criteria 1,No,Pre-existing condition
+S0057,Criteria 2,Yes,Other
+S0058,Criteria 3,No,Age
+S0059,Criteria 4,No,Consent not provided
+S0060,Criteria 5,No,Consent not provided
+S0061,Criteria 1,No,Age
+S0062,Criteria 2,No,Pre-existing condition
+S0063,Criteria 3,Yes,Pre-existing condition
+S0064,Criteria 4,Yes,Consent not provided
+S0065,Criteria 5,Yes,Other
+S0066,Criteria 1,No,Consent not provided
+S0067,Criteria 2,Yes,Consent not provided
+S0068,Criteria 3,No,Other
+S0069,Criteria 4,Yes,Other
+S0070,Criteria 5,Yes,Pre-existing condition
+S0071,Criteria 1,Yes,Consent not provided
+S0072,Criteria 2,No,Pre-existing condition
+S0073,Criteria 3,Yes,Age
+S0074,Criteria 4,No,Pre-existing condition
+S0075,Criteria 5,Yes,Other
+S0076,Criteria 1,No,Other
+S0077,Criteria 2,No,Age
+S0078,Criteria 3,No,Consent not provided
+S0079,Criteria 4,No,Other
+S0080,Criteria 5,Yes,Age
+S0081,Criteria 1,Yes,Other
+S0082,Criteria 2,Yes,Other
+S0083,Criteria 3,No,Pre-existing condition
+S0084,Criteria 4,Yes,Age
+S0085,Criteria 5,No,Consent not provided
+S0086,Criteria 1,Yes,Age
+S0087,Criteria 2,No,Consent not provided
+S0088,Criteria 3,No,Pre-existing condition
+S0089,Criteria 4,Yes,Pre-existing condition
+S0090,Criteria 5,No,Other
+S0091,Criteria 1,No,Pre-existing condition
+S0092,Criteria 2,Yes,Other
+S0093,Criteria 3,Yes,Age
+S0094,Criteria 4,No,Pre-existing condition
+S0095,Criteria 5,No,Pre-existing condition
+S0096,Criteria 1,Yes,Age
+S0097,Criteria 2,No,Pre-existing condition
+S0098,Criteria 3,Yes,Consent not provided
+S0099,Criteria 4,No,Age
+S0100,Criteria 5,No,Consent not provided
+S0101,Criteria 1,Yes,Age
+S0102,Criteria 2,No,Other
+S0103,Criteria 3,No,Age
+S0104,Criteria 4,Yes,Pre-existing condition
+S0105,Criteria 5,No,Other
+S0106,Criteria 1,Yes,Other
+S0107,Criteria 2,Yes,Consent not provided
+S0108,Criteria 3,No,Consent not provided
+S0109,Criteria 4,Yes,Pre-existing condition
+S0110,Criteria 5,Yes,Other
+S0111,Criteria 1,Yes,Pre-existing condition
+S0112,Criteria 2,Yes,Other
+S0113,Criteria 3,Yes,Age
+S0114,Criteria 4,No,Other
+S0115,Criteria 5,No,Other
+S0116,Criteria 1,No,Other
+S0117,Criteria 2,Yes,Other
+S0118,Criteria 3,No,Age
+S0119,Criteria 4,No,Other
+S0120,Criteria 5,Yes,Age
+S0121,Criteria 1,Yes,Consent not provided
+S0122,Criteria 2,No,Pre-existing condition
+S0123,Criteria 3,Yes,Pre-existing condition
+S0124,Criteria 4,Yes,Age
+S0125,Criteria 5,No,Consent not provided
+S0126,Criteria 1,No,Other
+S0127,Criteria 2,Yes,Other
+S0128,Criteria 3,Yes,Pre-existing condition
+S0129,Criteria 4,No,Consent not provided
+S0130,Criteria 5,Yes,Age
+S0131,Criteria 1,Yes,Pre-existing condition
+S0132,Criteria 2,Yes,Pre-existing condition
+S0133,Criteria 3,Yes,Consent not provided
+S0134,Criteria 4,Yes,Pre-existing condition
+S0135,Criteria 5,Yes,Other
+S0136,Criteria 1,No,Consent not provided
+S0137,Criteria 2,No,Pre-existing condition
+S0138,Criteria 3,Yes,Age
+S0139,Criteria 4,No,Age
+S0140,Criteria 5,No,Consent not provided
+S0141,Criteria 1,Yes,Consent not provided
+S0142,Criteria 2,No,Pre-existing condition
+S0143,Criteria 3,Yes,Consent not provided
+S0144,Criteria 4,No,Other
+S0145,Criteria 5,No,Consent not provided
+S0146,Criteria 1,Yes,Consent not provided
+S0147,Criteria 2,No,Pre-existing condition
+S0148,Criteria 3,No,Consent not provided
+S0149,Criteria 4,Yes,Consent not provided
+S0150,Criteria 5,No,Pre-existing condition
+S0151,Criteria 1,Yes,Other
+S0152,Criteria 2,Yes,Pre-existing condition
+S0153,Criteria 3,No,Consent not provided
+S0154,Criteria 4,Yes,Age
+S0155,Criteria 5,No,Pre-existing condition
+S0156,Criteria 1,No,Other
+S0157,Criteria 2,No,Age
+S0158,Criteria 3,Yes,Other
+S0159,Criteria 4,No,Pre-existing condition
+S0160,Criteria 5,Yes,Pre-existing condition
+S0161,Criteria 1,No,Age
+S0162,Criteria 2,Yes,Consent not provided
+S0163,Criteria 3,No,Pre-existing condition
+S0164,Criteria 4,Yes,Consent not provided
+S0165,Criteria 5,Yes,Age
+S0166,Criteria 1,Yes,Pre-existing condition
+S0167,Criteria 2,Yes,Pre-existing condition
+S0168,Criteria 3,Yes,Other
+S0169,Criteria 4,Yes,Pre-existing condition
+S0170,Criteria 5,Yes,Pre-existing condition
+S0171,Criteria 1,No,Age
+S0172,Criteria 2,No,Age
+S0173,Criteria 3,Yes,Consent not provided
+S0174,Criteria 4,No,Age
+S0175,Criteria 5,Yes,Other
+S0176,Criteria 1,No,Consent not provided
+S0177,Criteria 2,Yes,Other
+S0178,Criteria 3,Yes,Consent not provided
+S0179,Criteria 4,Yes,Pre-existing condition
+S0180,Criteria 5,Yes,Other
+S0181,Criteria 1,Yes,Pre-existing condition
+S0182,Criteria 2,Yes,Consent not provided
+S0183,Criteria 3,Yes,Other
+S0184,Criteria 4,No,Pre-existing condition
+S0185,Criteria 5,Yes,Pre-existing condition
+S0186,Criteria 1,No,Consent not provided
+S0187,Criteria 2,Yes,Consent not provided
+S0188,Criteria 3,No,Other
+S0189,Criteria 4,Yes,Other
+S0190,Criteria 5,No,Other
+S0191,Criteria 1,No,Other
+S0192,Criteria 2,No,Consent not provided
+S0193,Criteria 3,No,Age
+S0194,Criteria 4,No,Other
+S0195,Criteria 5,No,Pre-existing condition
+S0196,Criteria 1,Yes,Pre-existing condition
+S0197,Criteria 2,Yes,Other
+S0198,Criteria 3,No,Consent not provided
+S0199,Criteria 4,No,Age
+S0200,Criteria 5,Yes,Consent not provided
+S0201,Criteria 1,No,Other
+S0202,Criteria 2,No,Pre-existing condition
+S0203,Criteria 3,No,Consent not provided
+S0204,Criteria 4,Yes,Consent not provided
+S0205,Criteria 5,No,Consent not provided
+S0206,Criteria 1,No,Pre-existing condition
+S0207,Criteria 2,No,Consent not provided
+S0208,Criteria 3,No,Age
+S0209,Criteria 4,Yes,Other
+S0210,Criteria 5,Yes,Pre-existing condition
+S0211,Criteria 1,Yes,Consent not provided
+S0212,Criteria 2,No,Age
+S0213,Criteria 3,No,Age
+S0214,Criteria 4,Yes,Age
+S0215,Criteria 5,Yes,Other
+S0216,Criteria 1,Yes,Other
+S0217,Criteria 2,No,Age
+S0218,Criteria 3,No,Consent not provided
+S0219,Criteria 4,Yes,Age
+S0220,Criteria 5,Yes,Consent not provided
+S0221,Criteria 1,Yes,Other
+S0222,Criteria 2,Yes,Pre-existing condition
+S0223,Criteria 3,No,Pre-existing condition
+S0224,Criteria 4,No,Consent not provided
+S0225,Criteria 5,No,Other
+S0226,Criteria 1,Yes,Other
+S0227,Criteria 2,No,Other
+S0228,Criteria 3,No,Age
+S0229,Criteria 4,Yes,Pre-existing condition
+S0230,Criteria 5,Yes,Other
+S0231,Criteria 1,No,Other
+S0232,Criteria 2,Yes,Age
+S0233,Criteria 3,No,Other
+S0234,Criteria 4,No,Age
+S0235,Criteria 5,Yes,Age
+S0236,Criteria 1,Yes,Consent not provided
+S0237,Criteria 2,Yes,Pre-existing condition
+S0238,Criteria 3,Yes,Age
+S0239,Criteria 4,Yes,Age
+S0240,Criteria 5,Yes,Consent not provided
+S0241,Criteria 1,Yes,Consent not provided
+S0242,Criteria 2,Yes,Age
+S0243,Criteria 3,No,Consent not provided
+S0244,Criteria 4,Yes,Other
+S0245,Criteria 5,No,Other
+S0246,Criteria 1,Yes,Age
+S0247,Criteria 2,Yes,Other
+S0248,Criteria 3,Yes,Age
+S0249,Criteria 4,No,Other
+S0250,Criteria 5,Yes,Pre-existing condition
+S0251,Criteria 1,No,Other
+S0252,Criteria 2,No,Pre-existing condition
+S0253,Criteria 3,No,Consent not provided
+S0254,Criteria 4,No,Consent not provided
+S0255,Criteria 5,No,Pre-existing condition
+S0256,Criteria 1,Yes,Pre-existing condition
+S0257,Criteria 2,Yes,Consent not provided
+S0258,Criteria 3,Yes,Pre-existing condition
+S0259,Criteria 4,No,Consent not provided
+S0260,Criteria 5,No,Age
+S0261,Criteria 1,Yes,Other
+S0262,Criteria 2,No,Other
+S0263,Criteria 3,Yes,Age
+S0264,Criteria 4,No,Other
+S0265,Criteria 5,No,Age
+S0266,Criteria 1,Yes,Other
+S0267,Criteria 2,No,Other
+S0268,Criteria 3,No,Pre-existing condition
+S0269,Criteria 4,Yes,Pre-existing condition
+S0270,Criteria 5,No,Age
+S0271,Criteria 1,No,Pre-existing condition
+S0272,Criteria 2,No,Consent not provided
+S0273,Criteria 3,No,Pre-existing condition
+S0274,Criteria 4,Yes,Other
+S0275,Criteria 5,Yes,Consent not provided
+S0276,Criteria 1,No,Other
+S0277,Criteria 2,No,Other
+S0278,Criteria 3,Yes,Age
+S0279,Criteria 4,Yes,Pre-existing condition
+S0280,Criteria 5,No,Pre-existing condition
+S0281,Criteria 1,No,Consent not provided
+S0282,Criteria 2,Yes,Age
+S0283,Criteria 3,Yes,Pre-existing condition
+S0284,Criteria 4,Yes,Pre-existing condition
+S0285,Criteria 5,Yes,Other
+S0286,Criteria 1,No,Age
+S0287,Criteria 2,No,Consent not provided
+S0288,Criteria 3,No,Age
+S0289,Criteria 4,Yes,Age
+S0290,Criteria 5,No,Consent not provided
+S0291,Criteria 1,No,Pre-existing condition
+S0292,Criteria 2,No,Consent not provided
+S0293,Criteria 3,Yes,Other
+S0294,Criteria 4,No,Other
+S0295,Criteria 5,Yes,Consent not provided
+S0296,Criteria 1,No,Other
+S0297,Criteria 2,Yes,Pre-existing condition
+S0298,Criteria 3,No,Age
+S0299,Criteria 4,Yes,Age
+S0300,Criteria 5,No,Other
+S0301,Criteria 1,Yes,Other
+S0302,Criteria 2,No,Pre-existing condition
+S0303,Criteria 3,Yes,Pre-existing condition
+S0304,Criteria 4,No,Consent not provided
+S0305,Criteria 5,No,Consent not provided
+S0306,Criteria 1,Yes,Other
+S0307,Criteria 2,Yes,Other
+S0308,Criteria 3,Yes,Pre-existing condition
+S0309,Criteria 4,Yes,Pre-existing condition
+S0310,Criteria 5,No,Age
+S0311,Criteria 1,Yes,Other
+S0312,Criteria 2,No,Other
+S0313,Criteria 3,No,Consent not provided
+S0314,Criteria 4,No,Consent not provided
+S0315,Criteria 5,No,Other
+S0316,Criteria 1,No,Age
+S0317,Criteria 2,Yes,Age
+S0318,Criteria 3,No,Consent not provided
+S0319,Criteria 4,No,Consent not provided
+S0320,Criteria 5,No,Age
+S0321,Criteria 1,No,Pre-existing condition
+S0322,Criteria 2,No,Pre-existing condition
+S0323,Criteria 3,Yes,Consent not provided
+S0324,Criteria 4,Yes,Other
+S0325,Criteria 5,Yes,Other
+S0326,Criteria 1,No,Pre-existing condition
+S0327,Criteria 2,Yes,Consent not provided
+S0328,Criteria 3,No,Consent not provided
+S0329,Criteria 4,Yes,Other
+S0330,Criteria 5,No,Other
+S0331,Criteria 1,Yes,Age
+S0332,Criteria 2,Yes,Consent not provided
+S0333,Criteria 3,Yes,Other
+S0334,Criteria 4,No,Age
+S0335,Criteria 5,No,Consent not provided
+S0336,Criteria 1,No,Pre-existing condition
+S0337,Criteria 2,Yes,Pre-existing condition
+S0338,Criteria 3,No,Pre-existing condition
+S0339,Criteria 4,No,Consent not provided
+S0340,Criteria 5,Yes,Age
+S0341,Criteria 1,No,Age
+S0342,Criteria 2,Yes,Age
+S0343,Criteria 3,Yes,Age
+S0344,Criteria 4,No,Consent not provided
+S0345,Criteria 5,Yes,Age
+S0346,Criteria 1,Yes,Age
+S0347,Criteria 2,Yes,Pre-existing condition
+S0348,Criteria 3,Yes,Other
+S0349,Criteria 4,No,Other
+S0350,Criteria 5,Yes,Pre-existing condition
+S0351,Criteria 1,No,Consent not provided
+S0352,Criteria 2,No,Age
+S0353,Criteria 3,No,Consent not provided
+S0354,Criteria 4,Yes,Other
+S0355,Criteria 5,Yes,Age
+S0356,Criteria 1,No,Age
+S0357,Criteria 2,No,Other
+S0358,Criteria 3,Yes,Age
+S0359,Criteria 4,Yes,Consent not provided
+S0360,Criteria 5,Yes,Consent not provided
+S0361,Criteria 1,Yes,Pre-existing condition
+S0362,Criteria 2,Yes,Consent not provided
+S0363,Criteria 3,Yes,Consent not provided
+S0364,Criteria 4,No,Consent not provided
+S0365,Criteria 5,No,Other
+S0366,Criteria 1,Yes,Age
+S0367,Criteria 2,Yes,Other
+S0368,Criteria 3,Yes,Age
+S0369,Criteria 4,Yes,Consent not provided
+S0370,Criteria 5,Yes,Consent not provided
+S0371,Criteria 1,No,Consent not provided
+S0372,Criteria 2,No,Other
+S0373,Criteria 3,No,Pre-existing condition
+S0374,Criteria 4,No,Consent not provided
+S0375,Criteria 5,No,Age
+S0376,Criteria 1,No,Consent not provided
+S0377,Criteria 2,No,Other
+S0378,Criteria 3,Yes,Consent not provided
+S0379,Criteria 4,Yes,Age
+S0380,Criteria 5,No,Consent not provided
+S0381,Criteria 1,No,Pre-existing condition
+S0382,Criteria 2,Yes,Other
+S0383,Criteria 3,Yes,Pre-existing condition
+S0384,Criteria 4,No,Other
+S0385,Criteria 5,No,Pre-existing condition
+S0386,Criteria 1,Yes,Age
+S0387,Criteria 2,No,Age
+S0388,Criteria 3,No,Pre-existing condition
+S0389,Criteria 4,Yes,Other
+S0390,Criteria 5,No,Age
+S0391,Criteria 1,Yes,Consent not provided
+S0392,Criteria 2,Yes,Pre-existing condition
+S0393,Criteria 3,No,Consent not provided
+S0394,Criteria 4,No,Consent not provided
+S0395,Criteria 5,Yes,Other
+S0396,Criteria 1,No,Age
+S0397,Criteria 2,No,Pre-existing condition
+S0398,Criteria 3,No,Other
+S0399,Criteria 4,Yes,Age
+S0400,Criteria 5,No,Age
+S0401,Criteria 1,Yes,Consent not provided
+S0402,Criteria 2,No,Other
+S0403,Criteria 3,No,Consent not provided
+S0404,Criteria 4,No,Age
+S0405,Criteria 5,No,Pre-existing condition
+S0406,Criteria 1,Yes,Other
+S0407,Criteria 2,Yes,Consent not provided
+S0408,Criteria 3,No,Consent not provided
+S0409,Criteria 4,No,Consent not provided
+S0410,Criteria 5,Yes,Age
+S0411,Criteria 1,No,Pre-existing condition
+S0412,Criteria 2,Yes,Other
+S0413,Criteria 3,No,Age
+S0414,Criteria 4,No,Age
+S0415,Criteria 5,No,Other
+S0416,Criteria 1,No,Other
+S0417,Criteria 2,No,Age
+S0418,Criteria 3,Yes,Consent not provided
+S0419,Criteria 4,No,Other
+S0420,Criteria 5,Yes,Other
+S0421,Criteria 1,No,Consent not provided
+S0422,Criteria 2,No,Age
+S0423,Criteria 3,No,Consent not provided
+S0424,Criteria 4,Yes,Pre-existing condition
+S0425,Criteria 5,Yes,Other
+S0426,Criteria 1,Yes,Age
+S0427,Criteria 2,No,Other
+S0428,Criteria 3,No,Pre-existing condition
+S0429,Criteria 4,No,Other
+S0430,Criteria 5,Yes,Age
+S0431,Criteria 1,No,Pre-existing condition
+S0432,Criteria 2,Yes,Pre-existing condition
+S0433,Criteria 3,No,Pre-existing condition
+S0434,Criteria 4,No,Pre-existing condition
+S0435,Criteria 5,Yes,Consent not provided
+S0436,Criteria 1,Yes,Pre-existing condition
+S0437,Criteria 2,Yes,Consent not provided
+S0438,Criteria 3,No,Consent not provided
+S0439,Criteria 4,No,Pre-existing condition
+S0440,Criteria 5,No,Other
+S0441,Criteria 1,Yes,Pre-existing condition
+S0442,Criteria 2,No,Pre-existing condition
+S0443,Criteria 3,No,Pre-existing condition
+S0444,Criteria 4,Yes,Pre-existing condition
+S0445,Criteria 5,No,Age
+S0446,Criteria 1,Yes,Age
+S0447,Criteria 2,Yes,Other
+S0448,Criteria 3,No,Age
+S0449,Criteria 4,Yes,Pre-existing condition
+S0450,Criteria 5,Yes,Other
+S0451,Criteria 1,Yes,Age
+S0452,Criteria 2,Yes,Other
+S0453,Criteria 3,Yes,Age
+S0454,Criteria 4,Yes,Consent not provided
+S0455,Criteria 5,No,Age
+S0456,Criteria 1,No,Pre-existing condition
+S0457,Criteria 2,Yes,Consent not provided
+S0458,Criteria 3,Yes,Pre-existing condition
+S0459,Criteria 4,No,Pre-existing condition
+S0460,Criteria 5,Yes,Pre-existing condition
+S0461,Criteria 1,No,Consent not provided
+S0462,Criteria 2,Yes,Age
+S0463,Criteria 3,Yes,Age
+S0464,Criteria 4,No,Age
+S0465,Criteria 5,No,Consent not provided
+S0466,Criteria 1,Yes,Pre-existing condition
+S0467,Criteria 2,Yes,Pre-existing condition
+S0468,Criteria 3,Yes,Pre-existing condition
+S0469,Criteria 4,No,Other
+S0470,Criteria 5,No,Age
+S0471,Criteria 1,No,Pre-existing condition
+S0472,Criteria 2,No,Pre-existing condition
+S0473,Criteria 3,No,Consent not provided
+S0474,Criteria 4,Yes,Age
+S0475,Criteria 5,No,Age
+S0476,Criteria 1,No,Age
+S0477,Criteria 2,Yes,Age
+S0478,Criteria 3,No,Consent not provided
+S0479,Criteria 4,No,Pre-existing condition
+S0480,Criteria 5,Yes,Consent not provided
+S0481,Criteria 1,Yes,Age
+S0482,Criteria 2,Yes,Pre-existing condition
+S0483,Criteria 3,Yes,Other
+S0484,Criteria 4,Yes,Age
+S0485,Criteria 5,Yes,Other
+S0486,Criteria 1,Yes,Consent not provided
+S0487,Criteria 2,No,Pre-existing condition
+S0488,Criteria 3,Yes,Consent not provided
+S0489,Criteria 4,No,Pre-existing condition
+S0490,Criteria 5,Yes,Age
+S0491,Criteria 1,Yes,Pre-existing condition
+S0492,Criteria 2,No,Pre-existing condition
+S0493,Criteria 3,No,Consent not provided
+S0494,Criteria 4,Yes,Other
+S0495,Criteria 5,No,Other
+S0496,Criteria 1,No,Pre-existing condition
+S0497,Criteria 2,No,Pre-existing condition
+S0498,Criteria 3,No,Age
+S0499,Criteria 4,No,Consent not provided
+S0500,Criteria 5,No,Pre-existing condition
+S0501,Criteria 1,No,Other
+S0502,Criteria 2,No,Consent not provided
+S0503,Criteria 3,Yes,Other
+S0504,Criteria 4,Yes,Consent not provided
+S0505,Criteria 5,Yes,Other
+S0506,Criteria 1,Yes,Consent not provided
+S0507,Criteria 2,Yes,Pre-existing condition
+S0508,Criteria 3,No,Age
+S0509,Criteria 4,No,Pre-existing condition
+S0510,Criteria 5,Yes,Consent not provided
+S0511,Criteria 1,No,Pre-existing condition
+S0512,Criteria 2,No,Other
+S0513,Criteria 3,No,Consent not provided
+S0514,Criteria 4,Yes,Age
+S0515,Criteria 5,No,Age
+S0516,Criteria 1,Yes,Other
+S0517,Criteria 2,No,Pre-existing condition
+S0518,Criteria 3,No,Consent not provided
+S0519,Criteria 4,Yes,Other
+S0520,Criteria 5,Yes,Age
+S0521,Criteria 1,No,Other
+S0522,Criteria 2,No,Age
+S0523,Criteria 3,Yes,Other
+S0524,Criteria 4,Yes,Pre-existing condition
+S0525,Criteria 5,No,Age
+S0526,Criteria 1,No,Consent not provided
+S0527,Criteria 2,No,Consent not provided
+S0528,Criteria 3,No,Age
+S0529,Criteria 4,No,Consent not provided
+S0530,Criteria 5,Yes,Consent not provided
+S0531,Criteria 1,No,Pre-existing condition
+S0532,Criteria 2,Yes,Age
+S0533,Criteria 3,No,Consent not provided
+S0534,Criteria 4,Yes,Age
+S0535,Criteria 5,Yes,Other
+S0536,Criteria 1,No,Consent not provided
+S0537,Criteria 2,No,Other
+S0538,Criteria 3,Yes,Pre-existing condition
+S0539,Criteria 4,Yes,Age
+S0540,Criteria 5,No,Other
+S0541,Criteria 1,Yes,Age
+S0542,Criteria 2,Yes,Consent not provided
+S0543,Criteria 3,No,Pre-existing condition
+S0544,Criteria 4,No,Consent not provided
+S0545,Criteria 5,Yes,Age
+S0546,Criteria 1,No,Pre-existing condition
+S0547,Criteria 2,No,Other
+S0548,Criteria 3,No,Other
+S0549,Criteria 4,Yes,Other
+S0550,Criteria 5,Yes,Pre-existing condition
+S0551,Criteria 1,Yes,Consent not provided
+S0552,Criteria 2,Yes,Pre-existing condition
+S0553,Criteria 3,Yes,Pre-existing condition
+S0554,Criteria 4,No,Consent not provided
+S0555,Criteria 5,No,Other
+S0556,Criteria 1,No,Other
+S0557,Criteria 2,Yes,Other
+S0558,Criteria 3,No,Other
+S0559,Criteria 4,Yes,Pre-existing condition
+S0560,Criteria 5,Yes,Pre-existing condition
+S0561,Criteria 1,Yes,Other
+S0562,Criteria 2,Yes,Consent not provided
+S0563,Criteria 3,No,Pre-existing condition
+S0564,Criteria 4,Yes,Other
+S0565,Criteria 5,No,Other
+S0566,Criteria 1,No,Age
+S0567,Criteria 2,No,Pre-existing condition
+S0568,Criteria 3,Yes,Age
+S0569,Criteria 4,Yes,Pre-existing condition
+S0570,Criteria 5,Yes,Age
+S0571,Criteria 1,No,Pre-existing condition
+S0572,Criteria 2,No,Consent not provided
+S0573,Criteria 3,Yes,Age
+S0574,Criteria 4,No,Age
+S0575,Criteria 5,Yes,Consent not provided
+S0576,Criteria 1,No,Other
+S0577,Criteria 2,Yes,Pre-existing condition
+S0578,Criteria 3,Yes,Other
+S0579,Criteria 4,No,Consent not provided
+S0580,Criteria 5,Yes,Age
+S0581,Criteria 1,No,Other
+S0582,Criteria 2,Yes,Age
+S0583,Criteria 3,Yes,Age
+S0584,Criteria 4,No,Other
+S0585,Criteria 5,Yes,Age
+S0586,Criteria 1,Yes,Age
+S0587,Criteria 2,Yes,Consent not provided
+S0588,Criteria 3,Yes,Pre-existing condition
+S0589,Criteria 4,No,Other
+S0590,Criteria 5,No,Pre-existing condition
+S0591,Criteria 1,Yes,Consent not provided
+S0592,Criteria 2,Yes,Consent not provided
+S0593,Criteria 3,No,Age
+S0594,Criteria 4,No,Consent not provided
+S0595,Criteria 5,No,Other
+S0596,Criteria 1,No,Pre-existing condition
+S0597,Criteria 2,Yes,Age
+S0598,Criteria 3,No,Pre-existing condition
+S0599,Criteria 4,No,Other
+S0600,Criteria 5,Yes,Pre-existing condition
+S0601,Criteria 1,No,Other
+S0602,Criteria 2,No,Consent not provided
+S0603,Criteria 3,Yes,Other
+S0604,Criteria 4,No,Consent not provided
+S0605,Criteria 5,Yes,Pre-existing condition
+S0606,Criteria 1,Yes,Other
+S0607,Criteria 2,Yes,Consent not provided
+S0608,Criteria 3,Yes,Consent not provided
+S0609,Criteria 4,Yes,Other
+S0610,Criteria 5,Yes,Pre-existing condition
+S0611,Criteria 1,Yes,Pre-existing condition
+S0612,Criteria 2,Yes,Age
+S0613,Criteria 3,No,Age
+S0614,Criteria 4,Yes,Age
+S0615,Criteria 5,No,Pre-existing condition
+S0616,Criteria 1,No,Consent not provided
+S0617,Criteria 2,No,Pre-existing condition
+S0618,Criteria 3,Yes,Age
+S0619,Criteria 4,Yes,Pre-existing condition
+S0620,Criteria 5,Yes,Age
+S0621,Criteria 1,No,Consent not provided
+S0622,Criteria 2,No,Consent not provided
+S0623,Criteria 3,Yes,Consent not provided
+S0624,Criteria 4,No,Other
+S0625,Criteria 5,Yes,Age
+S0626,Criteria 1,No,Age
+S0627,Criteria 2,No,Pre-existing condition
+S0628,Criteria 3,No,Pre-existing condition
+S0629,Criteria 4,Yes,Consent not provided
+S0630,Criteria 5,No,Other
+S0631,Criteria 1,Yes,Consent not provided
+S0632,Criteria 2,Yes,Pre-existing condition
+S0633,Criteria 3,No,Pre-existing condition
+S0634,Criteria 4,No,Other
+S0635,Criteria 5,Yes,Pre-existing condition
+S0636,Criteria 1,Yes,Other
+S0637,Criteria 2,Yes,Pre-existing condition
+S0638,Criteria 3,No,Age
+S0639,Criteria 4,Yes,Age
+S0640,Criteria 5,No,Consent not provided
+S0641,Criteria 1,No,Consent not provided
+S0642,Criteria 2,No,Other
+S0643,Criteria 3,Yes,Pre-existing condition
+S0644,Criteria 4,No,Consent not provided
+S0645,Criteria 5,Yes,Pre-existing condition
+S0646,Criteria 1,No,Other
+S0647,Criteria 2,No,Other
+S0648,Criteria 3,No,Age
+S0649,Criteria 4,No,Other
+S0650,Criteria 5,No,Age
+S0651,Criteria 1,No,Other
+S0652,Criteria 2,No,Age
+S0653,Criteria 3,Yes,Pre-existing condition
+S0654,Criteria 4,No,Pre-existing condition
+S0655,Criteria 5,Yes,Pre-existing condition
+S0656,Criteria 1,Yes,Pre-existing condition
+S0657,Criteria 2,No,Other
+S0658,Criteria 3,Yes,Age
+S0659,Criteria 4,Yes,Age
+S0660,Criteria 5,Yes,Pre-existing condition
+S0661,Criteria 1,No,Other
+S0662,Criteria 2,Yes,Consent not provided
+S0663,Criteria 3,Yes,Pre-existing condition
+S0664,Criteria 4,No,Other
+S0665,Criteria 5,Yes,Consent not provided
+S0666,Criteria 1,No,Consent not provided
+S0667,Criteria 2,No,Other
+S0668,Criteria 3,Yes,Pre-existing condition
+S0669,Criteria 4,Yes,Other
+S0670,Criteria 5,No,Other
+S0671,Criteria 1,Yes,Pre-existing condition
+S0672,Criteria 2,No,Age
+S0673,Criteria 3,No,Consent not provided
+S0674,Criteria 4,No,Age
+S0675,Criteria 5,Yes,Age
+S0676,Criteria 1,No,Consent not provided
+S0677,Criteria 2,Yes,Other
+S0678,Criteria 3,No,Consent not provided
+S0679,Criteria 4,No,Consent not provided
+S0680,Criteria 5,Yes,Consent not provided
+S0681,Criteria 1,Yes,Pre-existing condition
+S0682,Criteria 2,Yes,Consent not provided
+S0683,Criteria 3,No,Consent not provided
+S0684,Criteria 4,Yes,Pre-existing condition
+S0685,Criteria 5,No,Age
+S0686,Criteria 1,No,Consent not provided
+S0687,Criteria 2,Yes,Other
+S0688,Criteria 3,No,Age
+S0689,Criteria 4,Yes,Pre-existing condition
+S0690,Criteria 5,Yes,Other
+S0691,Criteria 1,No,Consent not provided
+S0692,Criteria 2,No,Pre-existing condition
+S0693,Criteria 3,No,Pre-existing condition
+S0694,Criteria 4,Yes,Pre-existing condition
+S0695,Criteria 5,No,Age
+S0696,Criteria 1,Yes,Age
+S0697,Criteria 2,No,Other
+S0698,Criteria 3,No,Pre-existing condition
+S0699,Criteria 4,No,Other
+S0700,Criteria 5,Yes,Consent not provided
+S0701,Criteria 1,Yes,Consent not provided
+S0702,Criteria 2,No,Pre-existing condition
+S0703,Criteria 3,Yes,Consent not provided
+S0704,Criteria 4,Yes,Other
+S0705,Criteria 5,Yes,Age
+S0706,Criteria 1,Yes,Pre-existing condition
+S0707,Criteria 2,Yes,Other
+S0708,Criteria 3,Yes,Consent not provided
+S0709,Criteria 4,No,Consent not provided
+S0710,Criteria 5,Yes,Consent not provided
+S0711,Criteria 1,No,Pre-existing condition
+S0712,Criteria 2,No,Age
+S0713,Criteria 3,Yes,Consent not provided
+S0714,Criteria 4,Yes,Age
+S0715,Criteria 5,No,Other
+S0716,Criteria 1,Yes,Age
+S0717,Criteria 2,No,Consent not provided
+S0718,Criteria 3,No,Pre-existing condition
+S0719,Criteria 4,No,Other
+S0720,Criteria 5,No,Other
+S0721,Criteria 1,No,Pre-existing condition
+S0722,Criteria 2,No,Other
+S0723,Criteria 3,No,Pre-existing condition
+S0724,Criteria 4,Yes,Pre-existing condition
+S0725,Criteria 5,No,Consent not provided
+S0726,Criteria 1,Yes,Age
+S0727,Criteria 2,No,Other
+S0728,Criteria 3,No,Other
+S0729,Criteria 4,No,Other
+S0730,Criteria 5,No,Other
+S0731,Criteria 1,Yes,Age
+S0732,Criteria 2,No,Consent not provided
+S0733,Criteria 3,No,Pre-existing condition
+S0734,Criteria 4,Yes,Other
+S0735,Criteria 5,No,Pre-existing condition
+S0736,Criteria 1,Yes,Consent not provided
+S0737,Criteria 2,Yes,Consent not provided
+S0738,Criteria 3,No,Consent not provided
+S0739,Criteria 4,No,Consent not provided
+S0740,Criteria 5,No,Age
+S0741,Criteria 1,No,Consent not provided
+S0742,Criteria 2,No,Other
+S0743,Criteria 3,No,Consent not provided
+S0744,Criteria 4,Yes,Consent not provided
+S0745,Criteria 5,Yes,Pre-existing condition
+S0746,Criteria 1,No,Pre-existing condition
+S0747,Criteria 2,No,Consent not provided
+S0748,Criteria 3,Yes,Other
+S0749,Criteria 4,No,Pre-existing condition
+S0750,Criteria 5,Yes,Other
+S0751,Criteria 1,Yes,Pre-existing condition
+S0752,Criteria 2,Yes,Pre-existing condition
+S0753,Criteria 3,Yes,Pre-existing condition
+S0754,Criteria 4,No,Pre-existing condition
+S0755,Criteria 5,Yes,Consent not provided
+S0756,Criteria 1,No,Consent not provided
+S0757,Criteria 2,No,Pre-existing condition
+S0758,Criteria 3,Yes,Other
+S0759,Criteria 4,No,Other
+S0760,Criteria 5,Yes,Other
+S0761,Criteria 1,Yes,Age
+S0762,Criteria 2,No,Consent not provided
+S0763,Criteria 3,Yes,Other
+S0764,Criteria 4,Yes,Pre-existing condition
+S0765,Criteria 5,No,Age
+S0766,Criteria 1,Yes,Consent not provided
+S0767,Criteria 2,No,Pre-existing condition
+S0768,Criteria 3,No,Consent not provided
+S0769,Criteria 4,Yes,Pre-existing condition
+S0770,Criteria 5,No,Consent not provided
+S0771,Criteria 1,Yes,Pre-existing condition
+S0772,Criteria 2,No,Other
+S0773,Criteria 3,Yes,Pre-existing condition
+S0774,Criteria 4,Yes,Pre-existing condition
+S0775,Criteria 5,Yes,Other
+S0776,Criteria 1,No,Pre-existing condition
+S0777,Criteria 2,No,Other
+S0778,Criteria 3,No,Age
+S0779,Criteria 4,Yes,Consent not provided
+S0780,Criteria 5,Yes,Consent not provided
+S0781,Criteria 1,No,Consent not provided
+S0782,Criteria 2,Yes,Age
+S0783,Criteria 3,Yes,Consent not provided
+S0784,Criteria 4,Yes,Pre-existing condition
+S0785,Criteria 5,No,Age
+S0786,Criteria 1,Yes,Age
+S0787,Criteria 2,No,Age
+S0788,Criteria 3,No,Consent not provided
+S0789,Criteria 4,No,Pre-existing condition
+S0790,Criteria 5,No,Age
+S0791,Criteria 1,Yes,Pre-existing condition
+S0792,Criteria 2,Yes,Age
+S0793,Criteria 3,Yes,Pre-existing condition
+S0794,Criteria 4,Yes,Consent not provided
+S0795,Criteria 5,No,Age
+S0796,Criteria 1,Yes,Pre-existing condition
+S0797,Criteria 2,Yes,Pre-existing condition
+S0798,Criteria 3,Yes,Pre-existing condition
+S0799,Criteria 4,No,Other
+S0800,Criteria 5,Yes,Age
+S0801,Criteria 1,No,Other
+S0802,Criteria 2,Yes,Other
+S0803,Criteria 3,No,Other
+S0804,Criteria 4,Yes,Age
+S0805,Criteria 5,No,Pre-existing condition
+S0806,Criteria 1,No,Consent not provided
+S0807,Criteria 2,No,Consent not provided
+S0808,Criteria 3,Yes,Consent not provided
+S0809,Criteria 4,Yes,Other
+S0810,Criteria 5,No,Age
+S0811,Criteria 1,Yes,Age
+S0812,Criteria 2,No,Other
+S0813,Criteria 3,Yes,Pre-existing condition
+S0814,Criteria 4,Yes,Consent not provided
+S0815,Criteria 5,No,Consent not provided
+S0816,Criteria 1,Yes,Consent not provided
+S0817,Criteria 2,Yes,Other
+S0818,Criteria 3,No,Pre-existing condition
+S0819,Criteria 4,No,Age
+S0820,Criteria 5,No,Other
+S0821,Criteria 1,No,Pre-existing condition
+S0822,Criteria 2,Yes,Consent not provided
+S0823,Criteria 3,Yes,Age
+S0824,Criteria 4,Yes,Consent not provided
+S0825,Criteria 5,Yes,Consent not provided
+S0826,Criteria 1,No,Consent not provided
+S0827,Criteria 2,Yes,Other
+S0828,Criteria 3,Yes,Age
+S0829,Criteria 4,No,Consent not provided
+S0830,Criteria 5,No,Other
+S0831,Criteria 1,No,Consent not provided
+S0832,Criteria 2,Yes,Consent not provided
+S0833,Criteria 3,Yes,Other
+S0834,Criteria 4,Yes,Other
+S0835,Criteria 5,Yes,Other
+S0836,Criteria 1,Yes,Consent not provided
+S0837,Criteria 2,Yes,Pre-existing condition
+S0838,Criteria 3,Yes,Consent not provided
+S0839,Criteria 4,Yes,Pre-existing condition
+S0840,Criteria 5,Yes,Age
+S0841,Criteria 1,Yes,Consent not provided
+S0842,Criteria 2,No,Pre-existing condition
+S0843,Criteria 3,No,Pre-existing condition
+S0844,Criteria 4,Yes,Other
+S0845,Criteria 5,No,Other
+S0846,Criteria 1,Yes,Pre-existing condition
+S0847,Criteria 2,Yes,Age
+S0848,Criteria 3,Yes,Age
+S0849,Criteria 4,Yes,Pre-existing condition
+S0850,Criteria 5,No,Age
+S0851,Criteria 1,Yes,Consent not provided
+S0852,Criteria 2,Yes,Pre-existing condition
+S0853,Criteria 3,No,Other
+S0854,Criteria 4,Yes,Pre-existing condition
+S0855,Criteria 5,Yes,Pre-existing condition
+S0856,Criteria 1,Yes,Other
+S0857,Criteria 2,No,Consent not provided
+S0858,Criteria 3,Yes,Other
+S0859,Criteria 4,No,Age
+S0860,Criteria 5,Yes,Other
+S0861,Criteria 1,No,Age
+S0862,Criteria 2,No,Other
+S0863,Criteria 3,No,Other
+S0864,Criteria 4,No,Age
+S0865,Criteria 5,No,Consent not provided
+S0866,Criteria 1,No,Other
+S0867,Criteria 2,Yes,Pre-existing condition
+S0868,Criteria 3,No,Age
+S0869,Criteria 4,No,Pre-existing condition
+S0870,Criteria 5,Yes,Consent not provided
+S0871,Criteria 1,No,Pre-existing condition
+S0872,Criteria 2,Yes,Pre-existing condition
+S0873,Criteria 3,No,Other
+S0874,Criteria 4,No,Other
+S0875,Criteria 5,Yes,Consent not provided
+S0876,Criteria 1,No,Age
+S0877,Criteria 2,Yes,Pre-existing condition
+S0878,Criteria 3,Yes,Other
+S0879,Criteria 4,No,Age
+S0880,Criteria 5,Yes,Pre-existing condition
+S0881,Criteria 1,No,Other
+S0882,Criteria 2,No,Consent not provided
+S0883,Criteria 3,No,Pre-existing condition
+S0884,Criteria 4,No,Consent not provided
+S0885,Criteria 5,Yes,Consent not provided
+S0886,Criteria 1,No,Other
+S0887,Criteria 2,No,Pre-existing condition
+S0888,Criteria 3,No,Other
+S0889,Criteria 4,No,Age
+S0890,Criteria 5,No,Other
+S0891,Criteria 1,No,Age
+S0892,Criteria 2,Yes,Other
+S0893,Criteria 3,Yes,Age
+S0894,Criteria 4,No,Consent not provided
+S0895,Criteria 5,Yes,Other
+S0896,Criteria 1,Yes,Other
+S0897,Criteria 2,No,Age
+S0898,Criteria 3,Yes,Consent not provided
+S0899,Criteria 4,No,Pre-existing condition
+S0900,Criteria 5,Yes,Other
+S0901,Criteria 1,Yes,Pre-existing condition
+S0902,Criteria 2,Yes,Other
+S0903,Criteria 3,No,Age
+S0904,Criteria 4,No,Other
+S0905,Criteria 5,No,Pre-existing condition
+S0906,Criteria 1,No,Pre-existing condition
+S0907,Criteria 2,Yes,Pre-existing condition
+S0908,Criteria 3,No,Pre-existing condition
+S0909,Criteria 4,No,Other
+S0910,Criteria 5,No,Other
+S0911,Criteria 1,Yes,Consent not provided
+S0912,Criteria 2,Yes,Other
+S0913,Criteria 3,No,Age
+S0914,Criteria 4,No,Age
+S0915,Criteria 5,Yes,Other
+S0916,Criteria 1,Yes,Pre-existing condition
+S0917,Criteria 2,Yes,Other
+S0918,Criteria 3,Yes,Other
+S0919,Criteria 4,No,Consent not provided
+S0920,Criteria 5,No,Other
+S0921,Criteria 1,Yes,Other
+S0922,Criteria 2,No,Age
+S0923,Criteria 3,Yes,Consent not provided
+S0924,Criteria 4,No,Age
+S0925,Criteria 5,Yes,Age
+S0926,Criteria 1,Yes,Other
+S0927,Criteria 2,No,Other
+S0928,Criteria 3,No,Pre-existing condition
+S0929,Criteria 4,No,Pre-existing condition
+S0930,Criteria 5,Yes,Consent not provided
+S0931,Criteria 1,Yes,Age
+S0932,Criteria 2,No,Age
+S0933,Criteria 3,Yes,Pre-existing condition
+S0934,Criteria 4,No,Pre-existing condition
+S0935,Criteria 5,Yes,Pre-existing condition
+S0936,Criteria 1,No,Other
+S0937,Criteria 2,Yes,Consent not provided
+S0938,Criteria 3,No,Other
+S0939,Criteria 4,No,Age
+S0940,Criteria 5,No,Consent not provided
+S0941,Criteria 1,Yes,Pre-existing condition
+S0942,Criteria 2,No,Other
+S0943,Criteria 3,Yes,Consent not provided
+S0944,Criteria 4,Yes,Pre-existing condition
+S0945,Criteria 5,No,Pre-existing condition
+S0946,Criteria 1,No,Pre-existing condition
+S0947,Criteria 2,No,Consent not provided
+S0948,Criteria 3,Yes,Pre-existing condition
+S0949,Criteria 4,No,Pre-existing condition
+S0950,Criteria 5,No,Age
+S0951,Criteria 1,No,Pre-existing condition
+S0952,Criteria 2,Yes,Consent not provided
+S0953,Criteria 3,Yes,Other
+S0954,Criteria 4,Yes,Consent not provided
+S0955,Criteria 5,Yes,Age
+S0956,Criteria 1,Yes,Pre-existing condition
+S0957,Criteria 2,Yes,Pre-existing condition
+S0958,Criteria 3,Yes,Age
+S0959,Criteria 4,Yes,Other
+S0960,Criteria 5,Yes,Other
+S0961,Criteria 1,No,Other
+S0962,Criteria 2,No,Consent not provided
+S0963,Criteria 3,Yes,Other
+S0964,Criteria 4,Yes,Consent not provided
+S0965,Criteria 5,No,Pre-existing condition
+S0966,Criteria 1,Yes,Age
+S0967,Criteria 2,Yes,Pre-existing condition
+S0968,Criteria 3,Yes,Consent not provided
+S0969,Criteria 4,No,Pre-existing condition
+S0970,Criteria 5,Yes,Consent not provided
+S0971,Criteria 1,Yes,Age
+S0972,Criteria 2,Yes,Pre-existing condition
+S0973,Criteria 3,Yes,Pre-existing condition
+S0974,Criteria 4,Yes,Consent not provided
+S0975,Criteria 5,Yes,Consent not provided
+S0976,Criteria 1,Yes,Pre-existing condition
+S0977,Criteria 2,No,Age
+S0978,Criteria 3,Yes,Age
+S0979,Criteria 4,Yes,Other
+S0980,Criteria 5,Yes,Other
+S0981,Criteria 1,No,Consent not provided
+S0982,Criteria 2,No,Consent not provided
+S0983,Criteria 3,Yes,Age
+S0984,Criteria 4,Yes,Pre-existing condition
+S0985,Criteria 5,No,Consent not provided
+S0986,Criteria 1,Yes,Pre-existing condition
+S0987,Criteria 2,Yes,Age
+S0988,Criteria 3,Yes,Pre-existing condition
+S0989,Criteria 4,Yes,Pre-existing condition
+S0990,Criteria 5,Yes,Age
+S0991,Criteria 1,No,Pre-existing condition
+S0992,Criteria 2,No,Age
+S0993,Criteria 3,No,Consent not provided
+S0994,Criteria 4,Yes,Age
+S0995,Criteria 5,Yes,Pre-existing condition
+S0996,Criteria 1,Yes,Other
+S0997,Criteria 2,No,Other
+S0998,Criteria 3,No,Consent not provided
+S0999,Criteria 4,Yes,Pre-existing condition
+S1000,Criteria 5,Yes,Age

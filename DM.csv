@@ -1,0 +1,1001 @@
+SUBJID,age,sex,ethnicity,weight_kg,height_cm,country
+S0001,4,Female,Asian,6.4,82.5,Germany
+S0002,5,Female,Hispanic,11.6,106.4,USA
+S0003,3,Female,Non-Hispanic Black,7.9,63.2,India
+S0004,5,Female,Other,7.8,93.5,Canada
+S0005,5,Female,Non-Hispanic Black,6.4,87,India
+S0006,2,Male,Non-Hispanic Black,10.4,94.4,Canada
+S0007,3,Female,Hispanic,16.4,62.9,USA
+S0008,3,Male,Hispanic,9.1,89.9,Canada
+S0009,3,Female,Hispanic,9.7,79.9,France
+S0010,5,Male,Non-Hispanic White,14.6,94.6,India
+S0011,4,Female,Asian,7.9,69.6,USA
+S0012,3,Male,Non-Hispanic White,18.5,103.4,France
+S0013,5,Female,Asian,12.8,55.1,Canada
+S0014,2,Male,Asian,11.7,98.4,USA
+S0015,4,Female,Non-Hispanic Black,13.4,101.7,Canada
+S0016,2,Male,Non-Hispanic Black,7.5,99,India
+S0017,4,Female,Asian,14.2,80.8,USA
+S0018,5,Male,Asian,10.4,76.3,Canada
+S0019,1,Male,Non-Hispanic White,18.5,109.8,India
+S0020,4,Female,Non-Hispanic White,7.5,63.8,France
+S0021,2,Female,Non-Hispanic Black,12.6,82.8,Australia
+S0022,5,Male,Hispanic,14,90.2,France
+S0023,4,Female,Asian,5.5,92.1,Canada
+S0024,1,Male,Non-Hispanic White,10.5,62.2,USA
+S0025,1,Male,Non-Hispanic Black,16,89.2,Germany
+S0026,3,Male,Non-Hispanic White,17.3,99.1,France
+S0027,3,Female,Asian,9.7,53,France
+S0028,2,Male,Asian,17,104.7,India
+S0029,4,Male,Other,19.5,51.8,Japan
+S0030,4,Female,Hispanic,17.9,71.4,Germany
+S0031,3,Female,Other,6.8,50.9,Canada
+S0032,4,Female,Non-Hispanic Black,16.1,54.6,Australia
+S0033,4,Female,Non-Hispanic White,9.8,104.7,USA
+S0034,1,Male,Non-Hispanic Black,19.8,71.3,Japan
+S0035,3,Male,Asian,12.3,75.5,Canada
+S0036,5,Male,Other,6.8,62.9,UK
+S0037,3,Male,Other,15.9,85.8,Australia
+S0038,5,Female,Other,9.8,85.7,France
+S0039,1,Male,Non-Hispanic Black,20,72.3,UK
+S0040,2,Male,Asian,19.7,70,France
+S0041,4,Female,Non-Hispanic White,14.8,103.1,France
+S0042,1,Male,Non-Hispanic White,6.9,73,UK
+S0043,4,Male,Non-Hispanic Black,15.3,79.6,Australia
+S0044,2,Male,Other,6.4,67,India
+S0045,2,Male,Hispanic,5.4,97.2,UK
+S0046,1,Male,Non-Hispanic Black,17.3,73.8,Canada
+S0047,2,Male,Non-Hispanic Black,8.1,80.8,Japan
+S0048,5,Female,Asian,10.7,65.2,Japan
+S0049,2,Female,Non-Hispanic White,19.6,109.3,UK
+S0050,4,Male,Non-Hispanic Black,10.1,67.5,Canada
+S0051,4,Male,Non-Hispanic Black,9.4,96.2,India
+S0052,4,Female,Other,18.8,75.6,Japan
+S0053,4,Male,Other,6.7,62.4,Canada
+S0054,5,Male,Hispanic,16.4,98,India
+S0055,3,Male,Asian,19.8,70,Canada
+S0056,1,Female,Hispanic,18.5,101.9,France
+S0057,4,Male,Other,14.8,104.9,Japan
+S0058,2,Female,Non-Hispanic White,9.7,101.6,India
+S0059,4,Male,Other,8.8,52.1,Japan
+S0060,2,Female,Asian,17.3,97.2,France
+S0061,2,Female,Other,18.2,74.7,UK
+S0062,4,Male,Asian,12.9,102.4,France
+S0063,5,Female,Asian,8.7,88.3,Japan
+S0064,2,Male,Asian,6.7,100,Japan
+S0065,2,Female,Asian,6.3,80,Australia
+S0066,4,Male,Asian,15.8,82.1,India
+S0067,2,Male,Non-Hispanic White,11.3,58.7,UK
+S0068,2,Female,Hispanic,18.6,97,France
+S0069,4,Male,Non-Hispanic Black,16.1,75.2,India
+S0070,4,Male,Hispanic,7.9,80,USA
+S0071,1,Female,Asian,14.2,97.1,India
+S0072,5,Male,Non-Hispanic White,11.5,85.9,USA
+S0073,5,Male,Other,13.7,62.1,UK
+S0074,2,Female,Non-Hispanic White,16.1,85.4,France
+S0075,5,Female,Asian,17.1,74.5,France
+S0076,2,Male,Non-Hispanic White,17.7,78.2,Canada
+S0077,1,Male,Non-Hispanic White,8.8,51.7,Japan
+S0078,4,Female,Asian,5.5,62.6,Germany
+S0079,4,Female,Non-Hispanic White,16.1,66.9,Australia
+S0080,4,Male,Non-Hispanic Black,6.6,92.8,India
+S0081,5,Female,Non-Hispanic Black,9.7,50.7,UK
+S0082,1,Male,Non-Hispanic White,5.1,74.5,Germany
+S0083,5,Male,Other,15.2,105.4,India
+S0084,5,Male,Asian,7.5,56.7,Germany
+S0085,1,Male,Non-Hispanic Black,14.8,81,UK
+S0086,1,Male,Other,19.9,97.2,France
+S0087,1,Female,Non-Hispanic White,6.1,106.6,UK
+S0088,1,Female,Other,6.2,94.8,India
+S0089,4,Female,Hispanic,10.1,93.2,Germany
+S0090,3,Female,Non-Hispanic Black,18,99.6,Japan
+S0091,3,Male,Non-Hispanic White,8.2,76.8,Australia
+S0092,1,Male,Asian,10.4,98.4,Australia
+S0093,3,Male,Non-Hispanic White,6,50.5,Japan
+S0094,3,Male,Asian,16.4,105.5,Japan
+S0095,1,Female,Non-Hispanic White,11.1,76.6,France
+S0096,3,Male,Other,16.4,83.2,India
+S0097,5,Male,Other,18.6,65.3,USA
+S0098,2,Female,Other,8.5,94.6,UK
+S0099,2,Female,Hispanic,17.1,54.6,Australia
+S0100,1,Female,Asian,5.9,102.4,Japan
+S0101,4,Female,Other,18.5,99.7,UK
+S0102,1,Male,Hispanic,14.8,63,Australia
+S0103,4,Male,Asian,18.1,98.6,Japan
+S0104,2,Female,Non-Hispanic White,5,97.2,India
+S0105,1,Male,Hispanic,7.5,87.9,Australia
+S0106,5,Male,Non-Hispanic Black,10.8,72.4,France
+S0107,3,Male,Hispanic,10.7,66.3,USA
+S0108,4,Female,Hispanic,8.4,63.9,USA
+S0109,3,Male,Asian,10.7,69.1,Japan
+S0110,3,Female,Non-Hispanic White,6.9,104.2,Australia
+S0111,1,Male,Non-Hispanic Black,11.2,54.7,France
+S0112,3,Male,Other,17,99.7,Canada
+S0113,5,Male,Other,12.2,70.9,UK
+S0114,3,Female,Hispanic,5.3,81.3,UK
+S0115,1,Male,Asian,11.3,97.7,Germany
+S0116,5,Female,Asian,5.4,103.1,France
+S0117,2,Female,Other,19.5,70.7,Australia
+S0118,3,Female,Non-Hispanic Black,6.9,77.7,India
+S0119,1,Male,Non-Hispanic White,15.6,74.9,India
+S0120,2,Male,Non-Hispanic Black,19.6,50.8,Germany
+S0121,2,Male,Non-Hispanic White,17.4,67.8,Japan
+S0122,4,Male,Other,15.5,77.6,Australia
+S0123,5,Female,Non-Hispanic White,17.6,74.7,Germany
+S0124,3,Female,Asian,19.7,93.3,USA
+S0125,1,Female,Hispanic,14.3,73.1,UK
+S0126,4,Male,Hispanic,13.4,79.4,Australia
+S0127,5,Female,Other,14.4,75.8,Germany
+S0128,4,Male,Asian,13,94.4,USA
+S0129,5,Female,Non-Hispanic Black,14.5,101.8,France
+S0130,5,Male,Asian,11.7,81.9,Germany
+S0131,3,Male,Hispanic,8.3,97.4,Japan
+S0132,5,Female,Hispanic,6.8,67.8,Japan
+S0133,4,Female,Asian,6,82.5,Japan
+S0134,5,Female,Asian,8.9,70.7,Australia
+S0135,3,Female,Hispanic,5.7,74.9,India
+S0136,3,Male,Non-Hispanic Black,13.5,93.9,India
+S0137,4,Female,Other,9.3,102.9,UK
+S0138,2,Female,Other,17.4,57.3,Germany
+S0139,2,Female,Asian,6.1,88.1,France
+S0140,5,Male,Other,8.4,84.9,Germany
+S0141,1,Male,Hispanic,16,57.1,UK
+S0142,5,Female,Hispanic,14,62.7,USA
+S0143,4,Male,Asian,6,68.7,UK
+S0144,4,Female,Asian,18.2,60,Japan
+S0145,4,Male,Asian,18.2,64.6,Australia
+S0146,4,Male,Non-Hispanic Black,10,66.1,USA
+S0147,4,Male,Other,10.1,70.1,Australia
+S0148,3,Male,Asian,19.8,95,Japan
+S0149,2,Female,Non-Hispanic White,14.4,84.3,Canada
+S0150,4,Female,Non-Hispanic White,13,109.2,UK
+S0151,1,Female,Hispanic,17.6,74.9,UK
+S0152,1,Male,Other,9.3,95.2,France
+S0153,1,Female,Asian,11.4,102.3,Germany
+S0154,1,Female,Non-Hispanic White,9,90.7,USA
+S0155,3,Female,Other,16.8,74.7,India
+S0156,1,Male,Hispanic,13.6,95.2,Australia
+S0157,4,Male,Non-Hispanic Black,14.9,62.2,USA
+S0158,5,Male,Other,8.8,69.7,France
+S0159,1,Female,Other,8.3,82.8,France
+S0160,3,Female,Non-Hispanic Black,12.3,84.5,Australia
+S0161,3,Female,Other,16.1,51.3,India
+S0162,1,Male,Hispanic,12.9,106.7,Germany
+S0163,5,Male,Hispanic,5.5,91.8,Australia
+S0164,1,Female,Non-Hispanic Black,18,79.7,Australia
+S0165,3,Male,Asian,6,106,Japan
+S0166,2,Male,Non-Hispanic White,19.3,76.3,India
+S0167,4,Male,Asian,5.4,108.8,Germany
+S0168,3,Male,Other,15.4,80.7,UK
+S0169,1,Female,Non-Hispanic White,6.2,56.9,Japan
+S0170,4,Male,Non-Hispanic Black,18.7,95.9,Canada
+S0171,1,Male,Non-Hispanic Black,12,90.7,India
+S0172,1,Male,Non-Hispanic White,7.1,96.4,Germany
+S0173,2,Male,Hispanic,10.1,107.1,France
+S0174,4,Female,Non-Hispanic White,7.5,96.6,Japan
+S0175,4,Female,Other,7.6,86.7,Germany
+S0176,2,Male,Hispanic,19.2,101.4,USA
+S0177,3,Male,Non-Hispanic Black,11.7,90.4,Australia
+S0178,1,Male,Non-Hispanic White,16.8,74.5,Canada
+S0179,5,Male,Asian,14.6,103.1,UK
+S0180,1,Male,Asian,15.1,63.3,Australia
+S0181,1,Male,Other,7,92.9,USA
+S0182,3,Female,Asian,8.5,102.9,USA
+S0183,1,Male,Non-Hispanic White,16.8,93.9,Canada
+S0184,2,Female,Non-Hispanic White,19.6,91.8,UK
+S0185,2,Female,Asian,8.9,95.2,France
+S0186,4,Male,Non-Hispanic White,9.1,77.9,Japan
+S0187,5,Female,Other,12.1,102.5,India
+S0188,1,Female,Hispanic,19.8,62.2,UK
+S0189,1,Female,Other,9,57.6,India
+S0190,3,Female,Other,11.1,67.1,Germany
+S0191,2,Female,Non-Hispanic White,18.4,81.9,USA
+S0192,5,Female,Hispanic,5,80.6,Germany
+S0193,4,Male,Non-Hispanic White,5.6,99.2,France
+S0194,2,Female,Non-Hispanic Black,14.1,74.3,Germany
+S0195,4,Female,Non-Hispanic White,18.6,79.1,UK
+S0196,3,Female,Non-Hispanic White,8.6,50.8,Germany
+S0197,3,Male,Non-Hispanic White,12,74.6,France
+S0198,1,Female,Hispanic,11.8,88.9,France
+S0199,5,Male,Non-Hispanic White,12.1,50.9,France
+S0200,4,Female,Hispanic,14.3,66.9,UK
+S0201,2,Male,Asian,12,62.5,France
+S0202,3,Male,Non-Hispanic Black,11.7,52.5,USA
+S0203,1,Female,Hispanic,12.1,78.8,Australia
+S0204,1,Female,Asian,13.9,60.9,France
+S0205,4,Male,Hispanic,13.1,94.6,Germany
+S0206,3,Female,Hispanic,17.8,100.9,Japan
+S0207,5,Male,Non-Hispanic Black,5.7,82.7,Germany
+S0208,3,Male,Other,17.5,108.9,Japan
+S0209,4,Male,Other,17.7,77,Germany
+S0210,4,Male,Hispanic,9.3,80.8,UK
+S0211,3,Male,Non-Hispanic White,11.9,109.4,Germany
+S0212,4,Female,Asian,11.6,63.9,UK
+S0213,3,Male,Non-Hispanic White,8.3,106.6,UK
+S0214,2,Male,Non-Hispanic White,11,52.6,France
+S0215,3,Female,Hispanic,5.7,76.8,USA
+S0216,3,Male,Hispanic,9.2,54.2,Japan
+S0217,4,Female,Hispanic,17.3,93.8,France
+S0218,4,Female,Hispanic,9.3,86.5,France
+S0219,1,Female,Other,17.3,92.4,Australia
+S0220,1,Male,Hispanic,13,72.5,UK
+S0221,2,Male,Other,18.2,72.2,UK
+S0222,1,Male,Other,13.6,52.7,Japan
+S0223,3,Female,Hispanic,5.4,71,Germany
+S0224,4,Male,Non-Hispanic Black,15.1,105.8,Germany
+S0225,1,Female,Asian,5.7,72.8,India
+S0226,1,Male,Non-Hispanic White,11.8,99.9,France
+S0227,2,Female,Other,18.9,100.5,India
+S0228,2,Male,Asian,7.5,72.4,Canada
+S0229,3,Male,Non-Hispanic Black,10.8,87.9,Canada
+S0230,4,Male,Non-Hispanic White,15.9,55.7,India
+S0231,2,Female,Non-Hispanic White,18.2,56.2,Germany
+S0232,1,Female,Other,15.1,52.9,Canada
+S0233,4,Male,Hispanic,8.9,84.9,Australia
+S0234,4,Male,Non-Hispanic Black,15.1,75.6,Germany
+S0235,1,Female,Other,9.5,82.9,UK
+S0236,2,Female,Non-Hispanic Black,15.8,81.3,France
+S0237,1,Female,Hispanic,19.3,71,USA
+S0238,4,Male,Hispanic,15.8,90.6,France
+S0239,5,Female,Other,17.9,95.5,India
+S0240,5,Male,Hispanic,5,50.9,Germany
+S0241,3,Female,Asian,15.8,62.4,India
+S0242,1,Male,Non-Hispanic White,17.4,92.8,Australia
+S0243,1,Female,Other,5.6,73.2,Germany
+S0244,3,Female,Non-Hispanic Black,18.1,89.7,France
+S0245,3,Female,Asian,8.9,70.8,Australia
+S0246,3,Female,Other,15,73.4,Australia
+S0247,4,Female,Hispanic,17,59.5,Australia
+S0248,1,Male,Hispanic,14.9,65.5,Japan
+S0249,4,Female,Hispanic,6.4,86.3,Germany
+S0250,3,Female,Hispanic,13.9,76,Canada
+S0251,1,Female,Non-Hispanic Black,13.2,96.5,Canada
+S0252,4,Male,Asian,18.5,101.2,Germany
+S0253,4,Female,Non-Hispanic White,11.1,82.5,Germany
+S0254,3,Male,Non-Hispanic Black,9.8,95.5,Japan
+S0255,1,Female,Non-Hispanic Black,16.2,68.4,Canada
+S0256,3,Female,Non-Hispanic White,11.2,74.9,Germany
+S0257,1,Male,Non-Hispanic White,14.7,92.8,Germany
+S0258,5,Female,Hispanic,14.7,73.2,India
+S0259,2,Male,Non-Hispanic Black,18.3,85.3,Japan
+S0260,2,Male,Other,14,61.1,Japan
+S0261,2,Female,Non-Hispanic White,12.5,86,France
+S0262,3,Male,Non-Hispanic White,7.1,101.7,Japan
+S0263,5,Female,Asian,6.7,102.1,USA
+S0264,1,Female,Other,7.3,93.5,Canada
+S0265,4,Male,Other,7.6,94.7,France
+S0266,1,Male,Non-Hispanic White,14.6,83.5,USA
+S0267,4,Male,Hispanic,16.1,85.1,Germany
+S0268,1,Male,Asian,12.9,58,India
+S0269,5,Female,Other,17.4,76.6,India
+S0270,4,Female,Non-Hispanic White,19.9,77,Germany
+S0271,3,Male,Other,17.3,107.5,France
+S0272,1,Female,Asian,15.4,75.9,Japan
+S0273,1,Female,Asian,13,83,Australia
+S0274,4,Female,Non-Hispanic Black,11.7,82,India
+S0275,3,Female,Non-Hispanic White,6.3,88.2,Australia
+S0276,3,Male,Asian,11,94.9,Germany
+S0277,5,Male,Non-Hispanic Black,18.7,63.5,Australia
+S0278,3,Female,Non-Hispanic Black,17.1,81.7,UK
+S0279,3,Male,Other,8.2,99.6,France
+S0280,3,Male,Other,12,77.8,USA
+S0281,2,Male,Non-Hispanic Black,17.3,66.7,France
+S0282,5,Female,Other,6,89.3,Canada
+S0283,1,Female,Asian,10.8,99.4,Japan
+S0284,4,Female,Hispanic,17.8,53.8,Japan
+S0285,1,Male,Asian,11.1,96.6,France
+S0286,5,Female,Non-Hispanic Black,6.2,99.3,Germany
+S0287,4,Female,Non-Hispanic Black,13.1,77.7,Germany
+S0288,5,Male,Asian,17.9,109,UK
+S0289,3,Female,Other,13.9,97.2,UK
+S0290,4,Female,Other,8.4,96.4,Japan
+S0291,3,Male,Non-Hispanic Black,10.8,94.9,UK
+S0292,1,Male,Non-Hispanic White,11.8,59,India
+S0293,1,Male,Other,13.7,63,India
+S0294,4,Female,Asian,16.4,77.8,USA
+S0295,4,Female,Other,6.5,65.8,UK
+S0296,5,Female,Asian,18.3,74.9,USA
+S0297,5,Male,Non-Hispanic Black,5.2,103.3,UK
+S0298,3,Male,Other,10.6,99.5,Japan
+S0299,4,Female,Asian,5.4,87.8,Japan
+S0300,1,Female,Non-Hispanic Black,10.9,101.5,USA
+S0301,5,Male,Non-Hispanic White,12.9,97,France
+S0302,5,Male,Asian,12.7,75.7,Japan
+S0303,1,Male,Non-Hispanic White,7.5,62.1,France
+S0304,5,Male,Non-Hispanic White,14.7,80.9,Germany
+S0305,3,Female,Hispanic,5.7,94.2,India
+S0306,4,Male,Other,16.4,76.2,USA
+S0307,1,Female,Asian,19.2,90,Australia
+S0308,4,Female,Non-Hispanic White,10.1,55.7,Japan
+S0309,5,Female,Hispanic,12.8,94.9,Canada
+S0310,5,Male,Non-Hispanic Black,10.7,98.8,Germany
+S0311,1,Male,Asian,5.1,92.4,France
+S0312,3,Male,Non-Hispanic White,10.8,108,Japan
+S0313,2,Male,Other,16.9,99.6,USA
+S0314,1,Female,Hispanic,13.9,104.2,Australia
+S0315,2,Male,Non-Hispanic White,6.5,106,UK
+S0316,2,Male,Other,17.7,98.1,Australia
+S0317,3,Female,Non-Hispanic White,13,90.5,Canada
+S0318,2,Male,Asian,17.6,50.3,France
+S0319,2,Female,Asian,13.7,77.9,Germany
+S0320,3,Female,Asian,13.4,84.3,Australia
+S0321,2,Female,Hispanic,6.6,68.2,USA
+S0322,2,Female,Asian,7.5,69.1,Canada
+S0323,2,Female,Other,19.6,107.7,USA
+S0324,1,Female,Non-Hispanic White,8.4,103.5,Japan
+S0325,1,Female,Non-Hispanic Black,19.7,101,UK
+S0326,1,Female,Other,13,74.4,Germany
+S0327,3,Male,Other,7,50.8,USA
+S0328,5,Male,Asian,6.5,54.8,France
+S0329,2,Male,Hispanic,8.1,68.7,Japan
+S0330,2,Male,Non-Hispanic White,18.9,50.9,Japan
+S0331,3,Female,Hispanic,11.2,51,Germany
+S0332,2,Male,Non-Hispanic White,10.9,105,Japan
+S0333,1,Female,Non-Hispanic White,9.7,92.4,France
+S0334,5,Male,Hispanic,7.2,68.5,USA
+S0335,4,Male,Other,12.3,58,Germany
+S0336,2,Male,Non-Hispanic White,7,80.7,India
+S0337,1,Female,Hispanic,17.5,50.3,Japan
+S0338,4,Male,Non-Hispanic White,10.6,106.3,Japan
+S0339,5,Female,Non-Hispanic Black,10.6,74.9,France
+S0340,4,Female,Other,12.1,74.1,UK
+S0341,1,Male,Asian,11.7,73.4,UK
+S0342,4,Male,Non-Hispanic White,19.9,54.2,Australia
+S0343,3,Male,Non-Hispanic Black,13.2,88.3,Japan
+S0344,4,Female,Asian,6.3,94,India
+S0345,2,Male,Asian,14.1,90.6,USA
+S0346,2,Female,Non-Hispanic White,7.3,58.3,Germany
+S0347,3,Female,Hispanic,5.5,84.7,Japan
+S0348,1,Male,Non-Hispanic White,19.6,84.2,Canada
+S0349,2,Male,Non-Hispanic Black,16.6,102.1,Germany
+S0350,5,Female,Asian,19.7,72.7,Australia
+S0351,2,Female,Non-Hispanic White,12.2,72.3,UK
+S0352,2,Female,Hispanic,13,87.1,India
+S0353,1,Male,Non-Hispanic White,7.5,88,Japan
+S0354,4,Female,Other,8.7,78.2,France
+S0355,2,Male,Hispanic,17.6,76.6,Canada
+S0356,3,Female,Non-Hispanic Black,10.3,79.6,Japan
+S0357,4,Female,Asian,17.4,101.7,India
+S0358,5,Male,Non-Hispanic White,15.6,77.7,Australia
+S0359,1,Female,Hispanic,7.7,106.4,USA
+S0360,5,Male,Other,12.6,80.2,Canada
+S0361,4,Male,Hispanic,15.2,107,Australia
+S0362,4,Female,Other,8.5,100,Japan
+S0363,4,Male,Non-Hispanic Black,17.5,71.7,USA
+S0364,5,Male,Asian,13.2,101.8,Canada
+S0365,4,Female,Non-Hispanic Black,7.5,56.6,USA
+S0366,5,Male,Non-Hispanic White,13.7,105.5,USA
+S0367,4,Male,Hispanic,20,87.9,Canada
+S0368,3,Male,Other,7.3,53.3,Canada
+S0369,4,Female,Other,17.3,88.7,USA
+S0370,5,Male,Hispanic,8.1,108.5,Australia
+S0371,2,Female,Hispanic,16.7,54.2,India
+S0372,4,Female,Non-Hispanic White,16,83.3,UK
+S0373,2,Male,Non-Hispanic Black,9.5,94.9,Canada
+S0374,3,Male,Other,9.9,98.6,Japan
+S0375,1,Male,Non-Hispanic White,16.9,74.8,Germany
+S0376,3,Female,Non-Hispanic Black,11.9,62.2,France
+S0377,4,Male,Non-Hispanic White,16,52.5,USA
+S0378,2,Male,Other,7.2,84.8,USA
+S0379,2,Male,Hispanic,17.8,77.2,France
+S0380,5,Male,Hispanic,15.7,106.9,UK
+S0381,2,Male,Non-Hispanic Black,18.6,53.6,France
+S0382,5,Female,Asian,7,91.1,Canada
+S0383,1,Female,Non-Hispanic Black,13.9,51.5,France
+S0384,4,Male,Asian,14,60.3,USA
+S0385,5,Male,Non-Hispanic White,10.3,77.2,France
+S0386,1,Male,Non-Hispanic White,11.9,77.3,Germany
+S0387,2,Male,Other,5.6,91.1,Japan
+S0388,2,Female,Asian,16.2,104.6,Canada
+S0389,1,Male,Other,13.2,88.3,France
+S0390,2,Female,Hispanic,5.9,107.2,USA
+S0391,1,Female,Asian,15.2,102.9,Australia
+S0392,5,Male,Non-Hispanic Black,12,85.1,Japan
+S0393,5,Female,Hispanic,5.5,100,Canada
+S0394,1,Female,Hispanic,19.5,88.6,USA
+S0395,5,Female,Non-Hispanic Black,19.2,54.7,UK
+S0396,5,Female,Hispanic,12.7,94.4,Germany
+S0397,5,Male,Asian,6.4,55.7,India
+S0398,3,Male,Other,16.3,85.6,UK
+S0399,4,Female,Hispanic,12.4,92.2,India
+S0400,2,Male,Asian,9.5,54,Germany
+S0401,3,Male,Non-Hispanic White,12.4,63.8,France
+S0402,5,Male,Asian,12.8,104.9,Canada
+S0403,1,Male,Other,13.4,87,France
+S0404,5,Male,Asian,11.6,64.8,Germany
+S0405,4,Female,Non-Hispanic Black,14.1,91.4,Germany
+S0406,5,Male,Other,18.8,85.8,Germany
+S0407,1,Male,Non-Hispanic White,10.4,80.1,India
+S0408,4,Male,Non-Hispanic Black,15.9,108.6,Japan
+S0409,5,Male,Asian,18.4,91,USA
+S0410,4,Female,Other,11.8,72.5,Canada
+S0411,2,Female,Non-Hispanic White,11.7,98,France
+S0412,2,Female,Non-Hispanic Black,14,103.1,France
+S0413,5,Female,Non-Hispanic White,13.9,57.5,UK
+S0414,4,Male,Asian,17.1,62,India
+S0415,1,Female,Non-Hispanic White,12.1,63,Germany
+S0416,5,Male,Hispanic,19.9,91.5,Australia
+S0417,2,Male,Non-Hispanic Black,5.9,86.2,Germany
+S0418,2,Male,Non-Hispanic White,5,87.1,Germany
+S0419,5,Male,Asian,14.6,106.4,Australia
+S0420,4,Male,Asian,9.5,96.6,France
+S0421,2,Female,Non-Hispanic White,8.6,57.7,UK
+S0422,4,Female,Asian,9.7,70.9,USA
+S0423,2,Female,Other,8.8,76.1,Australia
+S0424,2,Female,Other,5.5,73.8,India
+S0425,3,Male,Other,19.6,90.2,Japan
+S0426,2,Female,Hispanic,8.3,103.5,Canada
+S0427,1,Male,Non-Hispanic White,16,68.4,India
+S0428,5,Female,Hispanic,16.4,83.1,Australia
+S0429,5,Male,Asian,18.9,97.4,USA
+S0430,4,Male,Hispanic,5.5,75,France
+S0431,2,Female,Asian,18.1,60.1,Japan
+S0432,1,Male,Asian,12.9,78.5,Japan
+S0433,4,Male,Non-Hispanic Black,14.5,53.3,Japan
+S0434,3,Female,Other,14.7,106.5,Germany
+S0435,4,Male,Asian,17.3,54.5,Canada
+S0436,4,Female,Non-Hispanic Black,10,76.3,France
+S0437,2,Female,Other,16,81.8,France
+S0438,3,Female,Asian,12.9,109.1,Japan
+S0439,4,Male,Asian,16.9,60,France
+S0440,1,Male,Hispanic,19.9,56.9,Canada
+S0441,1,Male,Hispanic,8,50.5,Canada
+S0442,5,Female,Other,19.9,59.3,UK
+S0443,3,Male,Asian,6.3,62.4,Australia
+S0444,3,Female,Non-Hispanic White,5,87.8,Australia
+S0445,5,Female,Hispanic,5.7,63.2,UK
+S0446,4,Male,Other,10.1,51.2,USA
+S0447,3,Female,Asian,14.5,99.6,Australia
+S0448,1,Male,Asian,6,71.9,Canada
+S0449,1,Male,Non-Hispanic White,5.1,71.2,Canada
+S0450,2,Male,Other,19.1,68.1,Australia
+S0451,3,Male,Asian,17.3,108.5,Canada
+S0452,4,Male,Hispanic,17.1,60.2,UK
+S0453,5,Female,Non-Hispanic White,18.3,103.9,Japan
+S0454,5,Female,Other,15.5,96.6,Japan
+S0455,4,Female,Non-Hispanic White,6.6,54.6,France
+S0456,2,Male,Hispanic,11,109.2,India
+S0457,5,Male,Other,15.8,66.3,India
+S0458,3,Male,Non-Hispanic White,9.2,55.9,Japan
+S0459,2,Female,Non-Hispanic Black,15.3,99.8,Germany
+S0460,3,Male,Hispanic,5.4,92.4,UK
+S0461,1,Female,Hispanic,9.6,87,Canada
+S0462,2,Female,Hispanic,13.2,59.4,Australia
+S0463,5,Male,Non-Hispanic Black,14.5,78.7,Japan
+S0464,2,Male,Non-Hispanic Black,13.7,96.8,UK
+S0465,2,Female,Asian,15.5,68.2,Japan
+S0466,2,Male,Non-Hispanic White,5.1,68.7,USA
+S0467,2,Female,Asian,6.5,50.2,Canada
+S0468,3,Male,Non-Hispanic White,18,60.5,USA
+S0469,1,Male,Non-Hispanic Black,15.2,102.5,Canada
+S0470,4,Female,Non-Hispanic Black,6.7,76.5,UK
+S0471,2,Male,Asian,17.6,109.1,France
+S0472,5,Female,Other,8.6,73.7,Japan
+S0473,2,Male,Asian,12.2,92.9,Japan
+S0474,5,Female,Non-Hispanic White,7.2,66.9,Germany
+S0475,3,Female,Asian,15.7,71.8,Australia
+S0476,5,Male,Hispanic,15,61.4,USA
+S0477,4,Female,Non-Hispanic White,8.2,70.8,Japan
+S0478,1,Male,Non-Hispanic White,18,82.8,UK
+S0479,5,Male,Other,11,109.5,France
+S0480,5,Male,Non-Hispanic Black,9.4,89.9,Australia
+S0481,1,Female,Non-Hispanic White,7.3,62,UK
+S0482,4,Female,Non-Hispanic Black,9,52.7,USA
+S0483,2,Male,Asian,5.3,57.6,Germany
+S0484,5,Male,Hispanic,13.7,83.8,Japan
+S0485,1,Female,Other,17.6,95.9,UK
+S0486,3,Male,Non-Hispanic Black,13.2,106.4,Australia
+S0487,1,Male,Non-Hispanic White,8.3,50.9,Canada
+S0488,3,Female,Non-Hispanic Black,5.5,81.4,France
+S0489,4,Male,Non-Hispanic White,8.2,78.3,Australia
+S0490,2,Female,Non-Hispanic Black,11.2,89.4,UK
+S0491,1,Male,Non-Hispanic White,16.4,83.6,France
+S0492,5,Female,Asian,7.8,91.2,Japan
+S0493,4,Male,Non-Hispanic White,15.8,89.5,Canada
+S0494,1,Male,Non-Hispanic White,18,57,Germany
+S0495,5,Female,Hispanic,11.8,98,Australia
+S0496,1,Male,Non-Hispanic White,17.3,57.4,Germany
+S0497,3,Female,Hispanic,13.3,91.9,Canada
+S0498,1,Male,Other,14.6,75,France
+S0499,1,Female,Hispanic,12.9,80.8,Japan
+S0500,1,Female,Asian,11.9,104.2,UK
+S0501,4,Female,Hispanic,8.5,103.4,Canada
+S0502,1,Female,Other,9.5,99.1,USA
+S0503,5,Male,Asian,9.3,80.6,France
+S0504,3,Male,Non-Hispanic Black,13.4,94.2,Germany
+S0505,3,Female,Non-Hispanic Black,6.8,80.8,Australia
+S0506,1,Female,Hispanic,18.8,102.2,Canada
+S0507,4,Female,Hispanic,15.8,74.2,Germany
+S0508,4,Male,Other,11,108.2,France
+S0509,5,Male,Other,7.4,105.9,Germany
+S0510,1,Male,Non-Hispanic White,18.2,94.5,Canada
+S0511,3,Male,Other,17.4,66.8,France
+S0512,4,Female,Non-Hispanic White,15.8,57.9,USA
+S0513,1,Female,Asian,9.1,101.3,Canada
+S0514,4,Female,Hispanic,11,59.9,UK
+S0515,4,Male,Asian,6.5,101.3,India
+S0516,3,Male,Other,7.8,79.4,Japan
+S0517,2,Male,Asian,16.7,74.4,Canada
+S0518,5,Female,Asian,15.7,104.2,France
+S0519,5,Female,Asian,13.9,86.2,Australia
+S0520,3,Male,Other,18.4,84.6,Japan
+S0521,4,Female,Asian,13.7,83.5,Canada
+S0522,1,Male,Non-Hispanic White,12,72.3,USA
+S0523,4,Male,Other,10.1,97.1,Australia
+S0524,3,Female,Asian,19.1,65.2,USA
+S0525,5,Male,Other,6.2,106.3,UK
+S0526,4,Female,Non-Hispanic Black,19,103.6,Australia
+S0527,5,Male,Non-Hispanic White,17.4,70.2,Germany
+S0528,1,Female,Asian,6.9,93.8,India
+S0529,5,Female,Non-Hispanic Black,13.5,84.4,Australia
+S0530,5,Female,Non-Hispanic Black,18,70.3,Japan
+S0531,2,Male,Other,13.6,109.3,Australia
+S0532,2,Male,Non-Hispanic Black,18.6,51.5,France
+S0533,2,Female,Non-Hispanic White,19.1,65.2,India
+S0534,5,Female,Non-Hispanic White,11.3,81.2,France
+S0535,3,Male,Hispanic,10.7,81.3,Germany
+S0536,5,Male,Non-Hispanic White,19,85.3,Australia
+S0537,3,Male,Non-Hispanic Black,15.1,95.1,USA
+S0538,3,Female,Non-Hispanic White,6.7,87.4,USA
+S0539,2,Male,Other,5.6,86,Canada
+S0540,4,Male,Hispanic,13.5,53.2,UK
+S0541,1,Female,Non-Hispanic Black,19,72.6,Japan
+S0542,2,Male,Hispanic,17.7,63.9,India
+S0543,2,Male,Non-Hispanic Black,15.1,65.9,UK
+S0544,4,Male,Other,7.1,83.3,Australia
+S0545,1,Female,Hispanic,8.8,62,UK
+S0546,5,Female,Asian,18.1,67.6,Canada
+S0547,5,Female,Non-Hispanic Black,7.7,64.2,UK
+S0548,2,Female,Asian,9.2,106.9,India
+S0549,1,Female,Hispanic,6.9,106.7,Germany
+S0550,2,Female,Asian,15.1,86.6,Canada
+S0551,3,Female,Asian,19.2,105.5,Germany
+S0552,2,Male,Hispanic,9,97.1,Australia
+S0553,2,Male,Other,12.1,85.4,Canada
+S0554,5,Female,Asian,14.5,50.4,Australia
+S0555,5,Male,Asian,20,96.4,Australia
+S0556,5,Male,Other,6.6,92.1,UK
+S0557,3,Female,Asian,12.5,86.9,Germany
+S0558,5,Male,Asian,10.8,95.6,Australia
+S0559,1,Male,Asian,18,80.8,Germany
+S0560,4,Male,Non-Hispanic White,12.1,92.2,Germany
+S0561,1,Male,Other,6.7,106.1,Canada
+S0562,1,Male,Asian,14.5,72.5,France
+S0563,5,Female,Other,16.6,92.5,UK
+S0564,4,Female,Non-Hispanic Black,5,78.5,Australia
+S0565,4,Female,Non-Hispanic Black,17.9,90.5,Germany
+S0566,4,Male,Asian,7.8,95.8,Japan
+S0567,3,Female,Other,13.3,52.7,France
+S0568,5,Male,Other,11.2,88.8,Australia
+S0569,4,Male,Other,15.8,63.6,Japan
+S0570,3,Male,Non-Hispanic White,10.6,90.2,UK
+S0571,2,Male,Non-Hispanic Black,18,78.1,UK
+S0572,2,Female,Other,16,96.4,Germany
+S0573,3,Female,Other,14.7,57.4,Germany
+S0574,3,Male,Non-Hispanic White,16.9,87.6,India
+S0575,5,Female,Non-Hispanic White,16.3,66.7,India
+S0576,5,Male,Other,5.5,101.2,Australia
+S0577,2,Female,Hispanic,10.9,105.7,Canada
+S0578,4,Female,Other,19,109.8,France
+S0579,2,Male,Other,6.9,97.8,Australia
+S0580,4,Female,Non-Hispanic White,16.1,95.2,France
+S0581,4,Male,Non-Hispanic White,19.6,62.9,Germany
+S0582,5,Female,Other,5.8,70.2,UK
+S0583,1,Male,Other,15.2,77.9,Germany
+S0584,1,Male,Other,12,96.4,UK
+S0585,3,Female,Non-Hispanic White,13.7,104.9,India
+S0586,5,Female,Other,6.3,61.3,Australia
+S0587,4,Male,Other,5.6,105.3,India
+S0588,1,Female,Asian,15,91.7,UK
+S0589,4,Female,Hispanic,17.3,86.6,Germany
+S0590,1,Male,Non-Hispanic Black,16.7,62,India
+S0591,1,Male,Hispanic,13.2,53.3,USA
+S0592,1,Female,Asian,6.5,84.1,France
+S0593,5,Male,Non-Hispanic Black,15.3,89.1,Japan
+S0594,2,Male,Other,8.6,62.6,UK
+S0595,4,Male,Asian,18.7,83.4,UK
+S0596,5,Female,Other,17.6,101.4,USA
+S0597,5,Female,Non-Hispanic White,15.6,100.1,Australia
+S0598,5,Male,Asian,19.2,105.6,Australia
+S0599,5,Female,Non-Hispanic White,5.5,72,Australia
+S0600,5,Male,Asian,16,69.1,Japan
+S0601,3,Female,Asian,10,95,Canada
+S0602,4,Male,Non-Hispanic White,18.6,75.9,USA
+S0603,5,Male,Non-Hispanic Black,9,55.3,Japan
+S0604,4,Female,Hispanic,15.9,67,India
+S0605,3,Male,Other,18.2,75.1,USA
+S0606,3,Female,Asian,5.6,67.6,UK
+S0607,4,Female,Other,11,69.9,France
+S0608,1,Male,Non-Hispanic White,16.4,67.6,USA
+S0609,2,Male,Other,11.8,52.5,Canada
+S0610,1,Female,Non-Hispanic White,9,88.2,Germany
+S0611,1,Male,Other,8.3,85.8,India
+S0612,1,Male,Hispanic,7,89.2,Japan
+S0613,5,Male,Hispanic,17.9,61.5,India
+S0614,3,Male,Hispanic,13.6,67.7,India
+S0615,1,Male,Hispanic,6.1,87.2,USA
+S0616,3,Female,Hispanic,10.7,86,USA
+S0617,4,Female,Hispanic,10.5,80.4,Canada
+S0618,2,Male,Non-Hispanic White,7.7,71,France
+S0619,4,Male,Asian,11.5,104.8,USA
+S0620,4,Male,Other,10,70.4,USA
+S0621,5,Female,Hispanic,10.1,77.3,France
+S0622,2,Male,Non-Hispanic White,16.1,90.7,Canada
+S0623,4,Female,Non-Hispanic White,8.3,82.6,Japan
+S0624,4,Female,Non-Hispanic White,14.6,70.8,India
+S0625,2,Female,Asian,13.6,76.1,Japan
+S0626,2,Male,Other,13.5,97.7,USA
+S0627,4,Female,Asian,14.9,66.7,France
+S0628,2,Male,Non-Hispanic Black,13.2,58.5,USA
+S0629,4,Female,Non-Hispanic White,18.2,68.8,Australia
+S0630,4,Male,Non-Hispanic Black,15.1,101,Germany
+S0631,5,Female,Hispanic,13.2,55.3,Japan
+S0632,1,Male,Hispanic,17.4,109.5,Australia
+S0633,4,Female,Asian,14.1,82.5,UK
+S0634,3,Male,Other,9.4,109.1,Germany
+S0635,1,Male,Non-Hispanic Black,8.1,106.3,USA
+S0636,1,Male,Other,7.3,77.2,Canada
+S0637,1,Male,Asian,18.5,61.9,Japan
+S0638,5,Female,Hispanic,15.7,59.9,UK
+S0639,4,Female,Other,19.1,64.4,Germany
+S0640,5,Male,Other,14,92.6,Japan
+S0641,4,Female,Hispanic,12.1,66.4,France
+S0642,5,Male,Non-Hispanic Black,5.9,70.5,Canada
+S0643,5,Male,Hispanic,15.1,76.9,Germany
+S0644,3,Female,Other,13.7,104.8,France
+S0645,5,Male,Non-Hispanic Black,19.9,61.4,Australia
+S0646,2,Male,Non-Hispanic Black,8.6,50.3,USA
+S0647,3,Female,Hispanic,13,53.6,France
+S0648,5,Male,Other,14.8,104.3,Germany
+S0649,1,Male,Asian,14.7,88.9,India
+S0650,2,Male,Other,13.4,66.4,Germany
+S0651,2,Male,Non-Hispanic White,16.7,60.6,India
+S0652,2,Female,Asian,8.1,67.7,Australia
+S0653,3,Female,Non-Hispanic Black,15.9,56.9,USA
+S0654,5,Female,Asian,14.3,106.5,India
+S0655,5,Male,Non-Hispanic Black,18.4,97.1,India
+S0656,1,Male,Non-Hispanic Black,17.7,77.7,France
+S0657,1,Female,Asian,9.7,101.9,France
+S0658,2,Male,Non-Hispanic Black,9.1,65,USA
+S0659,1,Male,Non-Hispanic Black,19.7,93,France
+S0660,3,Male,Non-Hispanic White,12.9,101.4,Japan
+S0661,5,Male,Other,18.6,71.4,USA
+S0662,2,Female,Other,7.5,95.4,Canada
+S0663,1,Female,Non-Hispanic White,14.6,67.7,India
+S0664,3,Female,Asian,17.1,67.9,Germany
+S0665,3,Male,Hispanic,19.2,56.4,Canada
+S0666,1,Female,Hispanic,10.1,76.4,India
+S0667,5,Female,Hispanic,15.9,93.8,Japan
+S0668,1,Male,Non-Hispanic White,13.1,106.4,India
+S0669,2,Male,Non-Hispanic White,5.9,86.2,India
+S0670,1,Female,Non-Hispanic Black,15.3,101.8,India
+S0671,3,Female,Hispanic,15.4,99.3,Australia
+S0672,1,Female,Asian,19,60.4,Japan
+S0673,5,Female,Asian,12.5,79.1,UK
+S0674,4,Male,Hispanic,8.5,57,UK
+S0675,1,Female,Hispanic,5.7,90.9,UK
+S0676,5,Female,Hispanic,11.2,107,USA
+S0677,5,Male,Non-Hispanic White,9.5,58.2,France
+S0678,3,Female,Non-Hispanic White,16.4,94,Japan
+S0679,5,Male,Non-Hispanic White,10.3,87.9,Canada
+S0680,5,Male,Other,19.2,85,Australia
+S0681,5,Male,Asian,19.4,73.4,Canada
+S0682,5,Female,Asian,14.3,71.3,Canada
+S0683,2,Female,Non-Hispanic Black,18.9,52.7,Canada
+S0684,2,Male,Non-Hispanic White,16.4,63.1,Australia
+S0685,3,Female,Other,13.2,50.9,UK
+S0686,1,Female,Other,7.7,84.9,Canada
+S0687,5,Male,Asian,11.9,56.4,Australia
+S0688,1,Male,Non-Hispanic White,13.4,102.4,Australia
+S0689,1,Female,Non-Hispanic Black,18,81.4,France
+S0690,3,Male,Non-Hispanic White,12.2,92,Australia
+S0691,5,Female,Hispanic,18.5,74.7,UK
+S0692,5,Female,Non-Hispanic White,15.1,83.6,Canada
+S0693,4,Female,Hispanic,7.1,106.6,Australia
+S0694,1,Female,Hispanic,19.9,55,USA
+S0695,1,Male,Non-Hispanic Black,12.9,65.2,Australia
+S0696,2,Male,Asian,10.9,96.8,Germany
+S0697,4,Male,Non-Hispanic White,14.9,55.9,Germany
+S0698,2,Male,Hispanic,6.6,54.5,Germany
+S0699,2,Female,Non-Hispanic White,14.5,71.7,Australia
+S0700,2,Female,Asian,12.5,55.5,UK
+S0701,3,Male,Asian,11.1,85.1,Canada
+S0702,3,Female,Other,19.3,63.6,Japan
+S0703,2,Female,Asian,12.8,103.7,Japan
+S0704,4,Female,Non-Hispanic Black,8.3,97,Japan
+S0705,1,Male,Hispanic,11.9,92,UK
+S0706,4,Male,Other,18.8,87,France
+S0707,5,Male,Non-Hispanic Black,7.6,101.8,India
+S0708,3,Female,Non-Hispanic White,8.2,63.4,USA
+S0709,1,Male,Hispanic,5.2,102.4,USA
+S0710,1,Male,Asian,5.2,97.4,Germany
+S0711,5,Male,Hispanic,17.4,94.9,Germany
+S0712,5,Male,Non-Hispanic White,16,83.7,Australia
+S0713,2,Male,Other,10.3,64.8,Japan
+S0714,3,Male,Other,15.5,75.4,Australia
+S0715,3,Female,Other,10.9,97.6,India
+S0716,4,Female,Asian,19.3,51.9,Japan
+S0717,2,Male,Non-Hispanic Black,19.5,96.9,Germany
+S0718,2,Male,Non-Hispanic Black,10.9,64.4,Canada
+S0719,2,Female,Hispanic,17.8,58.7,France
+S0720,2,Female,Asian,16.6,56.9,Australia
+S0721,3,Male,Other,9.6,51.6,France
+S0722,3,Male,Other,8.5,81.4,France
+S0723,2,Male,Non-Hispanic White,11.9,63.1,France
+S0724,4,Male,Non-Hispanic White,16.7,109.4,Germany
+S0725,1,Female,Other,19.4,84.5,USA
+S0726,1,Male,Other,16.5,58.3,Germany
+S0727,4,Male,Asian,17.8,91.3,France
+S0728,2,Male,Non-Hispanic Black,14,103.9,Germany
+S0729,3,Male,Non-Hispanic White,17.5,94.7,France
+S0730,1,Female,Non-Hispanic Black,16.8,54.6,UK
+S0731,5,Female,Asian,10.7,103.8,Japan
+S0732,5,Female,Other,13.3,97.6,USA
+S0733,4,Male,Non-Hispanic Black,17.1,59.5,UK
+S0734,2,Male,Other,5.7,53.1,Canada
+S0735,1,Female,Other,17.1,83.4,Germany
+S0736,2,Male,Hispanic,7.7,59.4,Canada
+S0737,1,Male,Non-Hispanic Black,12.7,100.1,Australia
+S0738,4,Female,Non-Hispanic Black,17.1,71.5,Germany
+S0739,4,Female,Other,8.8,104.8,India
+S0740,5,Female,Asian,8.7,83.9,India
+S0741,2,Female,Hispanic,11,61,Japan
+S0742,5,Male,Other,18.4,58.4,UK
+S0743,2,Male,Non-Hispanic White,5,84.6,Japan
+S0744,5,Female,Non-Hispanic White,18.5,95.7,Australia
+S0745,3,Male,Hispanic,7.3,96.9,France
+S0746,3,Female,Asian,19.9,66.5,Japan
+S0747,3,Female,Other,19.3,62.3,Japan
+S0748,3,Male,Non-Hispanic Black,12.4,51,India
+S0749,1,Female,Hispanic,12.7,90.8,France
+S0750,3,Male,Asian,12.2,54.6,India
+S0751,4,Male,Non-Hispanic Black,14.5,75.2,Germany
+S0752,4,Male,Non-Hispanic White,6.4,86.1,France
+S0753,1,Male,Non-Hispanic White,5.5,106.2,UK
+S0754,3,Female,Non-Hispanic Black,5.9,68.7,Japan
+S0755,3,Male,Hispanic,11.7,65,India
+S0756,3,Female,Non-Hispanic White,9.1,89.2,France
+S0757,5,Female,Other,14.3,87.2,Australia
+S0758,2,Female,Non-Hispanic Black,19.9,69.9,Australia
+S0759,5,Female,Non-Hispanic Black,10.8,105.7,Japan
+S0760,2,Male,Non-Hispanic White,13.6,100.7,UK
+S0761,3,Male,Hispanic,11.2,63.4,Canada
+S0762,3,Female,Other,17.7,64.3,India
+S0763,5,Female,Hispanic,18.5,80.7,UK
+S0764,5,Male,Asian,18.2,96.4,USA
+S0765,2,Female,Asian,19.6,52.6,USA
+S0766,4,Male,Non-Hispanic White,5.4,91.6,USA
+S0767,2,Female,Non-Hispanic White,17.6,88.9,Japan
+S0768,5,Male,Non-Hispanic White,16.3,63.9,Australia
+S0769,5,Female,Asian,8.4,90.9,Germany
+S0770,1,Female,Hispanic,19.3,106.4,India
+S0771,5,Male,Hispanic,7.2,52.8,Australia
+S0772,1,Female,Non-Hispanic White,15.2,69.2,Germany
+S0773,4,Female,Other,8.4,76.3,Germany
+S0774,2,Male,Hispanic,11.5,104,Australia
+S0775,2,Female,Asian,15.8,107.7,India
+S0776,1,Male,Non-Hispanic Black,13.4,76.6,Japan
+S0777,2,Male,Non-Hispanic Black,11.4,95,UK
+S0778,5,Female,Non-Hispanic Black,9.9,81.9,Germany
+S0779,3,Female,Other,17.6,82.3,Canada
+S0780,1,Female,Non-Hispanic White,7.2,66.7,Australia
+S0781,2,Female,Asian,11.5,63,Australia
+S0782,1,Female,Other,18.6,67.3,USA
+S0783,1,Female,Asian,17.7,83.4,UK
+S0784,3,Female,Asian,11,51.7,USA
+S0785,5,Male,Non-Hispanic White,16.4,104.4,Australia
+S0786,1,Female,Non-Hispanic Black,17.3,59.4,Australia
+S0787,2,Male,Non-Hispanic White,18.3,63.2,Germany
+S0788,4,Female,Other,13.2,81.1,UK
+S0789,1,Female,Other,8.1,92.6,France
+S0790,1,Male,Other,8.8,55.7,Canada
+S0791,3,Female,Non-Hispanic White,9.4,69.1,India
+S0792,5,Female,Asian,13.9,108.1,Germany
+S0793,4,Male,Asian,5.5,65.7,Australia
+S0794,2,Female,Hispanic,14.5,68.8,India
+S0795,4,Female,Other,10.5,100.2,Germany
+S0796,2,Female,Asian,9.4,53,Canada
+S0797,5,Male,Hispanic,18.2,77.9,Australia
+S0798,2,Female,Asian,11.9,72.8,Canada
+S0799,3,Female,Other,6.4,69,India
+S0800,3,Female,Non-Hispanic Black,17.4,67.1,France
+S0801,3,Female,Other,5.7,55.5,Germany
+S0802,3,Male,Non-Hispanic White,15.9,68.9,Japan
+S0803,4,Male,Asian,16.6,52.6,Germany
+S0804,5,Female,Asian,10.3,96.9,USA
+S0805,2,Female,Non-Hispanic White,17.4,73.9,UK
+S0806,2,Male,Non-Hispanic White,12.7,76.6,UK
+S0807,3,Male,Non-Hispanic Black,11.9,103.6,USA
+S0808,3,Female,Asian,5.7,89.5,Australia
+S0809,1,Male,Asian,9.4,50.5,UK
+S0810,5,Female,Non-Hispanic Black,19,106.6,Canada
+S0811,4,Male,Hispanic,10.9,64.2,India
+S0812,2,Male,Non-Hispanic Black,13.2,56.5,India
+S0813,1,Male,Other,13,96.1,UK
+S0814,1,Male,Asian,13.9,80,UK
+S0815,2,Female,Non-Hispanic White,5.9,76,USA
+S0816,4,Male,Other,10.4,65,Australia
+S0817,1,Male,Asian,15.8,82.8,France
+S0818,1,Female,Non-Hispanic Black,8,66.5,UK
+S0819,5,Male,Other,8.1,104.1,Japan
+S0820,4,Male,Asian,5.2,62.9,UK
+S0821,1,Female,Hispanic,11.6,103.1,France
+S0822,4,Male,Hispanic,18.2,83.6,USA
+S0823,2,Female,Non-Hispanic White,5.8,99.7,France
+S0824,3,Female,Asian,7.9,92.8,USA
+S0825,1,Female,Hispanic,9.7,91.8,Canada
+S0826,5,Female,Non-Hispanic Black,16,69.5,USA
+S0827,2,Male,Asian,14.6,64,Canada
+S0828,4,Female,Non-Hispanic Black,11.2,62.7,Canada
+S0829,2,Male,Non-Hispanic Black,16.4,101.4,USA
+S0830,1,Male,Hispanic,14.1,99.2,Japan
+S0831,4,Male,Asian,18.4,76.4,Germany
+S0832,3,Male,Other,17.3,57.9,USA
+S0833,2,Male,Hispanic,8.8,72.9,UK
+S0834,1,Male,Hispanic,9.1,87.2,Japan
+S0835,5,Male,Asian,6.9,77.3,Japan
+S0836,4,Male,Asian,10.1,96.8,UK
+S0837,2,Male,Non-Hispanic Black,20,109.9,Germany
+S0838,2,Male,Asian,11.1,61.5,Japan
+S0839,3,Female,Non-Hispanic Black,8.3,77.6,Canada
+S0840,3,Female,Hispanic,16.4,75.9,India
+S0841,5,Female,Non-Hispanic White,13.1,68.3,Germany
+S0842,5,Male,Other,7.2,61.9,Australia
+S0843,1,Female,Hispanic,10.7,53.9,UK
+S0844,1,Female,Asian,11.2,103.2,Germany
+S0845,5,Female,Other,16.3,75.2,USA
+S0846,5,Male,Non-Hispanic White,5.3,79.8,India
+S0847,4,Male,Non-Hispanic White,9,105,Germany
+S0848,3,Male,Non-Hispanic Black,12.8,96.6,Canada
+S0849,1,Male,Other,9,57.8,India
+S0850,3,Female,Non-Hispanic Black,14.4,83.9,USA
+S0851,3,Female,Hispanic,12.2,76.5,France
+S0852,5,Female,Other,10.4,97.8,UK
+S0853,4,Female,Hispanic,19.2,93.5,India
+S0854,2,Male,Non-Hispanic Black,14.5,91.4,UK
+S0855,4,Male,Other,6.9,70.4,Germany
+S0856,4,Male,Non-Hispanic Black,13.4,98.3,Japan
+S0857,3,Female,Other,16.7,53.1,USA
+S0858,4,Male,Non-Hispanic Black,15.6,59.6,France
+S0859,1,Male,Non-Hispanic White,7.6,70.1,USA
+S0860,3,Female,Non-Hispanic Black,19.6,54.6,UK
+S0861,1,Female,Non-Hispanic White,11.7,64.1,USA
+S0862,2,Male,Non-Hispanic Black,7.4,99.8,France
+S0863,3,Male,Other,7.7,106.9,Japan
+S0864,2,Male,Other,6.5,68.3,Germany
+S0865,3,Male,Other,17.1,65.9,Canada
+S0866,5,Male,Asian,6.8,66.8,USA
+S0867,4,Male,Hispanic,6.9,66.7,India
+S0868,5,Female,Other,17.8,52.2,Canada
+S0869,2,Female,Non-Hispanic White,10.2,105.6,UK
+S0870,4,Female,Other,5.5,62.8,Germany
+S0871,3,Male,Asian,5.8,75.2,Australia
+S0872,4,Female,Non-Hispanic White,7.1,50.6,Germany
+S0873,1,Male,Asian,8.2,101.5,USA
+S0874,4,Male,Non-Hispanic White,15,93.9,India
+S0875,1,Female,Non-Hispanic Black,7.4,106.8,Japan
+S0876,4,Male,Hispanic,6.8,96.9,Germany
+S0877,1,Male,Hispanic,16.5,68.8,USA
+S0878,2,Female,Asian,15.1,64.9,USA
+S0879,5,Female,Hispanic,11.5,91.9,Canada
+S0880,3,Female,Asian,13.2,71.8,Germany
+S0881,4,Male,Asian,9.7,84,USA
+S0882,5,Female,Asian,12.2,50.4,Canada
+S0883,3,Female,Hispanic,12.6,53.7,India
+S0884,3,Male,Asian,10.8,82.1,France
+S0885,1,Female,Hispanic,18.6,84,India
+S0886,2,Female,Asian,5.2,95.1,Australia
+S0887,2,Female,Other,16.7,57.9,Canada
+S0888,5,Male,Asian,6.9,80.8,Canada
+S0889,2,Male,Non-Hispanic White,17,61.7,USA
+S0890,4,Male,Asian,14.2,55.6,UK
+S0891,2,Male,Non-Hispanic Black,17.6,74.6,UK
+S0892,5,Female,Asian,6.5,59.8,Japan
+S0893,2,Male,Non-Hispanic White,13.4,63.3,UK
+S0894,4,Male,Non-Hispanic White,12.5,69.1,Canada
+S0895,1,Female,Hispanic,15.6,65.6,Japan
+S0896,5,Female,Other,13,55.3,India
+S0897,1,Female,Asian,13.1,55.4,USA
+S0898,1,Male,Hispanic,11.4,61.6,India
+S0899,1,Male,Other,9.6,53,Germany
+S0900,3,Male,Asian,12.2,87.6,Australia
+S0901,3,Female,Non-Hispanic Black,6.8,67.2,Australia
+S0902,1,Female,Asian,19.4,66.8,Canada
+S0903,5,Male,Non-Hispanic White,15.7,69.9,Canada
+S0904,4,Female,Non-Hispanic White,19.3,89.8,Japan
+S0905,4,Female,Non-Hispanic Black,8.4,102.2,USA
+S0906,2,Female,Hispanic,18.2,95.5,France
+S0907,5,Male,Other,17.1,93.7,Canada
+S0908,3,Female,Asian,15.2,79.1,France
+S0909,1,Female,Non-Hispanic White,14.4,91.6,India
+S0910,2,Male,Hispanic,9.7,83.2,France
+S0911,4,Male,Non-Hispanic Black,17.2,63,UK
+S0912,3,Female,Non-Hispanic White,12.5,62.5,USA
+S0913,3,Female,Non-Hispanic Black,6.1,67.8,Australia
+S0914,1,Male,Asian,9.7,104.6,Australia
+S0915,4,Male,Other,19,82.8,France
+S0916,5,Female,Non-Hispanic White,17.8,94,Australia
+S0917,3,Female,Non-Hispanic White,19.7,70.8,India
+S0918,1,Female,Asian,14.4,74.5,USA
+S0919,5,Female,Hispanic,8.7,57.5,UK
+S0920,4,Male,Other,7.4,60.3,USA
+S0921,3,Female,Non-Hispanic White,7.8,99.6,Canada
+S0922,5,Female,Other,5.3,85.1,France
+S0923,5,Male,Non-Hispanic White,10.9,70.3,USA
+S0924,5,Female,Other,7.9,98.2,India
+S0925,3,Male,Non-Hispanic Black,11.2,64.8,Australia
+S0926,3,Female,Non-Hispanic White,19,108.6,Germany
+S0927,2,Female,Other,11.5,70.7,USA
+S0928,4,Male,Hispanic,18.2,70.2,France
+S0929,1,Male,Non-Hispanic Black,14.1,68.7,UK
+S0930,5,Female,Non-Hispanic Black,8.7,57.3,Australia
+S0931,2,Female,Hispanic,10.3,56.7,UK
+S0932,1,Female,Other,6.3,88.9,France
+S0933,2,Male,Asian,10,102.5,Australia
+S0934,3,Female,Hispanic,15.2,97.4,Canada
+S0935,5,Male,Other,6.1,58.5,Australia
+S0936,1,Male,Hispanic,8.1,82.7,Canada
+S0937,1,Female,Hispanic,10.7,56.3,UK
+S0938,1,Male,Non-Hispanic White,19.7,52.7,UK
+S0939,1,Female,Other,16.8,89.4,France
+S0940,1,Female,Asian,16,82.1,Canada
+S0941,2,Female,Non-Hispanic White,6.7,54.9,UK
+S0942,5,Female,Hispanic,16.7,52.1,Canada
+S0943,3,Female,Hispanic,16.8,109.4,UK
+S0944,3,Male,Hispanic,14,51.8,Australia
+S0945,3,Male,Other,19.9,76.7,USA
+S0946,3,Female,Other,9.9,80.3,India
+S0947,2,Female,Non-Hispanic White,19.1,57,Germany
+S0948,4,Male,Asian,18.7,60.1,India
+S0949,5,Male,Non-Hispanic White,5.2,71.1,Australia
+S0950,1,Male,Non-Hispanic Black,11.8,95.7,Japan
+S0951,4,Male,Hispanic,19.7,80.4,India
+S0952,3,Female,Hispanic,6.5,88.3,USA
+S0953,4,Female,Hispanic,13.2,109.1,Japan
+S0954,5,Male,Non-Hispanic White,19.7,96.1,UK
+S0955,1,Female,Non-Hispanic White,13.3,76.1,Germany
+S0956,1,Male,Hispanic,7.8,76.8,Germany
+S0957,5,Female,Non-Hispanic White,13.7,87.1,UK
+S0958,5,Male,Other,8.1,89.9,UK
+S0959,3,Female,Other,12.8,80,Canada
+S0960,1,Male,Non-Hispanic White,6.1,88.7,UK
+S0961,4,Male,Hispanic,14.1,51.4,France
+S0962,2,Female,Non-Hispanic White,12.8,75.8,India
+S0963,2,Male,Non-Hispanic White,16.1,66.7,UK
+S0964,5,Female,Non-Hispanic White,14.5,57.8,France
+S0965,3,Female,Non-Hispanic Black,13.2,56,UK
+S0966,2,Male,Other,15.3,86.2,Canada
+S0967,1,Female,Asian,7.2,81.4,France
+S0968,5,Female,Asian,13.9,65.2,India
+S0969,4,Female,Non-Hispanic Black,7.6,78.3,USA
+S0970,5,Female,Non-Hispanic White,18.9,79.5,France
+S0971,4,Female,Non-Hispanic Black,6,61.7,Australia
+S0972,5,Male,Non-Hispanic Black,11.5,89.1,Canada
+S0973,5,Female,Hispanic,15.4,96.9,Japan
+S0974,5,Female,Other,11.9,97.5,India
+S0975,4,Female,Asian,6.4,86.1,France
+S0976,4,Female,Non-Hispanic White,13.3,80.7,Australia
+S0977,5,Female,Asian,14.6,53.7,Australia
+S0978,2,Male,Asian,15.6,67.3,India
+S0979,3,Female,Other,10.6,55.6,India
+S0980,3,Male,Asian,13.5,107.8,Australia
+S0981,3,Male,Asian,11.8,58.1,UK
+S0982,4,Male,Non-Hispanic Black,15.1,59.1,Australia
+S0983,4,Male,Other,13.8,103.4,UK
+S0984,2,Female,Hispanic,12.9,106.6,Japan
+S0985,3,Male,Non-Hispanic White,8.7,95.9,Canada
+S0986,3,Male,Asian,5,50.3,Germany
+S0987,5,Female,Non-Hispanic White,7.6,50.1,UK
+S0988,4,Female,Hispanic,6.8,72.7,Australia
+S0989,3,Female,Non-Hispanic White,11.7,58.6,Australia
+S0990,2,Male,Hispanic,14.2,51.1,USA
+S0991,2,Female,Non-Hispanic Black,8.2,77.8,Australia
+S0992,3,Female,Asian,19.1,106.6,Canada
+S0993,4,Male,Hispanic,5.1,69.4,France
+S0994,2,Female,Non-Hispanic White,16.6,89.7,France
+S0995,5,Female,Asian,14.4,89.1,Australia
+S0996,2,Female,Non-Hispanic Black,10.6,65.1,USA
+S0997,1,Female,Asian,5.8,89,UK
+S0998,1,Male,Hispanic,14.4,62.7,Canada
+S0999,4,Female,Non-Hispanic Black,10.8,57.3,USA
+S1000,3,Female,Non-Hispanic White,19,92.1,UK
