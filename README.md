@@ -91,7 +91,7 @@ https://public.tableau.com/authoring/AEcomparisionbetweenPlaceboandTreatmentgrp/
 ## Step 5: Report and Interpretation
 
 **Summarize Key Findings**
-In this section, we present a detailed summary of the main findings from our analyses. Each key analysis is highlighted, focusing on significant trends, outcomes, and safety concerns:
+In this section, I present a detailed summary of the main findings from our analyses. Each key analysis is highlighted, focusing on significant trends, outcomes, and safety concerns:
 
 **Efficacy Analysis:** The results indicate a marked reduction in RXV infections among the vaccinated group compared to the placebo group, suggesting the vaccine's effectiveness. The Risk Ratio calculated shows a lower incidence of infections in the vaccinated cohort, with a 95% Confidence Interval not encompassing 1, reinforcing the statistical significance of these findings.
 
