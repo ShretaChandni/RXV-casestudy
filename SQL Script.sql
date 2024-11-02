@@ -1,10 +1,14 @@
-
+-- #SQL Code Snippets#
+-- #Removing Duplicates#
+    
 DELETE FROM AE
 WHERE SUBJID IS NULL;
 
 DELETE FROM IE
 WHERE SUBJID IS NULL;
 
+-- Standardize Date and Time Formats
+    
 UPDATE AE
 SET AE_START_DATE = CAST(AE_START_DATE AS DATE);
 UPDATE AE
@@ -19,6 +23,8 @@ SET AE_SEVERITY = UPPER(AE_SEVERITY);
 UPDATE rando
 SET `GROUP` = LOWER(`GROUP`);
 
+-- Merge Datasets
+    
 SELECT 
     AE.SUBJID, rando.SUBJID, AE_START_DATE, AE_SEVERITY,
     IE_REASON, rando.GROUP
