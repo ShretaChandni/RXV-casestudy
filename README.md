@@ -32,7 +32,7 @@ This is a comprehensive analysis of the efficacy and efficiency of the provided 
     Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
    
    - **Visualizations**:
-      - Donate chart to depict AE frequencies and severity levels across groups using powerBI.   
+      - Donut chart to depict AE frequencies and severity levels across groups using powerBI.   
 
 5. **Report and Interpretation**
    - Summarize Key Findings: Detail the main findings for each analysis section, emphasizing significant trends, outcomes, and safety concerns.
@@ -86,7 +86,7 @@ https://public.tableau.com/authoring/AEcomparisionbetweenPlaceboandTreatmentgrp/
 
 ## Step 4: Safety Analysis (Adverse Events)
 
-   Donet chart to depict AE frequencies and severity levels across groups using powerBI.
+   Donut chart to depict AE frequencies and severity levels across groups using powerBI.
     
  ![Total AE VS AE relation and severity](https://github.com/user-attachments/assets/9363ae41-628c-4fc9-ba90-3dd652a1148c)
 
