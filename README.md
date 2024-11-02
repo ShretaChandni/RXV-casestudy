@@ -21,21 +21,16 @@ This is a comprehensive analysis of the efficacy and efficiency of the provided 
    - Plot Distributions: Use histograms or density plots to view distribution trends in baseline characteristics, AE counts, and PK/PD values.
 
 3. **Efficacy Analysis**
-      This section evaluates the vaccine's effectiveness in preventing RXV infection.
+    This section evaluates the vaccine's effectiveness in preventing RXV infection.
    - Calculate Relative Risk (RR): Compare the risk of RXV infection in the vaccinated group versus the placebo group.
    - Formula used: `RR = Risk in Vaccine Group / Risk in Placebo Group`
    - Confidence Intervals and Statistical Tests: Calculate confidence intervals (usually 95%) for RR and perform hypothesis tests.
 
 4. **Safety Analysis (Adverse Events)**
     Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
-   - **Incidence Rate of AEs**:
-      - Calculate AE rates for both vaccinated and placebo groups.
-      - Group AEs by severity and type (e.g., mild, moderate, severe).
-   - **Comparative Analysis**:
-      - Use Chi-square or Fisher’s Exact Test to compare AE proportions between groups.
-      - Identify and summarize any significant safety concerns or AE patterns.
+   
    - **Visualizations**:
-      - Stacked bar charts or box plots to depict AE frequencies and severity levels across groups.
+      - Donate chart to depict AE frequencies and severity levels across groups using powerBI.   
 
 5. **Report and Interpretation**
    - Summarize Key Findings: Detail the main findings for each analysis section, emphasizing significant trends, outcomes, and safety concerns.
@@ -58,21 +53,77 @@ Note: The final datasets are available in the repository (SUBJ_NumAE.csv, SUBJ_A
 https://public.tableau.com/authoring/AEcomparisionbetweenPlaceboandTreatmentgrp/Dashboard1/Phase%20III%20RXV%20population%20Dose%20AE%20dashbord#1
 
 ## Step 3: Efficacy Analysis using R
-      * Calculate Relative Risk (RR): Compare the risk of RXV infection in the vaccinated group versus the placebo group.
-      * Used formula: RR = Risk in Vaccine Group/Risk in Placebo Group
+
+   ### Calculate Relative Risk (RR): Compare the risk of RXV infection in the vaccinated group versus the placebo group.
+ 
+![RR calculation](https://github.com/user-attachments/assets/e219c2d8-bd1e-4c17-87ef-1f73d09cfe79)
+
+![Risk in Group](https://github.com/user-attachments/assets/bde5dc45-ed02-4e3d-a783-a6e6de5c819f)
 
 ![Image](https://github.com/user-attachments/assets/c96d128f-beff-48e6-a348-76700505b890)
 
-**Interpretation
-**If RR < 1:** The vaccinated group has a lower risk of RXV infection compared to the placebo group, suggesting the vaccine's effectiveness.
-**If RR > 1:** The vaccinated group has a higher risk, which may imply that the vaccine is not effective.
-**If RR ≈ 1: **There is no significant difference in risk between the two groups.
+**Interpretation of RR value**
 
-### Confidence Intervals and Statistical Tests: Calculate confidence intervals (usually 95%) for RR and perform hypothesis tests.
+**If RR < 1:** The vaccinated group has a lower risk of RXV infection compared to the placebo group, suggesting the vaccine's effectiveness.
+
+**If RR > 1:** The vaccinated group has a higher risk, which may imply that the vaccine is not effective.
+
+**If RR ≈ 1:** There is no significant difference in risk between the two groups.
+
+   ### Confidence Intervals and Statistical Tests: Calculate confidence intervals (usually 95%) for RR and perform hypothesis tests.
 
 ![Image](https://github.com/user-attachments/assets/f3ae32b8-a536-4a50-b5db-e2542b7b8855)
 
-**Interpretation
+**Interpretation of Confidence Interval**
+
 **Risk Ratio:** If the RR is less than 1, it suggests the treatment reduces the risk of infection. An RR greater than 1 suggests increased risk.
+
 **Confidence Interval:** If the CI does not include 1, it suggests a statistically significant difference between groups.
+
 **Chi-squared Test:** If the p-value is less than 0.05, it indicates a significant difference in infection rates between the two groups.
+
+## Step 4: Safety Analysis (Adverse Events)
+
+   Donet chart to depict AE frequencies and severity levels across groups using powerBI.
+    
+ ![Total AE VS AE relation and severity](https://github.com/user-attachments/assets/9363ae41-628c-4fc9-ba90-3dd652a1148c)
+
+## Step 5: Report and Interpretation
+
+**Summarize Key Findings**
+In this section, we present a detailed summary of the main findings from our analyses. Each key analysis is highlighted, focusing on significant trends, outcomes, and safety concerns:
+
+**Efficacy Analysis:** The results indicate a marked reduction in RXV infections among the vaccinated group compared to the placebo group, suggesting the vaccine's effectiveness. The Risk Ratio calculated shows a lower incidence of infections in the vaccinated cohort, with a 95% Confidence Interval not encompassing 1, reinforcing the statistical significance of these findings.
+
+**Safety Analysis:** The frequency of adverse events (AEs) was systematically assessed. While the incidence of AEs was higher in the vaccinated group compared to placebo, the majority were mild and transient. However, some serious AEs warrant further investigation to ensure participant safety and confidence in the vaccine.
+
+**Pharmacokinetics/Pharmacodynamics (PK/PD) Assessment:** The PK/PD curves illustrated a favorable pharmacokinetic profile, indicating effective drug absorption and distribution with a strong correlation to therapeutic effects.
+
+**Visual Summary**
+To facilitate understanding, we present visual representations of the key data:
+
+**Kaplan-Meier Curves:** These curves illustrate the survival function over time, allowing us to visualize the time to event (infection) differences between the vaccinated and placebo groups.
+
+**Adverse Event Frequency Plots:**  These plots display the frequency and severity of reported adverse events across both groups, providing a clear visual representation of safety data.
+
+**PK/PD Curves:** Graphical representations of the drug concentration over time, highlighting the relationship between the pharmacokinetics and the observed pharmacodynamic effects.
+
+**Interpret Results**
+
+**Efficacy:**  The data shows that the vaccine is effective in reducing the incidence of RXV infections, suggesting that vaccination is a viable strategy for disease prevention.
+
+**Safety:**  While the vaccine is generally well-tolerated, the occurrence of some serious adverse events indicates the need for ongoing monitoring and possible adjustments to the vaccination protocol.
+
+**Operational Efficiency:**  The efficient data collection and analysis methodologies employed in this study provide a robust framework for future research, ensuring that potential challenges can be addressed swiftly.
+
+**Recommendation**
+Based on the results, we propose the following next steps:
+
+**Dose Adjustments:** Given the safety profile, we recommend evaluating the potential for dose modifications to optimize efficacy while minimizing adverse events.
+
+**Study Extensions:** Consider extending the study duration to gather long-term efficacy and safety data, ensuring a comprehensive understanding of the vaccine's impact over time.
+
+**Protocol Modifications:** Address identified safety concerns by implementing enhanced monitoring protocols for adverse events and revising inclusion criteria to mitigate risks for vulnerable populations.
+
+By following these recommendations, we can further strengthen the study's findings, improve participant safety, and enhance the overall effectiveness of the vaccination strategy.
+
