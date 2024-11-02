@@ -99,16 +99,15 @@ In this section, I present a detailed summary of the main findings from our anal
 
 **Pharmacokinetics/Pharmacodynamics (PK/PD) Assessment:** The PK/PD curves illustrated a favorable pharmacokinetic profile, indicating effective drug absorption and distribution with a strong correlation to therapeutic effects.
 
-**Visual Summary**
-To facilitate understanding, we present visual representations of the key data:
+### Visual Summary To facilitate understanding, we present visual representations of the key data:
 
 **Kaplan-Meier Curves:** These curves illustrate the survival function over time, allowing us to visualize the time to event (infection) differences between the vaccinated and placebo groups.
 
-**Adverse Event Frequency Plots:**  These plots display the frequency and severity of reported adverse events across both groups, providing a clear visual representation of safety data.
+**Adverse Event Donet chart:**  These plots display the frequency and severity of reported adverse events across both groups, providing a clear visual representation of safety data.
 
-**PK/PD Curves:** Graphical representations of the drug concentration over time, highlighting the relationship between the pharmacokinetics and the observed pharmacodynamic effects.
+**PK/PD Curves in Tablue Dashbord:** Graphical representations of the drug concentration over time, highlighting the relationship between the pharmacokinetics and the observed pharmacodynamic effects.
 
-**Interpret Results**
+### Interpret Results
 
 **Efficacy:**  The data shows that the vaccine is effective in reducing the incidence of RXV infections, suggesting that vaccination is a viable strategy for disease prevention.
 
@@ -116,7 +115,7 @@ To facilitate understanding, we present visual representations of the key data:
 
 **Operational Efficiency:**  The efficient data collection and analysis methodologies employed in this study provide a robust framework for future research, ensuring that potential challenges can be addressed swiftly.
 
-**Recommendation**
+### Recommendation
 Based on the results, we propose the following next steps:
 
 **Dose Adjustments:** Given the safety profile, we recommend evaluating the potential for dose modifications to optimize efficacy while minimizing adverse events.
