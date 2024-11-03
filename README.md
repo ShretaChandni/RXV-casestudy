@@ -15,34 +15,22 @@ This is a comprehensive analysis of the efficacy and efficiency of the provided 
 ## Steps Followed in This Project
 
 1. **Data Preparation and Cleaning using SQL**
-
-![2](https://github.com/user-attachments/assets/22f1e418-e5fa-4d40-a759-9dd6300f5bb4)
-
    - Check Data Quality: Inspect each dataset
    - Standardize Data Formats: Ensure consistent formatting
    - Merge Datasets: Integrate data from relevant domains
 
 2. **Exploratory Data Analysis (EDA) using Tableau and Power BI**
- 
-![3](https://github.com/user-attachments/assets/7c011621-1648-451a-ae4a-9e321a0c279a)
-
    - Descriptive Statistics: Summarize demographics, baseline characteristics, and dosing information.
    - Adverse Event Overview: Explore the incidence of AEs across treatment groups.
    - Plot Distributions: Use histograms or density plots to view distribution trends in baseline characteristics, AE counts, and PK/PD values.
 
 3. **Efficacy Analysis**
-
-![4](https://github.com/user-attachments/assets/95f943d1-1302-4c77-b32c-7728233fb1b6)
-
    This section evaluates the vaccine's effectiveness in preventing RXV infection.
    - Calculate Relative Risk (RR): Compare the risk of RXV infection in the vaccinated group versus the placebo group.
    - Formula used: `RR = Risk in Vaccine Group / Risk in Placebo Group`
    - Confidence Intervals and Statistical Tests: Calculate confidence intervals (usually 95%) for RR and perform hypothesis tests.
 
 4. **Safety Analysis (Adverse Events)**
-
-![5](https://github.com/user-attachments/assets/8cfadc0a-201f-44fb-87dd-ab03632b8075)
-
    Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
    - **Survival Analysis**:
       - Kaplan-Meier curves are used to estimate the survival function from lifetime data.
