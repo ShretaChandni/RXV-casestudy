@@ -1,5 +1,7 @@
 # Phase III, randomized, unblind, placebo-controlled, multicenter study to evaluate the efficacy of a Respiratory X Virus vaccine in infants and toddlers
 
+![1](https://github.com/user-attachments/assets/58a4cf8c-2f55-4500-9da8-8a9408b54b49)
+
 ## Case Study Description
 
 This is a comprehensive analysis of the efficacy and efficiency of the provided respiratory x virus (RXV) vaccine data. Here are key steps that outline the entire process, from initial data preparation to detailed analyses of efficacy and efficiency. The analysis approach is structured around key aspects commonly evaluated in clinical trials, such as:
@@ -13,23 +15,35 @@ This is a comprehensive analysis of the efficacy and efficiency of the provided 
 ## Steps Followed in This Project
 
 1. **Data Preparation and Cleaning using SQL**
+
+![2](https://github.com/user-attachments/assets/22f1e418-e5fa-4d40-a759-9dd6300f5bb4)
+
    - Check Data Quality: Inspect each dataset
    - Standardize Data Formats: Ensure consistent formatting
    - Merge Datasets: Integrate data from relevant domains
 
 2. **Exploratory Data Analysis (EDA) using Tableau and Power BI**
+ 
+![3](https://github.com/user-attachments/assets/7c011621-1648-451a-ae4a-9e321a0c279a)
+
    - Descriptive Statistics: Summarize demographics, baseline characteristics, and dosing information.
    - Adverse Event Overview: Explore the incidence of AEs across treatment groups.
    - Plot Distributions: Use histograms or density plots to view distribution trends in baseline characteristics, AE counts, and PK/PD values.
 
 3. **Efficacy Analysis**
-    This section evaluates the vaccine's effectiveness in preventing RXV infection.
+
+![4](https://github.com/user-attachments/assets/95f943d1-1302-4c77-b32c-7728233fb1b6)
+
+   This section evaluates the vaccine's effectiveness in preventing RXV infection.
    - Calculate Relative Risk (RR): Compare the risk of RXV infection in the vaccinated group versus the placebo group.
    - Formula used: `RR = Risk in Vaccine Group / Risk in Placebo Group`
    - Confidence Intervals and Statistical Tests: Calculate confidence intervals (usually 95%) for RR and perform hypothesis tests.
 
 4. **Safety Analysis (Adverse Events)**
-    Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
+
+![5](https://github.com/user-attachments/assets/8cfadc0a-201f-44fb-87dd-ab03632b8075)
+
+   Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
    - **Survival Analysis**:
       - Kaplan-Meier curves are used to estimate the survival function from lifetime data.
    - **Visualizations**:
@@ -117,6 +131,8 @@ In this section, I present a detailed summary of the main findings from our anal
 
 ### Visual Summary To facilitate understanding, we present visual representations of the key data:
 
+![6](https://github.com/user-attachments/assets/338cf7a4-7958-4231-a384-1f8e345b3657)
+
 **Kaplan-Meier Curves:** These curves illustrate the survival function over time, allowing us to visualize the time to event (infection) differences between the vaccinated and placebo groups.
 
 **Adverse Event Donet chart:**  These plots display the frequency and severity of reported adverse events across both groups, providing a clear visual representation of safety data.
@@ -125,6 +141,8 @@ In this section, I present a detailed summary of the main findings from our anal
 
 ### Interpret Results
 
+![7](https://github.com/user-attachments/assets/1c924f5e-a550-45ea-8d74-c076f3ea50fa)
+
 **Efficacy:**  The data shows that the vaccine is effective in reducing the incidence of RXV infections, suggesting that vaccination is a viable strategy for disease prevention.
 
 **Safety:**  While the vaccine is generally well-tolerated, the occurrence of some serious adverse events indicates the need for ongoing monitoring and possible adjustments to the vaccination protocol.
@@ -132,6 +150,9 @@ In this section, I present a detailed summary of the main findings from our anal
 **Operational Efficiency:**  The efficient data collection and analysis methodologies employed in this study provide a robust framework for future research, ensuring that potential challenges can be addressed swiftly.
 
 ### Recommendation
+
+![8](https://github.com/user-attachments/assets/88a67430-acb5-4ce0-9f44-347133c74621)
+
 Based on the results, we propose the following next steps:
 
 **Dose Adjustments:** Given the safety profile, we recommend evaluating the potential for dose modifications to optimize efficacy while minimizing adverse events.
