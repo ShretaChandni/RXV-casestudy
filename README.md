@@ -30,7 +30,8 @@ This is a comprehensive analysis of the efficacy and efficiency of the provided 
 
 4. **Safety Analysis (Adverse Events)**
     Assess safety by analyzing adverse events' frequency, type, and severity (AEs).
-   
+   - **Survival Analysis**:
+      - Kaplan-Meier curves are used to estimate the survival function from lifetime data.
    - **Visualizations**:
       - Donut chart to depict AE frequencies and severity levels across groups using powerBI.   
 
@@ -86,6 +87,13 @@ https://public.tableau.com/authoring/AEcomparisionbetweenPlaceboandTreatmentgrp/
 
 ## Step 4: Safety Analysis (Adverse Events)
 
+**Survival Analysis**
+
+### Kaplan-Meier Survival Curves
+
+![Kaplan-MeierSurvivalCurves](https://github.com/user-attachments/assets/db382ed8-d748-4743-afdc-0b6b39480971)
+
+### AE frequencies and severity levels
    Donut chart to depict AE frequencies and severity levels across groups using powerBI.
     
  ![Total AE VS AE relation and severity](https://github.com/user-attachments/assets/9363ae41-628c-4fc9-ba90-3dd652a1148c)
