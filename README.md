@@ -100,7 +100,7 @@ https://public.tableau.com/authoring/AEcomparisionbetweenPlaceboandTreatmentgrp/
 
  ![Total AE VS AE relation and severity](https://github.com/user-attachments/assets/b4462788-1709-4bf1-ba9c-ed337d7515a2)
 
-## Pharmacokinetics/Pharmacodynamics (PK/PD) Assessment:##
+## Pharmacokinetics/Pharmacodynamics (PK/PD) Assessment:
    Graphical representations of the drug concentration over time, highlighting the relationship between the pharmacokinetics using R and PK response average for total subjects using powerBI
    
    ![PKPD](https://github.com/user-attachments/assets/5523b0fc-a341-430d-ba59-dd23713bb31a)
